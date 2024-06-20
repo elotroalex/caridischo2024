@@ -1,0 +1,32 @@
+<link rel="stylesheet" type="text/css" href="{{ '/assets/datatables/datatables.css' | absolute_url }}" />
+<script type="text/javascript" src="{{ 'assets/datatables/datatables.min.js' | absolute_url }}"></script>
+
+<table id='{{ include.collection }}-datatable' class='datatable display'></table>
+{% assign data = site.data[include.collection] %}
+{%- capture columns -%}
+  {%- for field in data.first -%}
+    {
+      "title": "{{ field[0] }}",
+      "data": "{{ field[0] }}"
+    }{% unless forloop.last %}, {% endunless %}
+  {%- endfor -%}
+{%- endcapture -%}
+
+<script>
+  $(document).ready(function () {
+    $('#{{ include.collection }}-datatable').DataTable({
+      data: {{ data | jsonify }},
+      columns: [{{ columns }}],
+      scrollY: 600,
+      scrollX: 600,
+      paging: false,
+      fixedHeader: false,
+      searching: false,
+      ordering:  false,
+      dom: 'Bfrtip',
+      buttons: [
+        'csvHtml5'
+      ]
+    });
+  });
+</script>

@@ -1,0 +1,331 @@
+/* 
+########    ###     ######  ######## ########  ######  
+##         ## ##   ##    ## ##          ##    ##    ## 
+##        ##   ##  ##       ##          ##    ##       
+######   ##     ## ##       ######      ##     ######  
+##       ######### ##       ##          ##          ## 
+##       ##     ## ##    ## ##          ##    ##    ## 
+##       ##     ##  ######  ########    ##     ######                                             
+*/
+
+// Import Bootstrap
+
+@import "bootstrap";
+
+// General
+
+* {
+  margin: 0;
+}
+
+html,
+body {
+  height: 100%;
+  font-family: $body-font;
+}
+
+main {
+  min-height: calc(100vh - 120px);
+  padding: 2rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $heading-font;
+}
+
+// Links
+
+a {
+  color: $medium-background;
+}
+
+a:hover {
+  color: $light-text;
+  text-decoration: none;
+}
+
+a.action-button {
+  background-color: $medium-background;
+  color: $light-link-hover;
+  margin: 1rem;
+}
+
+a.action-button:hover {
+  background-color: $dark-background;
+  color: $light-link;
+}
+
+// Banner
+
+.banner {
+  background-color: $dark-background;
+  color: $light-text;
+  padding: 10px 2rem;
+  font-family: $heading-font;
+  font-size: 1.2rem;
+}
+
+.navbar-brand {
+  font-size: 1.4rem;
+}
+
+.subtitle {
+  padding-bottom: 0.3125rem;
+}
+
+.banner a {
+  color: $light-link;
+}
+
+.banner a:hover {
+  color: $light-link-hover;
+}
+
+.banner .dropdown-item {
+  color: $dark-background;
+}
+
+.banner .dropdown-item:hover {
+  color: $light-link;
+}
+
+// Item Pages (iiif + metadata)
+
+.pagination {
+  .pagination-link {
+    padding: 1rem;
+    a {
+      font-family: $heading-font;
+      font-weight: bold;
+      font-size: 1.2em;
+      text-decoration: none !important;
+    }
+  }
+}
+
+.item-metadata {
+  padding: 3rem;
+}
+
+.metadata-block {
+  font-family: $body-font;
+  max-width: 100%;
+  padding: 1rem;
+  font-size: 1.2rem;
+
+  dt {
+    color: $muted-text;
+    font-size: 1rem;
+    font-family: $heading-font;
+  }
+}
+
+// Search Box
+
+.search-block {
+  #search {
+    border-style: groove;
+    border-width: 2px;
+
+    &:focus {
+      box-shadow: none;
+      border-color: $medium-background;
+    }
+  }
+  #results {
+    margin: 0;
+    .result {
+      padding: 1em;
+      a {
+        color: $dark-text;
+        text-decoration: none;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        flex-wrap: nowrap;
+        img {
+          float: left;
+        }
+        p {
+          margin: 0 !important;
+          padding: 0;
+          .title {
+            color: $medium-background;
+          }
+        }
+      }
+      &:hover {
+        background-color: $light-background;
+      }
+    }
+  }
+}
+
+.sq-thumb-sm {
+  object-fit: cover;
+  object-position: 50% 0%;
+  width: 80px;
+  height: 80px;
+}
+
+// Sticky footer
+
+#wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  /* margin: 0 auto -6vh; */
+}
+
+footer {
+  height: 10vh;
+  padding: 0.5rem;
+}
+
+// Inline Images
+
+.inline-image-reference {
+  background-color: $light-background;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  display: inline-block;
+  padding: 1em;
+  max-width: 90%;
+  img {
+    max-width: 100%;
+    max-height: 80vh;
+  }
+
+  .image-caption {
+    margin: 1em 0 1em 0;
+    font-family: $heading-font;
+  }
+}
+
+// Wax Parallax
+
+.wax-parallax.inline-parallax {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  padding: 0px;
+}
+
+.wax-parallax {
+  .wax-inline-container {
+    color: $light-background;
+  }
+
+  .parallax-image {
+    background-color: $light-background;
+    width: 100%;
+    height: $parallax-height;
+    max-height: 55vh;
+    margin: 0;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  .parallax-caption {
+    margin: 0 auto;
+    width: 100%;
+    background-color: $medium-background;
+    padding: 1rem;
+    a {
+      color: $light-background;
+      font-weight: 700;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+      color: $dark-background;
+    }
+  }
+}
+
+.navbar-toggler-icon {
+  color: #d49a6a;
+  font-size: 1.8rem;
+  height: 1.2em;
+}
+
+// WAX GALLERY
+
+.wax-gallery-container {
+  padding-bottom: 2rem;
+}
+
+
+.image-viewer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.gallery-thumb {
+  height: 30vh;
+  object-fit: cover;
+  object-position: 50% 0%;
+}
+
+.item-view {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.card-title {
+  font-size: 1.2rem;
+}
+
+p.card-text {
+  color: #444444;
+}
+
+/*
+    FACETS BUTTONS
+    (Copy the CSS below if you're importing into your own theme)
+*/
+
+input[type="checkbox"] {
+  margin-right: 4px;
+}
+
+.facet-card {
+  border: 0px;
+}
+
+.facet-header {
+  border: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.facet-bn {
+  text-transform: capitalize;
+}
+
+.active {
+  border: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+legend {
+  font-size: 1rem;
+  display: inline;
+  margin-bottom: 0;
+}
+
+.facets-chevron-bottom:before {
+  content: "\25BC";
+}
+
+.facets-chevron-top:before {
+  content: "\25B2";
+}
+
+.displayregion {
+  height: 132px;
+}
+
+
