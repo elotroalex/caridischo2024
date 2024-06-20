@@ -7,4 +7,4 @@ permalink: /collection/
 
 This site's collection can be browsed below.
 
-{% include gallery.html facet_by='section' collection='caridischo' num_column=4 %}
+{% include gallery.html facet_by='section|language*' collection='caridischo' num_column=4 %}
