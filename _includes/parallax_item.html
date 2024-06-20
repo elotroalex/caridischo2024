@@ -1,10 +1,5 @@
-{% if include.image %} {% assign image = include.image %} {% else %} {% assign item = site[include.collection] | where: 'pid', include.pid | first %} {% assign image = item.full %} {% endif %} {%- capture style -%} background-image: url('{{ image | absolute_url }}'); background-position: 0% {{ include.y | default: '15%' }}; {% if include.height %} height: {{ include.height }} !important; {% endif %} {%- endcapture -%}
+{% if include.image %} {% assign image = include.image %} {% else %} {% assign item = site[include.collection] | where: 'pid', include.pid | first %} {% assign image = item.full %} {% endif %}
 
-<div class="wax-parallax full-width container-fluid {% if page.banner %}top-banner{% else %}inline-parallax{% endif %}">
-  <div class="parallax-image" style="{{ style | strip }}"></div>
-  {% if item.label %}
-  <div class="parallax-caption">
-    <div class="wax-inline-container">Above: <a href="{{ item.url | absolute_url }}">{{ item.label }}</a></div>
-  </div>
-  {% endif %}
+<div class="border-bottom wax-parallax full-width">
+  <div class="parallax-image mt-0" style="background-image: url('{{ image | absolute_url }}'); opacity:.33; background-repeat: no-repeat; background-size: auto;background-position: 0% 25%;"></div>
 </div>
