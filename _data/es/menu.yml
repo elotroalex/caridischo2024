@@ -5,25 +5,20 @@
 # (where it goes). An item can optionally have a dropdown
 # submenu via `sub`.
 
-- label: "Navegar"
-  sub:
-    - label: "Colecciones"
-      link: "/collections/"
-    - label: "Mapas & Visualizaciones"
-      link: "/visualizations/"
-    - label: "Publicaciones"
-      link: "/publications/"
-    - label: "Referencia"
-      link: "/reference/"
-    - label: "Gabinete de maravillas"
-      link: "/wonders/"
-- label: "Busqueda"
-  link: "/search/"
+# --------------------------------------------------------------
+# SITE MENU SETTINGS
+# --------------------------------------------------------------
+
 - label: "Acerca de"
+  link: "/about/"
   sub:
+    - label: "Preguntas frecuentes"
+      link: "/faq/"
     - label: "Fuentes"
       link: "/sources/"
     - label: "Creditos"
       link: "/credits/"
-    - label: "Preguntas frecuentes"
-      link: "/faq/"
+- label: "Navegar"
+  link: "/collection/"
+- label: "Busqueda"
+  link: "/search/"
