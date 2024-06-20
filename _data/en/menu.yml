@@ -13,7 +13,7 @@
 - label: "Browse"
   sub:
     - label: "Browse all"
-      link: "/collection/"
+      link: "/all/"
     - label: "Collections & Curations"
       link: "/collections/"
     - label: "Maps & Visualizations"

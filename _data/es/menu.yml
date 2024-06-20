@@ -20,6 +20,8 @@
       link: "/credits/"
 - label: "Navegar"
   sub:
+    - label: "Explorar todo"
+      link: "/all/"
     - label: "Colecciones"
       link: "/collections/"
     - label: "Mapas & Visualizaciones"

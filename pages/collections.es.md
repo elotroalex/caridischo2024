@@ -14,4 +14,4 @@ Los artefactos resultantes de toda esta creación de archivos, que se muestran a
 
 ---
 
-{% include gallery.html collection='caridischo' field='section' value='Collections & Curations' facet_by='genre|language*|access' num_column=4 %}
+{% include gallery.html collection='caridischo' field='section' value='Collections & Curations' facet_by='genre|language*' num_column=4 %}

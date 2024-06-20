@@ -12,4 +12,4 @@ This directory is itself a reference work, and so are the bibliographies and syl
 
 ---
 
-{% include gallery.html collection='caridischo' field='section' value='Cabinet of Wonders' facet_by='genre|language*|access' num_column=4 %}
+{% include gallery.html collection='caridischo' field='section' value='Cabinet of Wonders' facet_by='genre|language*' num_column=4 %}

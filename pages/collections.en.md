@@ -14,4 +14,4 @@ The resulting artifacts of all of this archive-making, sampled below, lie somewh
 
 ---
 
-{% include gallery.html collection='caridischo' field='section' value='Collections & Curations' facet_by='genre|language*|access' num_column=4 %}
+{% include gallery.html collection='caridischo' field='section' value='Collections & Curations' facet_by='genre|language*' num_column=4 %}

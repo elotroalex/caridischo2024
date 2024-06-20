@@ -12,4 +12,4 @@ Y sin embargo ... estas máquinas de guerra, estos ojos, pueden y han sido utili
 
 ---
 
-{% include gallery.html collection='caridischo' field='section' value='Maps & Visualizations' facet_by='genre|language*|access' num_column=4 %}
+{% include gallery.html collection='caridischo' field='section' value='Maps & Visualizations' facet_by='genre|language*' num_column=4 %}

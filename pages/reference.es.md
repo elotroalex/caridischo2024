@@ -12,4 +12,4 @@ Este directorio es en sí mismo un trabajo de referencia, al igual que las bibli
 
 ---
 
-{% include gallery.html collection='caridischo' field='section' value='Cabinet of Wonders' facet_by='genre|language*|access' num_column=4 %}
+{% include gallery.html collection='caridischo' field='section' value='Cabinet of Wonders' facet_by='genre|language*' num_column=4 %}

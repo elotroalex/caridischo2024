@@ -14,4 +14,4 @@ No wonder then that we end up with constructs that defy easy classification. A D
 
 In no particular order...
 
-{% include gallery.html collection='caridischo' field='section' value='Cabinet of Wonders' facet_by='genre|language*|access' num_column=4 %}
+{% include gallery.html collection='caridischo' field='section' value='Cabinet of Wonders' facet_by='genre|language*' num_column=4 %}

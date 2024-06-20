@@ -14,4 +14,4 @@ No es de extrañar entonces que terminemos con constructos que desafían la clas
 
 En ningún orden particular...
 
-{% include gallery.html collection='caridischo' field='section' value='Cabinet of Wonders' facet_by='genre|language*|access' num_column=4 %}
+{% include gallery.html collection='caridischo' field='section' value='Cabinet of Wonders' facet_by='genre|language*' num_column=4 %}

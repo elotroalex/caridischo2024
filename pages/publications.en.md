@@ -14,4 +14,4 @@ Included in this list is _Arc_, the beloved art magazine that is no longer activ
 
 ---
 
-{% include gallery.html collection='caridischo' field='section' value='Periodicals & Blogs' facet_by='genre|language*|access' num_column=4 %}
+{% include gallery.html collection='caridischo' field='section' value='Periodicals & Blogs' facet_by='genre|language*' num_column=4 %}
