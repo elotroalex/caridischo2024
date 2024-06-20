@@ -179,12 +179,18 @@ a.action-button:hover {
   min-height: 100%;
   height: auto !important;
   height: 100%;
-  /* margin: 0 auto -6vh; */
 }
 
 footer {
-  height: 10vh;
   padding: 0.5rem;
+  background-color: $dark-background;
+  color: $light-text;
+  padding: 10px 2rem;
+  font-family: $heading-font;
+}
+
+footer a {
+  color: $light-link;
 }
 
 // Inline Images

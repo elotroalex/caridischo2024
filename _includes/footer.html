@@ -1,11 +1,11 @@
-<footer class="banner text-center">
+<footer class="text-center">
   <div class="container p-2">
     <div class="row">
       <div class='col-lg-6'>
         <p class='footer-links'>
           <!-- jekyll-polyglot will process ferh= into href= through the static_href liquid block tag without relativizing the url; useful for making language navigation switchers  -->
           {% for language in site.languages %}
-        <a {% if language == site.active_lang %}style="font-size: 1.1rem;"{% endif %} {% static_href %}href="{% if language == site.default_lang %}{{ '' | absolute_url}}{{page.url}}{% else %}{{'' | absolute_url}}/{{ language }}{{page.url}}{% endif %}"{% endstatic_href %} >
+        <a {% if language == site.active_lang %}style="font-size: 1.2rem;"{% endif %} {% static_href %}href="{% if language == site.default_lang %}{{ '' | absolute_url}}{{page.url}}{% else %}{{'' | absolute_url}}/{{ language }}{{page.url}}{% endif %}"{% endstatic_href %} >
           {% for i in site.data.languages %}
           {% if i.iso == language %} 
             {% assign language_name = i.description %}
