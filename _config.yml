@@ -9,6 +9,11 @@ author:
   email: alex.gil@yale.edu
 description: A Directory of Caribbean Digital Scholarship.
 baseurl: "/caridischo"
+year: "2024"
+
+# ---------------------------------------------------------------
+# COLLECTION SETTINGS
+# ---------------------------------------------------------------
 
 collections:
   exhibits:
