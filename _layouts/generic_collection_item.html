@@ -18,6 +18,13 @@ layout: default
     <!-- The block below controls the item metadata table -->
 
     <h1 alt="{{ page.label }}" class="item-label"><a href="{{page.link}}" target="_blank">{{ page.label }}</a></h1>
-    <div class="row">{% if layout.meta.size %} {% assign metadata = layout.meta %} {% elsif page.meta.size %} {% assign metadata = page.meta %} {% endif %} {% if metadata.size %} {% include item_metadata.html meta=metadata %} {% endif %}</div>
+    {% for lang in site.languages %} {% if lang == site.active_lang %} {% capture translated_title %}label_{{lang}}{% endcapture %}
+    <h4 class="item-translated-label">{% if page[translated_title] %}({% endif %}{{ page[translated_title] }}{% if page[translated_title] %}){% endif %}</h4>
+    {% endif %} {% endfor %} {% if page.access == 'vendor' %}
+    <p class="item-access">{{site.data[site.active_lang]["general"]["paywall"]}}</p>
+    {% elsif page.access == 'private' %}
+    <p class="item-access">{{site.data[site.active_lang]["general"]["private"]}}</p>
+    {% endif %}
+    <div class="row">{% if layout.meta.size %} {% assign metadata = layout.meta %} {% elsif page.meta.size %} {% assign metadata = page.meta %} {% endif %} {% if metadata.size %} {% include item_metadata_i18n.html meta=metadata %} {% endif %}</div>
   </div>
 </div>
