@@ -1,22 +1,10 @@
-title: Facets
-subtitle: A Jekyll theme for Wax sites
+title: CariDiScho
+subtitle: 2024 Census
 author:
-  name: Wax user
-  email: your-email@domain.com
-description:
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/wax-facets"
-
-# --------------------------------------------------------------
-# COLLECTION SETTINGS
-# --------------------------------------------------------------
-# Wax leverages Jekyll collections for much of its
-# functionality, therefor some of the keys below are from
-# Jekyll while others are Wax-specific.
-# For more info, refer to:
-# ~> https://jekyllrb.com/docs/collections/
+  name: Alex Gil
+  email: alex.gil@yale.edu
+description: A Directory of Caribbean Digital Scholarship.
+baseurl: "/caridischo"
 
 collections:
   exhibits:
