@@ -44,17 +44,33 @@ search:
 # --------------------------------------------------------------
 
 menu:
-  - label: "Exhibits"
-    sub:
-      - label: "Parallax Images"
-        link: "/exhibits/parallax/"
-      - label: "Image References"
-        link: "/exhibits/references/"
-      - label: "Subset Collection"
-        link: "/exhibits/subset/"
   - label: "Browse"
     link: "/collection/"
   - label: "Search"
     link: "/search/"
   - label: "About"
     link: "/about/"
+    sub:
+      - label: "Sources"
+        link: "/sources/"
+      - label: "FAQ"
+        link: "/faq/"
+      - label: "Credits"
+        link: "/credits/"
+
+# --------------------------------------------------------------
+# POLYGLOT I18N LOCALIZATION
+# https://github.com/untra/polyglot
+# --------------------------------------------------------------
+#
+
+plugins:
+  - jekyll-polyglot
+
+languages: ["en", "es"]
+default_lang: "en"
+exclude_from_localization: ["img", "assets"]
+parallel_localization: true
+
+sass:
+  sourcemap: never

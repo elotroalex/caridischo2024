@@ -1,0 +1,22 @@
+# --------------------------------------------------------------
+# SITE FOOTER SETTINGS
+# --------------------------------------------------------------
+#
+
+built_with: "Sitio web armado con"
+lang_select: "Lenguaje"
+links_title: "Enlaces"
+subtitle: "Directorio de humanidades digitales caribeñas"
+
+links: 
+  - label: "GitHub"
+    link: "https://github.com/elotroalex/caridischo"
+  - label: "Contacto"
+    link: "mailto:agil@columbia.edu"  
+  
+logos:
+  - img: "/img/wax-logo.png"
+  - img: "/img/cu-logo.jpeg"
+    link: "https://library.columbia.edu"
+
+

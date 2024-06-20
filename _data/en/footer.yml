@@ -1,0 +1,20 @@
+# --------------------------------------------------------------
+# SITE FOOTER SETTINGS
+# --------------------------------------------------------------
+#
+
+built_with: "Site built with"
+lang_select: "Select a language"
+links_title: "Other links"
+subtitle: "A Directory of Caribbean Digital Scholarship"
+
+links: 
+  - label: "GitHub"
+    link: "https://github.com/elotroalex/caridischo"
+  - label: "Contact"
+    link: "mailto:agil@columbia.edu"  
+  
+logos:
+  - img: "/img/wax-logo.png"
+  - img: "/img/cu-logo.jpeg"
+    link: "https://library.columbia.edu"

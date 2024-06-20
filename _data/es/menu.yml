@@ -1,0 +1,29 @@
+# --------------------------------------------------------------
+# SITE MENU SETTINGS
+# --------------------------------------------------------------
+# Each menu item needs a `label` (whats shown), and a `link`
+# (where it goes). An item can optionally have a dropdown
+# submenu via `sub`.
+
+- label: "Navegar"
+  sub:
+    - label: "Colecciones"
+      link: "/collections/"
+    - label: "Mapas & Visualizaciones"
+      link: "/visualizations/"
+    - label: "Publicaciones"
+      link: "/publications/"
+    - label: "Referencia"
+      link: "/reference/"
+    - label: "Gabinete de maravillas"
+      link: "/wonders/"
+- label: "Busqueda"
+  link: "/search/"
+- label: "Acerca de"
+  sub:
+    - label: "Fuentes"
+      link: "/sources/"
+    - label: "Creditos"
+      link: "/credits/"
+    - label: "Preguntas frecuentes"
+      link: "/faq/"
