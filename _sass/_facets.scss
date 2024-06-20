@@ -284,12 +284,14 @@ footer a {
   border-bottom: 1px solid rgba(0, 0, 0, 0.125);
 }
 
-.card-title {
-  font-size: 1.2rem;
+h3.card-title {
+  font-size: 1rem;
+  margin-bottom: 10px;
 }
 
 p.card-text {
   color: #444444;
+  text-align: right;
 }
 
 /*
