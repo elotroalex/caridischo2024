@@ -39,6 +39,7 @@ search:
         fields: # the metadata fields to index
           - genre
           - label
+          - claimed_genre
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS

@@ -23,7 +23,7 @@ function displayResult(item, fields, url) {
   var label = item.label || 'Untitled';
   var link  = item.permalink;
   var thumb = getThumbnail(item, url);
-  var meta = `<b>collection</b>: ${item.collection} |<b>artist</b>:  ${item.artist}`;
+  var meta = `${item.claimed_genre}`;
   // note: href below not working on localhost
   return `<div class="result"><a href="..${link}">${thumb}<p><span class="title">${item.label}</span><br><span class="meta">${meta}</span></p></a></div>`;
 }
