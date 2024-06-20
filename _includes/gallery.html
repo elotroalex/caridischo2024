@@ -1,7 +1,40 @@
-{% comment %}- ASSIGN SEPARATOR -{% endcomment%} {% assign separator = "|" %} {% comment %}- SET NUMBER OF COLUMNS -{% endcomment%} {% if include.num_column %} {% assign min_column_width = 12 | divided_by: include.num_column %} {% else %} {% assign min_column_width = 6 %} {% endif %} {% comment %}- SUBSET PARSING -{% endcomment%} {% if include.field and include.value %} {% assign collection = site[include.collection] | where: include.field, include.value | sort: 'order' %} {% else %} {% assign collection = site[include.collection] %} {% endif %} {% comment %}- END SUBSET PARSING -{% endcomment%} {% comment %} :::: FACETS :::: {% endcomment%} {% if include.facet_by %}
+{% comment %}- ASSIGN SEPARATOR -{% endcomment%} 
+{% assign separator = "|" %} 
+
+{% comment %}- SET NUMBER OF COLUMNS -{% endcomment%} 
+{% if include.num_column %} {% assign min_column_width = 12 | divided_by: include.num_column %} {% else %} {% assign min_column_width = 6 %} {% endif %} 
+
+{% comment %}- SUBSET PARSING -{% endcomment%} 
+{% if include.field and include.value %} {% assign collection = site[include.collection] | where: include.field, include.value | sort: 'order' %} {% else %} {% assign collection = site[include.collection] %} {% endif %} 
+
+{% comment %} :::: FACETS :::: {% endcomment%} 
+{% if include.facet_by %}
+
 <form class="row" id="facets">
-  {% assign facet_list = include.facet_by | split: "|" %} {% for facet in facet_list %} {% comment %}- MULTI-VALUE FACETS -{% endcomment%} {% if facet contains "*" %} {% assign facet_name = facet | remove: "*" %} {% assign original_options = collection | map: facet_name | compact | uniq | sort_natural %} {% comment%}Create Temporary Array of Individuated Facet Values{% endcomment %} {% assign temp_facet_values = "" %} {% for option in original_options %} {% if option contains separator %} {% assign split_values = {{option}} | split: separator %} {% for split_value in split_values %} {% capture temp_facet_values %}{{ temp_facet_values | append: split_value }}|{% endcapture %} {% endfor %} {% else %} {% capture temp_facet_values %}{{ temp_facet_values | append: option}}|{% endcapture %} {% endif %} {% endfor %} {% assign facet_values = temp_facet_values | split: "|" | uniq | sort_natural %} {% else %} {% assign facet_values = collection | map: facet | compact | uniq | sort_natural %} {%
-  assign facet_name = facet %} {% endif %}
+  {% assign facet_list = include.facet_by | split: "|" %} {% for facet in facet_list %} 
+  
+  {% comment %}- MULTI-VALUE FACETS -{% endcomment%} 
+  {% if facet contains "*" %} 
+    {% assign facet_name = facet | remove: "*" %} {% assign original_options = collection | map: facet_name | compact | uniq | sort_natural %}
+
+    {% comment%}Create Temporary Array of Individuated Facet Values{% endcomment %} 
+    {% assign temp_facet_values = "" %} 
+    {% for option in original_options %} 
+      {% if option contains separator %} 
+        {% assign split_values = {{option}} | split: separator %} 
+        {% for split_value in split_values %} 
+          {% capture temp_facet_values %}{{ temp_facet_values | append: split_value }}|{% endcapture %} 
+        {% endfor %} 
+      {% else %} 
+        {% capture temp_facet_values %}{{ temp_facet_values | append: option}}|{% endcapture %} 
+      {% endif %} 
+    {% endfor %}  
+    {% assign facet_values = temp_facet_values | remove: " " | split: "|" | uniq | sort_natural %} 
+
+  {% else %} 
+    {% assign facet_values = collection | map: facet | compact | uniq | sort_natural %} 
+    {% assign facet_name = facet %} 
+  {% endif %}
 
   <fieldset id="{{ facet_name | slugify }}-set" class="card m-1 facet-card">
     <div class="facet-header card-header">
@@ -12,7 +45,7 @@
     <div class="collapse" id="{{ facet_name | slugify }}-collapse">
       {% comment %}Create Card with facet values{% endcomment %}
       <div class="card-body">
-        {% for value in facet_values %}
+        {% for value in facet_values | uniq %}
         <div class="facet-item">
           <input id="{{value | slugify}}" class="{{facet | slugify}}" type="checkbox" name="{{value}}" value="{{value}}" />
           <label for="{{value}}">{{value}}</label>
