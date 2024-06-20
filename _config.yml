@@ -20,7 +20,7 @@ collections:
     output: true
   caridischo: # name of collection
     output: true # makes sure pages are output as html files
-    layout: "caridischo_item" # the layout for the pages to use
+    layout: "item" # the layout for the pages to use
     metadata:
       source: "caridischo.csv" # path to the metadata file within `_data`
     images:
@@ -37,12 +37,8 @@ search:
       caridischo:
         content: true # whether or not to index page content
         fields: # the metadata fields to index
-          - artist
-          - location
+          - genre
           - label
-          - _date
-          - object_type
-          - current_location
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
