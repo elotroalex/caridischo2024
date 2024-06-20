@@ -3,9 +3,9 @@ layout: none
 ---
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/qatar.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/caridischo.json",
   "@type": "sc:Collection",
-  "label": "qatar",
+  "label": "caridischo",
   "manifests": [
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj1/manifest.json",

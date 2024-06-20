@@ -6,11 +6,11 @@ label: Excerpt from 'The Book of Horses' (فَرَس نامه [رسالة في �
 _date: 1628–1658
 tags: text|fauna
 object_type: manuscript
-current_location: Qatar National Library
+current_location: caridischo National Library
 source: https://www.wdl.org/en/item/10668/
-order: '11'
-layout: qatar_item
-collection: qatar
+order: "11"
+layout: caridischo_item
+collection: caridischo
 thumbnail: "/img/derivatives/iiif/images/obj12_00/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/obj12/manifest.json"
 full: "/img/derivatives/iiif/images/obj12_00/full/1140,/0/default.jpg"
