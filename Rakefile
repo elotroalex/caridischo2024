@@ -29,6 +29,7 @@ task :prod do
   user = 'caribbea'
   server = 'caribbeandigitalnyc.net'
   path = '/home/caribbea/public_html/caridischo'
+  sh "chmod -R 755 _site/img/derivatives/"
   sh "rsync -r -p -e \"ssh -p22\" _site/. #{user}@#{server}:#{path}"
   puts "\n"
   puts 'Bam! Your website is now published!'
