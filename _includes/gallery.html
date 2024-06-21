@@ -11,7 +11,8 @@
 {% if include.facet_by %}
 
 <form class="row" id="facets">
-  {% assign facet_list = include.facet_by | split: "|" %} {% for facet in facet_list %} 
+  {% assign facet_list = include.facet_by | split: "|" %} 
+  {% for facet in facet_list %} 
   
   {% comment %}- MULTI-VALUE FACETS -{% endcomment%} 
   {% if facet contains "*" %} 
@@ -36,10 +37,15 @@
     {% assign facet_name = facet %} 
   {% endif %}
 
+
+{% comment %}Create Facet Menus{% endcomment %}
   <fieldset id="{{ facet_name | slugify }}-set" class="card m-1 facet-card">
     <div class="facet-header card-header">
       <a class="facet-bn" data-toggle="collapse" href="#{{ facet_name | slugify }}-collapse" role="button" aria-expanded="false" aria-controls="{{ facet_name | slugify }}-collapse">
-        <legend>{{ facet_name | replace: "_", " " }}<span aria-hidden="true" class="facets-chevron facets-chevron-bottom float-right ml-2"></span></legend>
+
+        {% comment %}Translate Facet Name{% endcomment %}
+
+        <legend>{{site.data["facets"][facet_name]}}<span aria-hidden="true" class="facets-chevron facets-chevron-bottom float-right ml-2"></span></legend>
       </a>
     </div>
     <div class="collapse" id="{{ facet_name | slugify }}-collapse">
