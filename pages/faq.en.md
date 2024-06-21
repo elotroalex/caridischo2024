@@ -21,11 +21,11 @@ This directory is sourced from a [group of our colleagues]({{ '/credits/' | abso
 
 The website for this directory was built as a static site by design. It is meant to be a snapshot, a census, not a platform. We decided to do this because of [our gravitation towards minimal computing practices](https://web.archive.org/web/20200326054116/https://des4div.library.northeastern.edu/design-for-diversity-the-case-of-ed-alex-gil/), but also because of the history of project directories in the larger world of digital humanities. Simply put, we're dealing here with Walter Benjamin's angel of history: nothing but disaster has befallen most previous attempts at building these comprehensive, exhaustive, always-open-for-business databases of projects.
 
-Do not despair, though. We are keeping [an active data sheet on Google docs](https://docs.google.com/spreadsheets/d/1PfgI0GrQR60gwRFVIZmZtWae9JyAMpZNFOZRe5xsMsg/edit#gid=1461016146) open and available to everyone. You can share your project there! A new column was added that asks for the year a new entry was added. Make sure to use it. We've decided to refresh the pretty web version of the directory this year, but we're not commiting to doing it every year. The data sheet above can always serve as the on-time bibliography if we stop.
+Do not despair, though. You can <a href="https://forms.gle/Y6zH1M2qHc7oLfv77" target="_blank" role="button">suggest a project here</a> for consideration in our next census. Although we've decided to refresh the pretty web version of the directory in {{site.year}}, we're not commiting to doing it every year. Even if we don't refresh the site in the next couple of years, though, your data will be stored in a Google Sheet for new projects that we will make available to the public. We also make [the code for the site](https://github.com/elotroalex/caridischo2024) available to the public, so that you can build your own version of the directory. But we probably will refresh. We like to keep things fresh.
 
 ### I found a serious error in your data. Who do I talk to?
 
-If the error is truly serious, talk to Alex Gil. He takes full responsibility for the contents of this site and its mistakes and misfortunes. Examples of serious errors include misattributions in the "creator" or in the "open access" category.
+To report an error use our [error report Google form](https://forms.gle/7VwQcbgiGiBMqZmv9). If the error is truly serious, talk to Alex Gil. He takes full responsibility for the contents of this site and its mistakes and misfortunes. Examples of serious errors include misattributions in the "creator" or in the "open access" category.
 
 ### What goes good with Dominican rum?
 

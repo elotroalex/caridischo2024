@@ -21,11 +21,11 @@ Este directorio fur recolectado por un [grupo de nuestros colegas]({{'/credits/'
 
 El sitio web para este directorio fue construido como un sitio estático a proposito. Está destinado a ser una instantánea, un censo, no una plataforma. Decidimos hacer esto debido a [nuestra gravitación hacia prácticas informáticas mínimas](https://web.archive.org/web/20200326054116/https://des4div.library.northeastern.edu/design-for-diversity-the-case-of-ed-alex-gil/), sino también por la historia de los directorios de proyectos en el mundo más amplio de las humanidades digitales. En pocas palabras, estamos tratando aquí con el ángel de la historia de Walter Benjamin: la mayoría de los intentos anteriores de crear estas bases de datos de proyectos integrales, exhaustivas y siempre abiertas no han sido más que desastres.
 
-Sin embargo, no se desespere. Mantenemos [una hoja de datos activa en los documentos de Google](https://docs.google.com/spreadsheets/d/1PfgI0GrQR60gwRFVIZmZtWae9JyAMpZNFOZRe5xsMsg/edit#gid=1461016146) abierta y disponible para todos. ¡Puedes compartir tu proyecto allí! Se agregó una nueva columna que pregunta por el año en que se agregó una nueva entrada. Asegúrate de usarla. Hemos decidido actualizar la versión web bonita del directorio este año, pero no nos comprometemos a hacerlo todos los años. La hoja de datos anterior siempre puede servir como bibliografía puntual si nos detenemos.
+Pero no te desesperes. Puedes <a href="https://forms.gle/Y6zH1M2qHc7oLfv77" target="_blank" role="button">sugerir un proyecto aquí</a> para ser considerado en nuestro próximo censo. Aunque hemos decidido actualizar la bonita versión web del directorio en el {{site.year}}, no nos comprometemos a hacerlo todos los años. De todos modos, incluso si no actualizamos el sitio en los próximos años, tus datos se almacenarán en una hoja de Google para nuevos proyectos que pondremos a disposición del público. También ponemos a disposición del público [el código del sitio](https://github.com/elotroalex/caridischo2024), para que puedas crear tu propia versión del directorio.... Probablemente lo actualizaremos. Nos gusta mantener las cosas frescas.
 
-### Encontré un error grave en tus datos. ¿Con quien hablo?
+### Encontré un error en tus datos. ¿Con quien hablo?
 
-Si el error es realmente grave, habla con Alex Gil. El asume toda la responsabilidad por el contenido de este sitio y sus errores y desgracias. Los ejemplos de errores graves incluyen atribuciones erróneas en la categoría "creador" o en la categoría "acceso abierto".
+Para reportar errores, usa nuestro [formulario de sugerencias](https://forms.gle/7VwQcbgiGiBMqZmv9). Si el error es realmente grave, habla con Alex Gil. El asume toda la responsabilidad por el contenido de este sitio y sus errores y desgracias. Los ejemplos de errores graves incluyen atribuciones erróneas en la categoría "creador" o en la categoría "acceso abierto".
 
 ### ¿Qué va con el ron dominicano?
 
