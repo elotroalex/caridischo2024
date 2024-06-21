@@ -1,3 +1,7 @@
+---
+test: test
+---
+
 // Methods and jQuery UI for Wax search box
 function excerptedString(str) {
   str = str || ''; // handle null > string
@@ -43,8 +47,15 @@ function startSearchUI(fields, indexFile, url) {
       var query       = $(this).val();
       var results     = index.search(query, { boolean: 'AND', expand: true });
 
+
+
       results_div.empty();
-      results_div.append(`<p class="results-info">Displaying ${results.length} results</p>`);
+      if (results_div.hasClass('es-results')) {
+        results_div.append(`<p class="results-info">Mostrando ${results.length} resultados</p>`)
+      } else if (results_div.hasClass('en-results')) {
+        results_div.append(`<p class="results-info">Displaying ${results.length} results</p>`)
+      };
+  
 
       for (var r in results) {
         var ref    = results[r].ref;
