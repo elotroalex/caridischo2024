@@ -11,7 +11,7 @@ Our first data set was compiled during one of the out-of-synch events that defin
 
 In 2021, we received more entries. Since we know most---if not all---of the contributors to the sheet, perhaps it's more appropriate to call our method of data-gathering leaguesourcing.Akin to a census, this directory therefore is a snapshot of our record up to the end of 2021.
 
-We are certainly not the first to compile a similar list. Here are some other useful attempts, that in turn served as sources for CariDiScho:
+We are certainly not the first to compile a similar list. Here are some other useful compilations, that in turn served as sources for CariDiScho:
 
 - "[Black Digital Humanities Projects & Resources](https://docs.google.com/document/d/1rZwucjyAAR7QiEZl238_hhRPXo5-UKXt2_KCrwPZkiQ/edit#heading=h.lfar8xoosxqv)" by [Colored Conventions](https://twitter.com/CCP_org)
 - This [Twitter thread](https://twitter.com/jmjafrx/status/1285202367605022720) by Jessica Marie Johnson
