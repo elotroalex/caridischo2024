@@ -28,5 +28,5 @@ Ciertamente no somos los primeros en compilar una lista similar. Aquí algunos o
 
 Una vez que la hoja de cálculo se refinó, fue [portada a Wax](https://minicomp.github.io/wax/). Wax se inspira en los [principios de datos FAIR](https://journal.code4lib.org/articles/13427) y, como tal, se esfuerza por hacer que sus colecciones sean Fáciles de encontrar, Accesibles, Interoperables y Reutilizables. Una de sus características interesantes es que le permite compartir los datos con bastante facilidad. Le bienvenimos a acceder a nuestros datos en nuestro repositorio abierto en GitHub:
 
-- [CariDiScho 2020](https://github.com/elotroalex/caridischo/blob/main/_data/archived/2020.csv).
+- [CariDiScho 2020](https://github.com/elotroalex/caridischo/blob/main/_data/archived/2020.csv)
 - [CariDiScho 2021](https://github.com/elotroalex/caridischo/blob/main/_data/)
