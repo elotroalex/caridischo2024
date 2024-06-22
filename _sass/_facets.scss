@@ -301,6 +301,12 @@ p.card-text {
   text-align: right;
 }
 
+// Dropdown menu offset
+
+.dropdown-menu {
+  transform: translateX(-10%)
+}
+
 /*
     FACETS BUTTONS
     (Copy the CSS below if you're importing into your own theme)
