@@ -10,7 +10,7 @@ claimed_genre_en: a curation and translations
 claimed_genre_es: una curación y traducciones
 access: open
 status: Active
-language: English|Kreyòlayisyen
+language: English|Kreyòl ayisyen
 creators: Abby R. Broughton, Kelsey Corlett-Rivera, Nathan H. Dize, Brittany de Gail
 stewards: Vanderbilt University
 blurb_orig: The website is designed to provide online access to both the French originals
@@ -24,8 +24,8 @@ blurb_es: Este sitio web está diseñado para proporcionar acceso en línea a lo
   escasez de grano que enfrentó la colonia de Saint-Domingue en 1789.
 added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
-census_year: '2020'
-order: '031'
+census_year: "2020"
+order: "031"
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds13/thumbnail.jpg"
