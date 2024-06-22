@@ -11,6 +11,17 @@ description: A Directory of Caribbean Digital Scholarship.
 baseurl: "/caridischo"
 year: "2024"
 
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - utilities
+  - .gitignore
+  - .git
+  - .DS_Store
+  - README.md
+  - LICENSE.txt
+  - Rakefile
+
 # ---------------------------------------------------------------
 # COLLECTION SETTINGS
 # ---------------------------------------------------------------
