@@ -11,6 +11,8 @@ description: A Directory of Caribbean Digital Scholarship.
 baseurl: "/caridischo"
 year: "2024"
 
+permalink: /:collection/:title:output_ext
+
 exclude:
   - Gemfile
   - Gemfile.lock
