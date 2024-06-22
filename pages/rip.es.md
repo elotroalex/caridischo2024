@@ -10,8 +10,8 @@ A veces sabemos claramente que un proyecto digital ha muerto. Los resultados de 
 
 Los proyectos que seleccionamos para esta sección pasan son el resultado de una debida diligencia para determinar su vitalidad. Cuando podemos encontrarles, escuchamos a los administradores de los proyectos. El caso de la revista ARC es ejemplar, ya que la propia Holly Bynoe pasó por un proceso de duelo público por el proyecto, ofreciendo un conmovedor elogio en nuestra [conferencia #TCDVI en Barnard College](https://thecaribbeandigital.org/2019/), "Sobre las prácticas digitales de dejar ir." Inclusión en esta sección no significa necesariamente que el contenido original ha desaparecido por siempre. Cuando podemos, incluimos un enlace a la mejor o última versión del Internet Archive del proyecto. Si hemos cometido un error, por favor [háganoslo saber](https://forms.gle/7VwQcbgiGiBMqZmv9).
 
-Esperamos que la transición de proyectos a este espacio sea un momento para reflexionar sobre la fragilidad y la durabilidad de nuestro trabajo digital---quizas inspirando [nuevas estrategias para la sostenibilidad](https://endings.uvic.ca/principles.html). Por respeto y amor al trabajo que estamos realizando, hemos compuesto esquelas para cada proyecto. Estos obituarios utilizan parte del lenguaje del original y algunos de los resultados de nuestro trabajo forense. Por cada uno de ellos ponemos una flor y damos gracias.
+Esperamos que la transición de proyectos a este espacio sea un momento para reflexionar sobre la fragilidad y la durabilidad de nuestro trabajo digital---quizas inspirando [nuevas estrategias para la sostenibilidad](https://endings.uvic.ca/principles.html). Por respeto y amor al trabajo que estamos realizando, hemos compuesto esquelas para cada proyecto. Estos obituarios utilizan parte del lenguaje del original y algunos de los resultados de nuestro trabajo forense. Por cada uno de estos proyectos ofrecemos flores y damos gracias.
 
-<p class="text-center display-4">❀ ❀ ❀ ❀ ❀ ❀ ❀ ❀ ❀ ❀</p>
+<p class="text-center display-4">❀ ❀ ❀</p>
 
 {% include rip_gallery.html collection='rip' num_column=4 %}
