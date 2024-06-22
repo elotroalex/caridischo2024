@@ -8,4 +8,4 @@ lang: es
 
 Que encuentren la paz eterna.
 
-{% include gallery.html facet_by='genre|language*' collection='rip' num_column=4 %}
+{% include rip_gallery.html collection='rip' num_column=4 %}

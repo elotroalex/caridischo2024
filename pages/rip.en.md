@@ -8,4 +8,4 @@ lang: en
 
 May they rest in peace.
 
-{% include gallery.html facet_by='language*' collection='rip' num_column=4 %}
+{% include rip_gallery.html collection='rip' num_column=4 %}

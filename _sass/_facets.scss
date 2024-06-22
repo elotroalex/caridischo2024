@@ -214,6 +214,13 @@ footer a {
   }
 }
 
+// RIP Inline Images
+
+.rip-img {
+  filter: grayscale(100%);
+  opacity: 0.5;
+}
+
 // Wax Parallax
 
 .wax-parallax.inline-parallax {
