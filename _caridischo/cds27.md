@@ -19,8 +19,8 @@ blurb_es: Periódico histórico digitalizado & quot; El barbadiano & quot; (1822
 added_by: Amalia S. Levi
 twitter: "@amaliasl"
 census_year: '2020'
-order: '115'
-layout: item
+order: '145'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds27/thumbnail.jpg"
 full: "/img/derivatives/simple/cds27/fullwidth.jpg"

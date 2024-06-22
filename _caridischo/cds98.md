@@ -29,8 +29,8 @@ blurb_es: El Proyecto La Gaceta Real, que comienza a desarrollarse en 2014, est√
 added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
 census_year: '2020'
-order: '192'
-layout: item
+order: '219'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds98/thumbnail.jpg"
 full: "/img/derivatives/simple/cds98/fullwidth.jpg"

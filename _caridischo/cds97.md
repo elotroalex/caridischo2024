@@ -24,10 +24,9 @@ blurb_es: Después de 1807, más de 250,000 personas participaron en un esfuerzo
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
-order: '191'
-layout: item
+order: '218'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds97/thumbnail.jpg"
 full: "/img/derivatives/simple/cds97/fullwidth.jpg"
-notes: fixed link
 ---

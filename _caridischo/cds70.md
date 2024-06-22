@@ -30,8 +30,8 @@ blurb_es: 'Este proyecto resulta de una colaboración entre más de 500 estudian
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
-order: '163'
-layout: item
+order: '192'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds70/thumbnail.jpg"
 full: "/img/derivatives/simple/cds70/fullwidth.jpg"

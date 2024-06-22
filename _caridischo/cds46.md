@@ -38,8 +38,8 @@ blurb_es: Este sitio comenzó como un proyecto de WordPress colaborativo organiz
 added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
-order: '136'
-layout: item
+order: '166'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds46/thumbnail.jpg"
 full: "/img/derivatives/simple/cds46/fullwidth.jpg"

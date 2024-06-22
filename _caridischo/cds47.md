@@ -24,8 +24,8 @@ blurb_es: DAACS es un recurso comunitario, concebido y mantenido en el Departame
 added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
 census_year: '2020'
-order: '137'
-layout: item
+order: '167'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds47/thumbnail.jpg"
 full: "/img/derivatives/simple/cds47/fullwidth.jpg"

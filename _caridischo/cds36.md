@@ -23,8 +23,8 @@ blurb_es: Este sitio web presenta información sobre una selección de juicios p
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
-order: '125'
-layout: item
+order: '155'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds36/thumbnail.jpg"
 full: "/img/derivatives/simple/cds36/fullwidth.jpg"

@@ -21,8 +21,8 @@ blurb_es: Este proyecto preserva la historia dominicana desde abajo, los movimie
   revolucionarios de izquierda y la lucha de clases a través de textos, traducciones
   e imágenes transcritas.
 census_year: '2020'
-order: '141'
-layout: item
+order: '171'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds50/thumbnail.jpg"
 full: "/img/derivatives/simple/cds50/fullwidth.jpg"

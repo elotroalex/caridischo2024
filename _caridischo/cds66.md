@@ -24,8 +24,8 @@ blurb_es: Île en Île es un sitio web de acceso abierto y sin fines de lucro de
 added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
-order: '158'
-layout: item
+order: '187'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds66/thumbnail.jpg"
 full: "/img/derivatives/simple/cds66/fullwidth.jpg"

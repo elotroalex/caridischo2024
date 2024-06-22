@@ -25,8 +25,8 @@ blurb_es: Este es un curso diseñado para picar su interés, perfeccionar sus ha
 added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
-order: '138'
-layout: item
+order: '168'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds48/thumbnail.jpg"
 full: "/img/derivatives/simple/cds48/fullwidth.jpg"

@@ -44,10 +44,9 @@ blurb_es: La esclavitud colonial formó la Gran Bretaña moderna y todos vivimos
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
-order: '182'
-layout: item
+order: '211'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds89/thumbnail.jpg"
 full: "/img/derivatives/simple/cds89/fullwidth.jpg"
-notes: "Are we cool with projects by the colonizers? \n\U0001F602 "
 ---

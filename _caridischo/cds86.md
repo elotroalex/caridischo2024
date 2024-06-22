@@ -31,8 +31,8 @@ blurb_es: '"An Island Luminous" (Una Isla luminosa) es un sitio web sobre la his
 added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
-order: '179'
-layout: item
+order: '208'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds86/thumbnail.jpg"
 full: "/img/derivatives/simple/cds86/fullwidth.jpg"

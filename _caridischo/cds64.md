@@ -48,8 +48,8 @@ blurb_es: "&quot;En los mismos barcos&quot;, es un trabajo de investigación mul
 added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
-order: '156'
-layout: item
+order: '185'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds64/thumbnail.jpg"
 full: "/img/derivatives/simple/cds64/fullwidth.jpg"

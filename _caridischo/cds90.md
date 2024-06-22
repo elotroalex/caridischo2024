@@ -25,8 +25,8 @@ blurb_es: Este proyecto está planeando la creación de una base de datos accesi
   pública de arte haitiano fuera de Haití. También estamos trabajando en la expansión
   de los recursos digitales con respecto al arte haitiano.
 census_year: '2020'
-order: '184'
-layout: item
+order: '213'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds90/thumbnail.jpg"
 full: "/img/derivatives/simple/cds90/fullwidth.jpg"

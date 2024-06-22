@@ -9,7 +9,7 @@ claimed_genre: a journal
 claimed_genre_en: a journal
 claimed_genre_es: una revista
 access: open
-status: Archived
+status: Stable
 language: English
 creators: Ariana Hernandez-Reguant
 stewards: Ariana H-R / Alan West-Duran
@@ -25,10 +25,9 @@ blurb_es: "<em>Cuban Counterpoints</em> (Contrapuntos cubanos) es la cara públi
   Cuba y los Estados Unidos."
 added_by: Ariana Hernandez-Reguant
 census_year: '2020'
-order: '135'
-layout: item
+order: '165'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds45/thumbnail.jpg"
 full: "/img/derivatives/simple/cds45/fullwidth.jpg"
-notes: "\U0001F49C"
 ---

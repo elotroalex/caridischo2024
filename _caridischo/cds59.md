@@ -20,8 +20,8 @@ blurb_es: El movimiento de libertad gay en Jamaica (GFM) se formó en septiembre
   1977 como el primer movimiento en el Caribe de habla inglesa en defensa de los derechos
   de las personas LGBT (lesbianas, gays, bisexuales y transexuales)
 census_year: '2020'
-order: '150'
-layout: item
+order: '179'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds59/thumbnail.jpg"
 full: "/img/derivatives/simple/cds59/fullwidth.jpg"

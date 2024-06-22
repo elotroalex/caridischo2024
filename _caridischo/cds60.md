@@ -25,8 +25,8 @@ blurb_es: Bienvenido a Digital Aponte, un sitio dedicado a la vida y el trabajo 
 added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
-order: '152'
-layout: item
+order: '181'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds60/thumbnail.jpg"
 full: "/img/derivatives/simple/cds60/fullwidth.jpg"

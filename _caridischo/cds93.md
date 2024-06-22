@@ -22,8 +22,8 @@ blurb_es: El país cimarrón es un recurso educativo multimedia centrado en la h
 added_by: Schuyler Esprit
 twitter: "@schuyleresprit"
 census_year: '2020'
-order: '187'
-layout: item
+order: '215'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds93/thumbnail.jpg"
 full: "/img/derivatives/simple/cds93/fullwidth.jpg"

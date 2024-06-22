@@ -26,8 +26,8 @@ blurb_es: Bienvenido al <em>Blog de la historia haitiana</em>, un espacio dedica
   con la sociedad, la gobernanza, la historia intelectual y las relaciones exteriores
   forjadas entre Haití y sus vecinos en las Américas.
 census_year: '2020'
-order: '172'
-layout: item
+order: '201'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds79/thumbnail.jpg"
 full: "/img/derivatives/simple/cds79/fullwidth.jpg"

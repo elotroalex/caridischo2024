@@ -28,8 +28,8 @@ blurb_es: Este es un espacio digital que explora el significado cultural del hur
 added_by: Winnie Pérez Martínez
 twitter: "@_wepm"
 census_year: '2020'
-order: '119'
-layout: item
+order: '149'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds30/thumbnail.jpg"
 full: "/img/derivatives/simple/cds30/fullwidth.jpg"

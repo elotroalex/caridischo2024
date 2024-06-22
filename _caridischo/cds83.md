@@ -20,8 +20,8 @@ blurb_es: Este sitio web busca fomentar la discusión sobre los documentos funda
 added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
-order: '176'
-layout: item
+order: '205'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds83/thumbnail.jpg"
 full: "/img/derivatives/simple/cds83/fullwidth.jpg"

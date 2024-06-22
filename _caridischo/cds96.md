@@ -35,8 +35,8 @@ blurb_es: '"Imagined Homeland" (Patria Imaginada, las geografías literarias de 
 added_by: Schuyler Esprit
 twitter: "@schuyleresprit"
 census_year: '2020'
-order: '190'
-layout: item
+order: '217'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds96/thumbnail.jpg"
 full: "/img/derivatives/simple/cds96/fullwidth.jpg"

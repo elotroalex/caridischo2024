@@ -42,8 +42,8 @@ blurb_es: En 2012, Hampshire College, bajo la coordinación de la profesora Jacq
 added_by: 'Arturo Victoriano '
 twitter: "@ArturoVictoria4"
 census_year: '2020'
-order: '148'
-layout: item
+order: '177'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds57/thumbnail.jpg"
 full: "/img/derivatives/simple/cds57/fullwidth.jpg"

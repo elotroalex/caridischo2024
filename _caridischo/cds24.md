@@ -47,8 +47,8 @@ blurb_es: '"Más allá del telón de azúcar: Los lazos humanos entre Cuba y Est
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
-order: '112'
-layout: item
+order: '142'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds24/thumbnail.jpg"
 full: "/img/derivatives/simple/cds24/fullwidth.jpg"

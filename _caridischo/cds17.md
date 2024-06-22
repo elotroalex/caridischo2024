@@ -24,8 +24,8 @@ blurb_es: Iniciado por el ex Consejo General de Martinica, el Banque Numérique 
   el patrimonio cultural e histórico de Martinica respaldados por el Sistema de Información
   Geográfica de Martinica (SIGMA).
 census_year: '2020'
-order: '078'
-layout: item
+order: '073'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds17/thumbnail.jpg"
 full: "/img/derivatives/simple/cds17/fullwidth.jpg"

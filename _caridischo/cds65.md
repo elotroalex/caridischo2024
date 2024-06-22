@@ -28,8 +28,8 @@ blurb_es: El "Early Caribbean Digital Archive" (Archivo Digital del Caribe colon
 added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
 census_year: '2020'
-order: '157'
-layout: item
+order: '186'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds65/thumbnail.jpg"
 full: "/img/derivatives/simple/cds65/fullwidth.jpg"

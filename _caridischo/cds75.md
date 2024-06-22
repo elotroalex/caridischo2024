@@ -27,8 +27,8 @@ blurb_es: Entre 1845 y 1917, se enviaron alrededor de 143,900 trabajadores hind√
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
-order: '168'
-layout: item
+order: '197'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds75/thumbnail.jpg"
 full: "/img/derivatives/simple/cds75/fullwidth.jpg"

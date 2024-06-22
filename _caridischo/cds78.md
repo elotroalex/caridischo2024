@@ -21,12 +21,12 @@ blurb_es: 'Un proyecto de humanidades digitales ambientales bilingües que anali
   el género y la ecología en el Caribe francófono a través de los temas: azúcar, plátanos,
   playas y jardines.'
 census_year: '2020'
-order: '171'
-layout: item
+order: '200'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds78/thumbnail.jpg"
 full: "/img/derivatives/simple/cds78/fullwidth.jpg"
+label_en: Interconnected Ecologies
 notes: "{Rene: Link broken! last working version archived on web archive on August
   8 2022)"
-label_en: Interconnected Ecologies
 ---

@@ -18,8 +18,8 @@ blurb_es: Un archivo de video en línea de actuaciones de Carmelita Tropicana.
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
-order: '124'
-layout: item
+order: '154'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds35/thumbnail.jpg"
 full: "/img/derivatives/simple/cds35/fullwidth.jpg"

@@ -22,8 +22,8 @@ blurb_es: "<em>African Diaspora, Ph.D.</em> (Diáspora africana, Ph.D.) es un bl
 added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
-order: '151'
-layout: item
+order: '180'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds6/thumbnail.jpg"
 full: "/img/derivatives/simple/cds6/fullwidth.jpg"

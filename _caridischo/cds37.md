@@ -42,8 +42,8 @@ blurb_es: La <em>Caribbean Review of Gender Studies</em> (Revista caribeña de e
 added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
-order: '126'
-layout: item
+order: '156'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds37/thumbnail.jpg"
 full: "/img/derivatives/simple/cds37/fullwidth.jpg"

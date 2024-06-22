@@ -26,8 +26,8 @@ blurb_es: CUNY Academic Works es un servicio de las bibliotecas de CUNY dedicada
   universidad pública, el contenido de las obras académicas está disponible gratuitamente
   para todos.
 census_year: '2020'
-order: '121'
-layout: item
+order: '151'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds32/thumbnail.jpg"
 full: "/img/derivatives/simple/cds32/fullwidth.jpg"

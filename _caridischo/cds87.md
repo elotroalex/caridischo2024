@@ -29,8 +29,8 @@ blurb_es: Mapping Marronage (Cartografía del cimarronaje) es una visualización
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
-order: '180'
-layout: item
+order: '209'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds87/thumbnail.jpg"
 full: "/img/derivatives/simple/cds87/fullwidth.jpg"

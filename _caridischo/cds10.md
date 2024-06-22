@@ -29,9 +29,8 @@ added_by: Schuyler Esprit
 twitter: "@schuyleresprit"
 census_year: '2020'
 order: '001'
-layout: item
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds10/thumbnail.jpg"
 full: "/img/derivatives/simple/cds10/fullwidth.jpg"
-notes: fixed link
 ---

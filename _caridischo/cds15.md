@@ -9,7 +9,7 @@ claimed_genre: blog
 claimed_genre_en: a blog
 claimed_genre_es: un blog
 access: open
-status: Archived
+status: Stable
 language: Español
 creators: Ernesto Oroza
 blurb_orig: 'Architecture of Necessity is a concept with a double function. It initially
@@ -25,8 +25,8 @@ blurb_es: 'La arquitectura de la necesidad es un concepto con una doble función
   una arquitectura de urgencia y precariedad. Su segunda y más importante función
   es metafórica: enuncia una arquitectura que es su propio diagrama.'
 census_year: '2020'
-order: '056'
-layout: item
+order: '052'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds15/thumbnail.jpg"
 full: "/img/derivatives/simple/cds15/fullwidth.jpg"

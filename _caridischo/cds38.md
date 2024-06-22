@@ -33,8 +33,8 @@ blurb_es: Las Colecciones de bienes culturales del Centro León reunen informaci
 added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
-order: '127'
-layout: item
+order: '157'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds38/thumbnail.jpg"
 full: "/img/derivatives/simple/cds38/fullwidth.jpg"

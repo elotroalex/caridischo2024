@@ -25,8 +25,8 @@ blurb_es: Esta es una edición de acceso abierto de la colección de poemas de <
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
-order: '159'
-layout: item
+order: '188'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds67/thumbnail.jpg"
 full: "/img/derivatives/simple/cds67/fullwidth.jpg"

@@ -52,10 +52,9 @@ blurb_es: Desarrollado por el historiador Laurent Dubois, la candidata a PhD en 
 added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
-order: '181'
-layout: item
+order: '210'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds88/thumbnail.jpg"
 full: "/img/derivatives/simple/cds88/fullwidth.jpg"
-notes: Can't copy text from the original site.
 ---

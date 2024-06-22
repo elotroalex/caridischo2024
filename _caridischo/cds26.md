@@ -30,8 +30,8 @@ blurb_es: Jennifer Carccio es un estudiante de doctorado en el Programa de Estud
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
-order: '114'
-layout: item
+order: '144'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds26/thumbnail.jpg"
 full: "/img/derivatives/simple/cds26/fullwidth.jpg"

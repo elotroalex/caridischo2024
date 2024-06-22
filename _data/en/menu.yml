@@ -24,5 +24,7 @@
       link: "/reference/"
     - label: "Cabinet of Wonders"
       link: "/wonders/"
+    - label: "RIP"
+      link: "/rip/"
 - label: "Search"
   link: "/search/"

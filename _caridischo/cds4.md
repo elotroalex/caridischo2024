@@ -22,8 +22,8 @@ blurb_en: This site is designed to encourage historical exploration and communit
 added_by: Amalia S. Levi
 twitter: "@amaliasl"
 census_year: '2020'
-order: '129'
-layout: item
+order: '159'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds4/thumbnail.jpg"
 full: "/img/derivatives/simple/cds4/fullwidth.jpg"

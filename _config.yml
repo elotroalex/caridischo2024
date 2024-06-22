@@ -31,11 +31,18 @@ collections:
     output: true
   caridischo: # name of collection
     output: true # makes sure pages are output as html files
-    layout: "item" # the layout for the pages to use
+    layout: "caridischo_item" # the layout for the pages to use
     metadata:
       source: "caridischo.csv" # path to the metadata file within `_data`
     images:
       source: "raw_images/caridischo" # path to the directory of images within `_data`
+  rip:
+    output: true
+    layout: "rip_item"
+    metadata:
+      source: "rip.csv"
+    images:
+      source: "raw_images/rip"
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -51,6 +58,13 @@ search:
           - genre
           - label
           - claimed_genre
+          - claimed_genre_en
+          - claimed_genre_es
+          - blurb_orig
+          - blurb_en
+          - blurb_es
+          - creators
+          - stewards
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS

@@ -28,8 +28,8 @@ blurb_es: El patrimonio literario del Caribe es un proyecto financiado por el Fo
 added_by: Nadine Zubair
 twitter: "@NadineZubair"
 census_year: '2020'
-order: '111'
-layout: item
+order: '127'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds22/thumbnail.jpg"
 full: "/img/derivatives/simple/cds22/fullwidth.jpg"

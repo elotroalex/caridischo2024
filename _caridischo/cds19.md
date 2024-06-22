@@ -28,8 +28,8 @@ blurb_es: La palabra &quot;revolución&quot; es una herramienta humana. En cualq
   estudiamos cambios revolucionarios en la historia, alentamos el estudio comparativo
   de las revoluciones y exploramos las esperanzas imbuidas en el término &quot;revolución&quot;.
 census_year: '2020'
-order: '100'
-layout: item
+order: '093'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds19/thumbnail.jpg"
 full: "/img/derivatives/simple/cds19/fullwidth.jpg"

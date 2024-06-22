@@ -24,11 +24,10 @@ blurb_es: A continuación se presentan descripciones y enlaces a colecciones de 
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
-order: '134'
-layout: item
+order: '164'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds44/thumbnail.jpg"
 full: "/img/derivatives/simple/cds44/fullwidth.jpg"
-notes: 'There are approximately infinity subcollections. {Rene: New link! Previous
-  was broken. Also fixed label typo.}'
+subcollections: 'TRUE'
 ---

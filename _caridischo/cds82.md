@@ -26,10 +26,9 @@ blurb_es: El club de libros &quot;En todos mis sueños&quot;, celebrado de octub
 added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
 census_year: '2020'
-order: '175'
-layout: item
+order: '204'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds82/thumbnail.jpg"
 full: "/img/derivatives/simple/cds82/fullwidth.jpg"
-notes: "\U0001F60D"
 ---

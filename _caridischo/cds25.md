@@ -43,8 +43,8 @@ blurb_es: 'El Archivo Mesoamericano representa un archivo digital que consiste d
 added_by: Mary Borgo Ton
 twitter: "@maryeborgo"
 census_year: '2020'
-order: '113'
-layout: item
+order: '143'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds25/thumbnail.jpg"
 full: "/img/derivatives/simple/cds25/fullwidth.jpg"

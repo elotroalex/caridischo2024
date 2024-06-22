@@ -36,8 +36,8 @@ blurb_es: Apoyado por la Fundación Andrew W. Mellon, el archivo de respuestas d
 added_by: Christina Boyles
 twitter: "@clboyles"
 census_year: '2020'
-order: '132'
-layout: item
+order: '162'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds42/thumbnail.jpg"
 full: "/img/derivatives/simple/cds42/fullwidth.jpg"

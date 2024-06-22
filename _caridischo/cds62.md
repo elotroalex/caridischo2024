@@ -22,8 +22,8 @@ blurb_es: El camino a la independencia es un recurso web multimedia creado en ho
 added_by: Schuyler Esprit
 twitter: "@schuyleresprit"
 census_year: '2020'
-order: '154'
-layout: item
+order: '183'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds62/thumbnail.jpg"
 full: "/img/derivatives/simple/cds62/fullwidth.jpg"

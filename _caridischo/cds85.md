@@ -22,8 +22,8 @@ blurb_es: "¿Qué podemos aprender del pasado de Guantánamo? ¿Qué debemos rec
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
-order: '178'
-layout: item
+order: '207'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds85/thumbnail.jpg"
 full: "/img/derivatives/simple/cds85/fullwidth.jpg"

@@ -29,8 +29,8 @@ blurb_es: 'Un servicio nacional ubicado en Aix-en-Provence desde 1966, el Archiv
   francés desde el siglo XVII al XX, y por otro los archivos reubicados de las antiguas
   colonias y de Argelia durante su independencia.'
 census_year: '2020'
-order: '012'
-layout: item
+order: '011'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds11/thumbnail.jpg"
 full: "/img/derivatives/simple/cds11/fullwidth.jpg"

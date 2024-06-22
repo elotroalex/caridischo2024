@@ -19,8 +19,8 @@ blurb_en: A new voyage of discovery ... Search, browse and discover the original
 blurb_es: Un nuevo viaje de descubrimiento ... Buscar, navegar y descubrir las fuentes
   originales de la historia de Curaçao.
 census_year: '2020'
-order: '167'
-layout: item
+order: '196'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds74/thumbnail.jpg"
 full: "/img/derivatives/simple/cds74/fullwidth.jpg"

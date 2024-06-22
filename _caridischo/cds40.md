@@ -23,8 +23,8 @@ blurb_es: Visualización de Gephi de una red de hipervínculos entre sitios web 
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
-order: '130'
-layout: item
+order: '160'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds40/thumbnail.jpg"
 full: "/img/derivatives/simple/cds40/fullwidth.jpg"

@@ -16,8 +16,8 @@ blurb_es: Reflexiones sobre la mensajería política de la revolución a los cub
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
-order: '045'
-layout: item
+order: '041'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds14/thumbnail.jpg"
 full: "/img/derivatives/simple/cds14/fullwidth.jpg"

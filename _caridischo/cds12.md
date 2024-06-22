@@ -22,8 +22,8 @@ blurb_es: Este sitio web está diseñado para brindar perspectivas personales y 
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
-order: '023'
-layout: item
+order: '021'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds12/thumbnail.jpg"
 full: "/img/derivatives/simple/cds12/fullwidth.jpg"

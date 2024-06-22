@@ -35,8 +35,8 @@ blurb_es: El banjo tiene una rica historia en el Caribe, la región donde encont
   de finales de la década de 1730. Aquí, ofrecemos algunas avenidas para comprender
   la fascinante historia del banjo en el Caribe.
 census_year: '2020'
-order: '162'
-layout: item
+order: '191'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds7/thumbnail.jpg"
 full: "/img/derivatives/simple/cds7/fullwidth.jpg"

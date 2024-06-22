@@ -62,8 +62,8 @@ blurb_es: 'El Archivo Histórico Arquitectónico de Puerto Rico será un reposit
 added_by: Joshua Ortiz Baco
 twitter: "@jgob"
 census_year: '2020'
-order: '193'
-layout: item
+order: '220'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds99/thumbnail.jpg"
 full: "/img/derivatives/simple/cds99/fullwidth.jpg"

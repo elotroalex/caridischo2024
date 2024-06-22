@@ -33,8 +33,8 @@ blurb_es: "&quot;En susurros y miradas furtivas&quot; es un proyecto de humanida
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
-order: '174'
-layout: item
+order: '203'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds81/thumbnail.jpg"
 full: "/img/derivatives/simple/cds81/fullwidth.jpg"

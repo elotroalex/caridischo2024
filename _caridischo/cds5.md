@@ -28,10 +28,10 @@ blurb_es: Este archivo fue establecido por las bibliotecas de la Universidad de 
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
-order: '140'
-layout: item
+order: '170'
+layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds5/thumbnail.jpg"
 full: "/img/derivatives/simple/cds5/fullwidth.jpg"
-notes: Herein lie subcollections
+subcollections: 'TRUE'
 ---
