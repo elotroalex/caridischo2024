@@ -26,7 +26,8 @@ We are certainly not the first to compile a similar list. Here are some other us
 
 ### Reuse the Data
 
-After the spreadsheet was more or less in good condition it was [ported to Wax](https://minicomp.github.io/wax/). Wax is inspired by [FAIR data principles](https://journal.code4lib.org/articles/13427), and as such strives to make its collections findable, accessible, interoperable and reusable. One of its neat features, is that it allows you to share the data quite easily. You can access our data on our open repository on GitHub.
+After the spreadsheet was more or less in good condition it was [ported to Wax](https://minicomp.github.io/wax/). Wax is inspired by [FAIR data principles](https://journal.code4lib.org/articles/13427), and as such strives to make its collections findable, accessible, interoperable and reusable. One of its neat features, is that it allows you to share the data quite easily. You can access our data on our open repositories on GitHub.
 
 - [CariDiScho 2020](https://github.com/elotroalex/caridischo/blob/main/_data/archived/2020.csv)
 - [CariDiScho 2021](https://github.com/elotroalex/caridischo/blob/main/_data/)
+- [CariDiScho 2024](https://github.com/elotroalex/caridischo2024/tree/main/_data)

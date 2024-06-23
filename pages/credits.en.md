@@ -33,6 +33,6 @@ For more about Wax's specs, visit the [documentation](https://minicomp.github.io
 
 ### Partners
 
-The directory was born as an idea for [The Caribbean Digital VII](http://caribbeandigitalnyc.net/2020/) during times of widespread virtuality, rare virtue and surprising virtuosity. The conference was organized in 2020 by Kaima L. Glover, Kelly M. Josephs and Alex Gil. Their combined inspirations provided the seed ideas for the directory. The [Caribbean Digital Scholarship Collective](https://cdscollective.org/), generously sponsored by the Mellon foundation, provided welcome support in 2024.
+The directory was born as an idea for [The Caribbean Digital VII](http://caribbeandigitalnyc.net/2020/) during times of widespread virtuality, rare virtue and surprising virtuosity. The conference was organized in 2020 by Kaima L. Glover, Kelly M. Josephs and Alex Gil. Their combined inspirations provided the seed ideas for the directory.
 
-The Digital Humanities Center at Barnard provided much welcome promotion and support. Columbia University Libraries continues to support our conference, and as such the digital scholarship we produce collectively at Barnard/Columbia.
+The first two rounds of the directory were supported by the Digital Humanities Center at Barnard and Columbia University Libraries. In 2024, the [Caribbean Digital Scholarship Collective](https://cdscollective.org/), generously sponsored by the Mellon foundation, provided welcome new support.
