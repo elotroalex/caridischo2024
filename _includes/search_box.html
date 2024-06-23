@@ -1,15 +1,4 @@
-{% assign placeholder = include.placeholder | default: site.data["general"]["search"] %} 
-{% assign key = include.search | default: 'main' %} 
-{% assign config = site.search[key] %} 
-{% assign index = config.index | absolute_url %} 
-{%- capture fields -%} 
-  {%- for collection in config.collections -%} 
-    {%- for field in collection[1].fields -%} {{ field }}
-      {% unless forloop.last %}|||{% endunless %} 
-    {%- endfor -%} 
-  {%- endfor -%} 
-{%- endcapture -%} 
-{% assign fields = fields | split: '|||' | uniq %}
+{% assign placeholder = include.placeholder | default: site.data["general"]["search"] %} {% assign key = include.search | default: 'main' %} {% assign config = site.search[key] %} {% assign index = config.index | absolute_url %} {%- capture fields -%} {%- for collection in config.collections -%} {%- for field in collection[1].fields -%} {{ field }}{% unless forloop.last %}|||{% endunless %} {%- endfor -%} {%- endfor -%} {%- endcapture -%} {% assign fields = fields | split: '|||' | uniq %}
 
 <div class="search-block">
   <div class="input-group">
