@@ -20,6 +20,15 @@ namespace :wax do
     HTMLProofer.check_directory('./_site', opts).run
     system('bundle exec rspec') if File.exist?('.rspec')
   end
+  task :redo do
+    sh 'rake wax:clobber caridischo'
+    sh 'rake wax:clobber rip'
+    sh 'rake wax:derivatives:simple caridischo'
+    sh 'rake wax:derivatives:simple rip'
+    sh 'rake wax:pages caridischo'
+    sh 'rake wax:pages rip'
+    sh 'rake wax:search main'
+  end
 end
 
 task :prod do
