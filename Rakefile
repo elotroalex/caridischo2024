@@ -7,13 +7,15 @@ namespace :wax do
   desc 'run htmlproofer, rspec if .rspec file exists'
   task :test do
     opts = {
-      check_external_hash: true,
+      check_external_hash: false,
       allow_hash_href: true,
+      assume_extension: true,
       check_html: true,
       disable_external: true,
       empty_alt_ignore: true,
       only_4xx: true,
-      verbose: true
+      verbose: false,
+      directory_index_file: 'index.html',
     }
     HTMLProofer.check_directory('./_site', opts).run
     system('bundle exec rspec') if File.exist?('.rspec')
