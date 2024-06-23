@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<div class="item-page">
+  {% assign current_section = page.section %} {% assign links = site[page.collection] | where: "section", current_section | sort: "order" | map: 'url' %} {% assign prev = nil %} {% assign prevlink = nil %} {% assign nextlink = nil %} {% for link in links %} {% if link == page.url %} {% if forloop.first %} {% assign prevlink = links | last %} {% assign nextlink = links[forloop.index] %} {% elsif forloop.last %} {% assign prevlink = prev %} {% assign nextlink = links | first %} {% else %} {% assign prevlink = prev %} {% assign nextlink = links[forloop.index] %} {% endif %} {% endif %} {% assign prev = link %} {% endfor %} {% capture section %} {% if page.collection == "rip" %}
+  <p class="text-center display-4">❀ ❀ ❀</p>
+  {% else %} {% assign current_section = current_section | slugify %} {{site.data["sections"][current_section]}} {% endif %} {% endcapture %}
+
+  <div class="row">
+    <span class="mt-1 mx-auto text-muted display-5 mb-0">{{section}}</span>
+  </div>
+  <div class="row">
+    <div class="pagination mx-auto">
+      <div class="pagination-link" id="prevlink"><a href="{{ prevlink | absolute_url }}">&#9668;</a></div>
+      <div class="pagination-link" id="nextlink"><a href="{{ nextlink | absolute_url }}">&#9658;</a></div>
+    </div>
+  </div>
+
+  <div class="card thumbnail-card">
+    {% assign pid=page.pid %} {% include parallax_item.html collection=page.collection pid=pid %}
+
+    <div class="card-body item-metadata">
+      <!-- The block below controls the item metadata table -->
+
+      <h1 alt="{{ page.label }}" class="item-label"><a href="{{page.link}}" target="_blank">{{ page.label }}</a></h1>
+      {% for lang in site.languages %} {% if lang == site.active_lang %} {% capture translated_title %}label_{{lang}}{% endcapture %}
+      <h4 class="item-translated-label">{% if page[translated_title] %}({% endif %}{{ page[translated_title] }}{% if page[translated_title] %}){% endif %}</h4>
+      {% endif %} {% endfor %} {% if page.access == 'vendor' %}
+      <p class="item-access">{{site.data[site.active_lang]["general"]["paywall"]}}</p>
+      {% elsif page.access == 'private' %}
+      <p class="item-access">{{site.data[site.active_lang]["general"]["private"]}}</p>
+      {% endif %}
+      <div class="row">{% if layout.meta.size %} {% assign metadata = layout.meta %} {% elsif page.meta.size %} {% assign metadata = page.meta %} {% endif %} {% if metadata.size %} {% include item_metadata_i18n.html meta=metadata %} {% endif %}</div>
+    </div>
+  </div>
+</div>
