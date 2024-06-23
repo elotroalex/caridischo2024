@@ -26,11 +26,22 @@ layout: default
   {% assign prev = link %}  
 {% endfor %}
 
-<div class="row"><div class="mx-auto lead">{{current_section}}</div></div>
+{% capture section %}
+  {% if page.collection == "rip" %}
+  <p class="text-center display-4">❀ ❀ ❀</p>
+  {% else %}
+    {% assign current_section = current_section | slugify %}
+    {{site.data["sections"][current_section]}}
+  {% endif %}
+{% endcapture %}
+
+<div class="row">
+  <span class="mx-auto lead text-muted h2 mb-0">{{section}}</span>
+</div>
 <div class="row">
   <div class="pagination mx-auto">
-    <div class="pagination-link" id="prevlink"><a href="{{ prevlink | absolute_url }}">&#9668; Previous</a></div>
-    <div class="pagination-link" id="nextlink"><a href="{{ nextlink | absolute_url }}">Next &#9658;</a></div>
+    <div class="pagination-link" id="prevlink"><a href="{{ prevlink | absolute_url }}">&#9668;</a></div>
+    <div class="pagination-link" id="nextlink"><a href="{{ nextlink | absolute_url }}">&#9658;</a></div>
   </div>
   <script>
     document.addEventListener("keydown", function (event) {
