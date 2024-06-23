@@ -47,6 +47,16 @@ $dark-text: #444444;
 $code: #3c1553;
 $muted-text: #777777;
 
+
+// Override Bootstrap's .display-6 font weight
+span.display-5 {
+  font-size: 1.6rem;
+  font-weight: 100 !important;
+  font-family: "Open Sans Light", "Verdana", "sans-serif";
+;
+}
+
+
 /* Image Heights */
 
 $parallax-height: 350px;
