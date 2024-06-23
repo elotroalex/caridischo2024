@@ -27,6 +27,24 @@ body {
 main {
   min-height: calc(100vh - 120px);
   padding: 2rem;
+  background-image: url("/caridischo/assets/logo/logo-small.png");
+  background-repeat: no-repeat;
+  background-position: top right;
+}
+
+// .disco-ball {
+//   opacity: 0.05;
+//   position: absolute;
+//   right: 0;
+//   top: 0;
+//   width: 30%;
+//   height: auto;
+//   z-index: 1;
+// }
+
+.home {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 
 h1,
@@ -259,6 +277,10 @@ footer a {
       color: $dark-background;
     }
   }
+}
+
+nav {
+  z-index: 1000;
 }
 
 .navbar-toggler-icon {
