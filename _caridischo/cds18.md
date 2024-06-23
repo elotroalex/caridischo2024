@@ -18,7 +18,7 @@ blurb_es: Colección digital de la Biblioteca Nacional de Aruba.
 added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
-order: '082'
+order: '081'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds18/thumbnail.jpg"

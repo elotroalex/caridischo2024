@@ -1,6 +1,7 @@
 ---
 pid: cds66
 label: Île en île
+label_es: visitas a islas
 link: http://ile-en-ile.org/
 section: Reference
 genre: Encyclopedias
@@ -24,9 +25,10 @@ blurb_es: Île en Île es un sitio web de acceso abierto y sin fines de lucro de
 added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
-order: '187'
+order: '185'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds66/thumbnail.jpg"
 full: "/img/derivatives/simple/cds66/fullwidth.jpg"
+label_en: Island hopping
 ---

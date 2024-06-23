@@ -36,7 +36,7 @@ blurb_es: La Biblioteca UCLA ha lanzado una iniciativa innovadora para capturar 
   durante movimientos políticos, incluyendo en Cuba, pero que es de naturaleza efímera
   y es probable que se pierda sin una curaduría proactiva.
 census_year: '2020'
-order: '194'
+order: '192'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds72/thumbnail.jpg"

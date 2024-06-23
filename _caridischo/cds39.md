@@ -21,7 +21,7 @@ blurb_es: El laboratorio oscuro es un motor de colaboración, diseño y estudio 
 added_by: Tao Leigh Goffe
 twitter: "@taoleighgoffe"
 census_year: '2020'
-order: '158'
+order: '156'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds39/thumbnail.jpg"

@@ -1,6 +1,7 @@
 ---
 pid: cds44
 label: Cuban Heritage Collection
+label_es: Colección Herencia Cubana
 link: https://www.library.miami.edu/chc/
 section: Collections & Curations
 genre: Digital Libraries
@@ -24,7 +25,7 @@ blurb_es: A continuación se presentan descripciones y enlaces a colecciones de 
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
-order: '164'
+order: '162'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds44/thumbnail.jpg"

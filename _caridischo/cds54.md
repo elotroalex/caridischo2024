@@ -29,7 +29,7 @@ blurb_es: La primera edición de &quot;La Caña de azúcar&quot;, un poema de 16
 added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
 census_year: '2020'
-order: '174'
+order: '172'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds54/thumbnail.jpg"

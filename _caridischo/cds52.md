@@ -1,7 +1,6 @@
 ---
 pid: cds52
 label: Directorio de Afrocubanas
-label_es: Directorio de Afrocubanas
 link: https://directoriodeafrocubanas.com/
 section: Reference
 genre: Encyclopedias
@@ -22,7 +21,7 @@ blurb_es: El Directorio de Afrocubanas es una herramienta digital que recopila f
   de mujeres cubanas afrodescendientes, quienes han contribuido de manera significativa
   a la cultura e historia nacionales.
 census_year: '2020'
-order: '173'
+order: '171'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds52/thumbnail.jpg"

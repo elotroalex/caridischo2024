@@ -19,7 +19,7 @@ blurb_es: Material digitalizado de efímeras de los archivos Barbados.
 added_by: Amalia S. Levi
 twitter: "@amaliasl"
 census_year: '2020'
-order: '146'
+order: '144'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds28/thumbnail.jpg"

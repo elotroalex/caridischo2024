@@ -1,6 +1,7 @@
 ---
 pid: cds89
 label: Legacies of British Slave-ownership
+label_es: Legados de la propiedad de esclavos británica
 link: https://www.ucl.ac.uk/lbs//
 section: Collections & Curations
 genre: Thematic Curations
@@ -44,7 +45,7 @@ blurb_es: La esclavitud colonial formó la Gran Bretaña moderna y todos vivimos
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
-order: '211'
+order: '209'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds89/thumbnail.jpg"

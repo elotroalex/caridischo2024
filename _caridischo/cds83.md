@@ -1,6 +1,7 @@
 ---
 pid: cds83
 label: Haiti and the Atlantic World
+label_es: Haití y el mundo atlántico
 link: https://haitidoi.com/
 section: Collections & Curations
 genre: Thematic Curations
@@ -20,7 +21,7 @@ blurb_es: Este sitio web busca fomentar la discusión sobre los documentos funda
 added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
-order: '205'
+order: '203'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds83/thumbnail.jpg"

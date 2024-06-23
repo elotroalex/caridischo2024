@@ -1,6 +1,7 @@
 ---
 pid: cds82
 label: In All My Dreams
+label_es: En todos mis sueños
 link: http://iamdbookclub.com
 section: Cabinet of Wonders
 genre: Sui Generis
@@ -12,9 +13,10 @@ status: Active
 language: English
 creators: Kaiama L. Glover, Laurent Dubois
 stewards: Barnard College
-blurb_orig: The “In All My Dreams” book club, held from October 2019 to February 2020
-  was an informal gathering of readers interested in discovering or exploring Haitian
-  culture through the prism of one of Haiti’s most important works of literary fiction.
+blurb_orig: The &quot;In All My Dreams&quot; book club, held from October 2019 to
+  February 2020 was an informal gathering of readers interested in discovering or
+  exploring Haitian culture through the prism of one of Haiti’s most important works
+  of literary fiction.
 blurb_en: The &quot;In All My Dreams&quot; book club, held from October 2019 to February
   2020 was an informal gathering of readers interested in discovering or exploring
   Haitian culture through the prism of one of Haiti’s most important works of literary
@@ -26,7 +28,7 @@ blurb_es: El club de libros &quot;En todos mis sueños&quot;, celebrado de octub
 added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
 census_year: '2020'
-order: '204'
+order: '202'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds82/thumbnail.jpg"

@@ -31,7 +31,7 @@ blurb_es: 'La Biblioteca de Literatura Afrocolombiana contiene 18 títulos y un 
   en la consistencia y la valiosa capacidad creativa que en todas las áreas del arte
   poseen los descendientes de las diversas culturas africanas llegadas a Colombia.'
 census_year: '2020'
-order: '202'
+order: '200'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds8/thumbnail.jpg"

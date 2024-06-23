@@ -24,8 +24,8 @@ blurb_es: Este sitio web está diseñado para proporcionar acceso en línea a lo
   escasez de grano que enfrentó la colonia de Saint-Domingue en 1789.
 added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
-census_year: "2020"
-order: "031"
+census_year: '2020'
+order: '030'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds13/thumbnail.jpg"

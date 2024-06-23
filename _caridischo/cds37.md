@@ -21,17 +21,17 @@ blurb_orig: The Caribbean Review of Gender Studies stimulates cross-cultural exc
   and their effects. The journal welcomes critical disciplinary or multi-disciplinary
   scholarly articles and creative contributions that broaden networks and enhance
   the global understanding and reach of Caribbean feminist theory and praxis.
-blurb_en: The <em>Caribbean Review of Gender Studies</em> stimulates cross-cultural
-  exchanges among Caribbean peoples within the region, those in the Caribbean Diaspora,
-  as well as those who bring a comparative perspective to bear on Caribbean gender
-  and feminist concerns. The journal is established around an identity and voice emanating
-  from Caribbean realities of power in gender, sexualities, ethnicity and class relations,
+blurb_en: The *Caribbean Review of Gender Studies* stimulates cross-cultural exchanges
+  among Caribbean peoples within the region, those in the Caribbean Diaspora, as well
+  as those who bring a comparative perspective to bear on Caribbean gender and feminist
+  concerns. The journal is established around an identity and voice emanating from
+  Caribbean realities of power in gender, sexualities, ethnicity and class relations,
   and their effects. The journal welcomes critical disciplinary or multi-disciplinary
   scholarly articles and creative contributions that broaden networks and enhance
   the global understanding and reach of Caribbean feminist theory and praxis.
-blurb_es: La <em>Caribbean Review of Gender Studies</em> (Revista caribeña de estudios
-  de género) estimula los intercambios interculturales entre los pueblos caribeños
-  dentro de la región, los de la diáspora caribeña, así como los que traen una perspectiva
+blurb_es: La *Caribbean Review of Gender Studies* (Revista caribeña de estudios de
+  género) estimula los intercambios interculturales entre los pueblos caribeños dentro
+  de la región, los de la diáspora caribeña, así como los que traen una perspectiva
   comparativa para responder a cuestiones de género y feminismo del Caribe. La revista
   se establece en torno a una identidad y voz que emana de las realidades del poder
   relacionadas con el género, las sexualidades, la etnicidad y las relaciones de clase
@@ -42,7 +42,7 @@ blurb_es: La <em>Caribbean Review of Gender Studies</em> (Revista caribeña de e
 added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
-order: '156'
+order: '154'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds37/thumbnail.jpg"

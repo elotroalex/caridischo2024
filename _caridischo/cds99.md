@@ -1,6 +1,7 @@
 ---
 pid: cds99
 label: Puerto Rico Architectural Heritage Archive
+label_es: Archivo del Patrimonio Arquitectónico de Puerto Rico
 link: https://mellon.org/grants/grants-database/grants/fundacion-luis-munoz-marin-inc/2004-07580/
 section: Collections & Curations
 genre: Thematic Curations
@@ -62,7 +63,7 @@ blurb_es: 'El Archivo Histórico Arquitectónico de Puerto Rico será un reposit
 added_by: Joshua Ortiz Baco
 twitter: "@jgob"
 census_year: '2020'
-order: '220'
+order: '218'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds99/thumbnail.jpg"

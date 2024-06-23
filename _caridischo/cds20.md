@@ -22,7 +22,7 @@ blurb_es: Este cronograma localiza los brotes de cólera principales en el Carib
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
-order: '105'
+order: '104'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds20/thumbnail.jpg"

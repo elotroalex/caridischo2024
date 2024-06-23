@@ -13,15 +13,16 @@ language: Español
 blurb_orig: The collection Anthologies of Latin American and Caribbean Social Thought
   is a CLACSO publishing undertaking aimed at promoting access to the work of some
   of the most prominent authors of the social sciences in Latin America and the Caribbean.
-blurb_en: The collection "Anthologies of Latin American and Caribbean Social Thought"
-  is a CLACSO publishing undertaking aimed at promoting access to the work of some
-  of the most prominent authors of the social sciences in Latin America and the Caribbean.
-blurb_es: La colección "Antologías del Pensamiento Social Latinoamericano y Caribeño"
+blurb_en: The collection &quot;Anthologies of Latin American and Caribbean Social
+  Thought&quot; is a CLACSO publishing undertaking aimed at promoting access to the
+  work of some of the most prominent authors of the social sciences in Latin America
+  and the Caribbean.
+blurb_es: La colección &quot;Antologías del Pensamiento Social Latinoamericano y Caribeño&quot;
   es un emprendimiento editorial de CLACSO destinado a promover el acceso a la obra
   de algunos de los más destacados autores de las ciencias sociales de América Latina
   y el Caribe.
 census_year: '2020'
-order: '212'
+order: '210'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds9/thumbnail.jpg"

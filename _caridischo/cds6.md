@@ -14,15 +14,15 @@ language: English
 creators: Jessica Marie Johnson
 blurb_orig: African Diaspora, Ph.D. is a curated blog highlighting scholarship and
   scholars in the field of Atlantic African Diaspora history.
-blurb_en: "<em>African Diaspora, Ph.D.</em> is a curated blog highlighting scholarship
-  and scholars in the field of Atlantic African Diaspora history."
-blurb_es: "<em>African Diaspora, Ph.D.</em> (Diáspora africana, Ph.D.) es un blog
-  curado que destaca la beca y los académicos en el campo de la historia de la diáspora
-  africana del Atlántico."
+blurb_en: "*African Diaspora, Ph.D.* is a curated blog highlighting scholarship and
+  scholars in the field of Atlantic African Diaspora history."
+blurb_es: "*African Diaspora, Ph.D.* (Diáspora africana, Ph.D.) es un blog curado
+  que destaca la beca y los académicos en el campo de la historia de la diáspora africana
+  del Atlántico."
 added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
-order: '180'
+order: '178'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds6/thumbnail.jpg"

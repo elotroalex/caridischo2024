@@ -24,7 +24,7 @@ blurb_es: El proyecto de memoria del Caribe promueve la conciencia pública y la
 added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
 census_year: '2020'
-order: '153'
+order: '151'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds34/thumbnail.jpg"

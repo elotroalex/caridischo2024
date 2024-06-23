@@ -28,7 +28,7 @@ blurb_es: 'Diasporas del caribe: panorama de prácticas de carnival es una inici
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
-order: '176'
+order: '174'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds56/thumbnail.jpg"

@@ -16,7 +16,7 @@ stewards: Climates of Inequality
 blurb_orig: Stories of Environmental Justice
 blurb_en: 'Climates of Inequality is a participatory public memory project created
   by students, educators, and community leaders in over 20 cities across the US and
-  around the world. Local teams work together to activate the histories of “frontline”
+  around the world. Local teams work together to activate the histories of &quot;frontline&quot;
   communities: those who have contributed the least to the climate crisis but bear
   its heaviest burdens. Their multi-media portraits expose the roots of current environmental
   injustice, and share generations of frontline communities’ strategies for resistance,
@@ -30,7 +30,7 @@ blurb_es: 'Este proyecto resulta de una colaboración entre más de 500 estudian
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
-order: '192'
+order: '190'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds70/thumbnail.jpg"

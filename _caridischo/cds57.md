@@ -20,14 +20,14 @@ blurb_orig: In 2012, Hampshire College through Professor Jacqueline Hayden initi
   Ortiz-Palacios with Alina Gonzalez, Specialist in Territorial Information System
   at Plan Maestro, organized and directed the scanning, following the Library of Congress
   guidelines for file formats.  The photographers from the Cuban Institute of Geodesy
-  and Cartography made 4,722 negatives, approximately 80% of which are 5" x 7" glass
-  plate negatives while the remaining 20% are 5" x 7" film negatives and 4,722 positive
-  contact prints that have original measurements and notations drawn directly on them
-  and form an integral part of the visual record of the working restoration of the
-  old city of Havana. Many of the negatives were deteriorating from lack of humidity-controlled
-  storage and chemical deterioration.  Some of the buildings photographed in the 1980s
-  survey no longer exist. For example, two were demolished to build the new Russian
-  Orthodox Church on that site.
+  and Cartography made 4,722 negatives, approximately 80% of which are 5&quot; x 7&quot;
+  glass plate negatives while the remaining 20% are 5&quot; x 7&quot; film negatives
+  and 4,722 positive contact prints that have original measurements and notations
+  drawn directly on them and form an integral part of the visual record of the working
+  restoration of the old city of Havana. Many of the negatives were deteriorating
+  from lack of humidity-controlled storage and chemical deterioration.  Some of the
+  buildings photographed in the 1980s survey no longer exist. For example, two were
+  demolished to build the new Russian Orthodox Church on that site.
 blurb_en: In 2012, Hampshire College through Professor Jacqueline Hayden initiated
   the Havana Archive Project with Plan Maestro; a digital archive of the Cuban Institute
   of Geodesy and Cartography 1980s photographs of the 1055 significant buildings in
@@ -42,7 +42,7 @@ blurb_es: En 2012, Hampshire College, bajo la coordinación de la profesora Jacq
 added_by: 'Arturo Victoriano '
 twitter: "@ArturoVictoria4"
 census_year: '2020'
-order: '177'
+order: '175'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds57/thumbnail.jpg"

@@ -1,6 +1,7 @@
 ---
 pid: cds65
 label: Early Caribbean Digital Archive
+label_es: Archivo Digital del Caribe Temprano
 link: https://ecda.northeastern.edu
 section: Collections & Curations
 genre: Scholarly Editions
@@ -20,15 +21,15 @@ blurb_en: The Early Caribbean Digital Archive is an open access collection of pr
   Caribbean texts, maps, and images. Texts include travel narratives, novels, poetry,
   natural histories, and diaries that have not been brought together before as a single
   collection focused on the Caribbean.
-blurb_es: El "Early Caribbean Digital Archive" (Archivo Digital del Caribe colonial)
-  es una colección de acceso abierto de textos, mapas e imágenes del Caribe antes
-  del siglo XX. Los textos incluyen narraciones de viajes, novelas, poesía, historias
-  naturales y diarios que no se han reunido antes en una sola colección centrada en
-  el Caribe.
+blurb_es: El &quot;Early Caribbean Digital Archive&quot; (Archivo Digital del Caribe
+  colonial) es una colección de acceso abierto de textos, mapas e imágenes del Caribe
+  antes del siglo XX. Los textos incluyen narraciones de viajes, novelas, poesía,
+  historias naturales y diarios que no se han reunido antes en una sola colección
+  centrada en el Caribe.
 added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
 census_year: '2020'
-order: '186'
+order: '184'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds65/thumbnail.jpg"

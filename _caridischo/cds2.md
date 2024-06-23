@@ -33,7 +33,7 @@ blurb_es: Durante la altura del régimen fascista de Vichy en Martinica, Aimé C
 added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
-order: '104'
+order: '103'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds2/thumbnail.jpg"

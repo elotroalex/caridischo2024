@@ -1,6 +1,7 @@
 ---
 pid: cds97
 label: Liberated Africans
+label_es: Africanos liberados
 link: https://www.liberatedafricans.org/public/
 section: Collections & Curations
 genre: Thematic Curations
@@ -24,7 +25,7 @@ blurb_es: Después de 1807, más de 250,000 personas participaron en un esfuerzo
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
-order: '218'
+order: '216'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds97/thumbnail.jpg"

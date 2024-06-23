@@ -1,6 +1,7 @@
 ---
 pid: cds90
 label: 'Haitian Art: a Digital Crossroads'
+label_es: 'Arte haitiano: una encrucijada digital'
 link: https://hadc.sites.grinnell.edu/
 section: Collections & Curations
 genre: Thematic Curations
@@ -8,7 +9,7 @@ claimed_genre: grant project
 claimed_genre_en: a grant project
 claimed_genre_es: un proyecto de subvención
 access: private
-status: In Development
+status: Active
 language: English
 creators: Fredo Rivera, Petrouchka Moïse
 stewards: Grinnell College; Waterloo Center for the Arts
@@ -25,7 +26,7 @@ blurb_es: Este proyecto está planeando la creación de una base de datos accesi
   pública de arte haitiano fuera de Haití. También estamos trabajando en la expansión
   de los recursos digitales con respecto al arte haitiano.
 census_year: '2020'
-order: '213'
+order: '211'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds90/thumbnail.jpg"

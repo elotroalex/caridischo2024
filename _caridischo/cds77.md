@@ -1,6 +1,7 @@
 ---
 pid: cds77
 label: George Padmore Institute Archive
+label_es: Archivo del Instituto George Padmore
 link: https://www.georgepadmoreinstitute.org/
 section: Collections & Curations
 genre: Thematic Curations
@@ -21,7 +22,7 @@ blurb_es: El Instituto George Padmore es un archivo, recurso educativo y de inve
   relacionados con la comunidad negra del Caribe, y la descendencia africana y asiática
   en Gran Bretaña y Europa continental.
 census_year: '2020'
-order: '199'
+order: '197'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds77/thumbnail.jpg"

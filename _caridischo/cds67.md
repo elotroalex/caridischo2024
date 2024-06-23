@@ -18,14 +18,14 @@ blurb_orig: This is an open-source edition of Claude McKay's 1922 collection of 
 blurb_en: This is an open-source edition of Claude McKay's 1922 collection of poems
   Harlem Shadows. It seeks to aggregate the most comprehensive set of documents related
   to Harlem Shadows and make them available to students and readers of McKay.
-blurb_es: Esta es una edición de acceso abierto de la colección de poemas de <em>Harlem
-  Shadows</em> (Sombras de Harlem) de Claude McKay. Busca agregar el conjunto más
-  completo de documentos relacionados con <em>Harlem Shadows</em> y ponerlos a disposición
-  de los estudiantes y lectores de McKay.
+blurb_es: Esta es una edición de acceso abierto de la colección de poemas de *Harlem
+  Shadows* (Sombras de Harlem) de Claude McKay. Busca agregar el conjunto más completo
+  de documentos relacionados con *Harlem Shadows* y ponerlos a disposición de los
+  estudiantes y lectores de McKay.
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
-order: '188'
+order: '186'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds67/thumbnail.jpg"

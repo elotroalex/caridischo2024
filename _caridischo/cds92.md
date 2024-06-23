@@ -2,6 +2,8 @@
 pid: cds92
 label: 'Caribbean Sexualities: Love | Hope | Community: Sexualities & Social Justice
   in the Caribbean'
+label_es: 'Sexualidades caribeñas: amor | Esperanza | Comunidad: Sexualidades y Justicia
+  Social en el Caribe'
 link: http://caribbeansexualities.org/
 section: Collections & Curations
 genre: Thematic Curations
@@ -28,7 +30,7 @@ blurb_es: Esta colección, centrada en las sexualidades del Caribe y la justicia
 added_by: Kaneesha Parsard
 twitter: "@kaneeshaparsard"
 census_year: '2020'
-order: '214'
+order: '212'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds92/thumbnail.jpg"

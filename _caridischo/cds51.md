@@ -28,7 +28,7 @@ blurb_es: El archivo digital de teatro cubano (CTDA) es un recurso para la inves
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
-order: '172'
+order: '170'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds51/thumbnail.jpg"

@@ -43,7 +43,7 @@ blurb_es: Financiado por el programa &quot;Collections as Data&quot; (Coleccione
 added_by: Perry Collins
 twitter: "@perrycollins"
 census_year: '2020'
-order: '163'
+order: '161'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds43/thumbnail.jpg"

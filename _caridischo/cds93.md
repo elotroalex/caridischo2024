@@ -1,6 +1,7 @@
 ---
 pid: cds93
 label: Maroon Country
+label_es: País cimarrón
 link: http://marooncountry.org
 section: Collections & Curations
 genre: Thematic Curations
@@ -22,7 +23,7 @@ blurb_es: El país cimarrón es un recurso educativo multimedia centrado en la h
 added_by: Schuyler Esprit
 twitter: "@schuyleresprit"
 census_year: '2020'
-order: '215'
+order: '213'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds93/thumbnail.jpg"

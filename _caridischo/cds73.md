@@ -37,7 +37,7 @@ blurb_es: "&quot;Primeros Negros en las Américas&quot; es una plataforma educat
 added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
-order: '195'
+order: '193'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds73/thumbnail.jpg"

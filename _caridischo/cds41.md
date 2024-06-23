@@ -26,7 +26,7 @@ blurb_es: El Centro es un instituto de investigación que está dedicado al estu
   conserva, y proporciona acceso a los recursos de la biblioteca que documenta la
   historia y la cultura puertorriquenes.
 census_year: '2020'
-order: '161'
+order: '159'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds41/thumbnail.jpg"

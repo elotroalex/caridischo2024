@@ -21,7 +21,7 @@ blurb_es: Bibliografía desarrollada durante los talleres públicos para la cole
 added_by: Amalia S. Levi
 twitter: "@amaliasl"
 census_year: '2020'
-order: '062'
+order: '061'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds16/thumbnail.jpg"

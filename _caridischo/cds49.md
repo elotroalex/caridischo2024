@@ -34,7 +34,7 @@ blurb_es: Crear Caribe, Inc. apunta a desarrollar la capacidad creativa de los j
 added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
-order: '169'
+order: '167'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds49/thumbnail.jpg"

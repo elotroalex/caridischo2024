@@ -42,7 +42,7 @@ blurb_es: La literatura del Caribe es excepcional, tanto en lenguaje como en suj
 added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
-order: '147'
+order: '145'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds29/thumbnail.jpg"

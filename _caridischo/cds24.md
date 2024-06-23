@@ -13,41 +13,41 @@ status: Active
 language: English|Español
 creators: Jennifer Lambe
 stewards: Brown University
-blurb_orig: '"Beyond the Sugar Curtain: Tracing Cuba-U.S. Connections (1959-Present)"
+blurb_orig: "&quot;Beyond the Sugar Curtain: Tracing Cuba-U.S. Connections (1959-Present)&quot;
   seeks to contribute to a new if fragile age of diplomatic normalization by exploring
   the past and present of travel and encounter between the two nations. Pushing beyond
-  depictions of a "sugar curtain" or "emotional embargo," this project features spaces
-  and moments of connection in the post-1959 period, including but not limited to
-  those between the United States and Cuba. From students to activists, family members
-  and journalists, human ties have long defied political obstacles, bridging the material
-  and affective barriers wrought by diplomatic isolation. Even in the most unpropitious
-  circumstances, citizens of both countries have thus found room for mutual inspiration,
-  productive disagreement, and even friendship and love.'
-blurb_en: '"Beyond the Sugar Curtain: Tracing Cuba-U.S. Connections (1959-Present)"
+  depictions of a &quot;sugar curtain&quot; or &quot;emotional embargo,&quot; this
+  project features spaces and moments of connection in the post-1959 period, including
+  but not limited to those between the United States and Cuba. From students to activists,
+  family members and journalists, human ties have long defied political obstacles,
+  bridging the material and affective barriers wrought by diplomatic isolation. Even
+  in the most unpropitious circumstances, citizens of both countries have thus found
+  room for mutual inspiration, productive disagreement, and even friendship and love."
+blurb_en: "&quot;Beyond the Sugar Curtain: Tracing Cuba-U.S. Connections (1959-Present)&quot;
   seeks to contribute to a new if fragile age of diplomatic normalization by exploring
   the past and present of travel and encounter between the two nations. Pushing beyond
-  depictions of a "sugar curtain" or "emotional embargo," this project features spaces
-  and moments of connection in the post-1959 period, including but not limited to
-  those between the United States and Cuba. From students to activists, family members
-  and journalists, human ties have long defied political obstacles, bridging the material
-  and affective barriers wrought by diplomatic isolation. Even in the most unpropitious
-  circumstances, citizens of both countries have thus found room for mutual inspiration,
-  productive disagreement, and even friendship and love.'
-blurb_es: '"Más allá del telón de azúcar: Los lazos humanos entre Cuba y Estados Unidos
-  desde 1959" propone contextualizar el proceso de "normalización" a través de una
-  excavación de su pasado, presente, y futuro. Más allá de representaciones de un
-  "telón de azúcar" o "embargo emocional," este proyecto se enfoca en los espacios
-  y momentos de conexión en el período post-1959, sobre todo pero no exclusivamente
-  entre Cuba y los Estados Unidos. Estudiantes, activistas, familiares y periodistas:
-  los lazos humanos han, durante mucho tiempo, desafiado a todas las fronteras políticas,
-  traspasando los límites materiales y afectivos del aislamiento diplomático. En medio
-  de las circunstancias menos propicias, ciudadanos de los dos países han buscado
-  espacio para la inspiración mutua, el desacuerdo productivo, la amistad, y hasta
-  el amor.'
+  depictions of a &quot;sugar curtain&quot; or &quot;emotional embargo,&quot; this
+  project features spaces and moments of connection in the post-1959 period, including
+  but not limited to those between the United States and Cuba. From students to activists,
+  family members and journalists, human ties have long defied political obstacles,
+  bridging the material and affective barriers wrought by diplomatic isolation. Even
+  in the most unpropitious circumstances, citizens of both countries have thus found
+  room for mutual inspiration, productive disagreement, and even friendship and love."
+blurb_es: "&quot;Más allá del telón de azúcar: Los lazos humanos entre Cuba y Estados
+  Unidos desde 1959&quot; propone contextualizar el proceso de &quot;normalización&quot;
+  a través de una excavación de su pasado, presente, y futuro. Más allá de representaciones
+  de un &quot;telón de azúcar&quot; o &quot;embargo emocional,&quot; este proyecto
+  se enfoca en los espacios y momentos de conexión en el período post-1959, sobre
+  todo pero no exclusivamente entre Cuba y los Estados Unidos. Estudiantes, activistas,
+  familiares y periodistas: los lazos humanos han, durante mucho tiempo, desafiado
+  a todas las fronteras políticas, traspasando los límites materiales y afectivos
+  del aislamiento diplomático. En medio de las circunstancias menos propicias, ciudadanos
+  de los dos países han buscado espacio para la inspiración mutua, el desacuerdo productivo,
+  la amistad, y hasta el amor."
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
-order: '142'
+order: '140'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds24/thumbnail.jpg"

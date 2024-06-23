@@ -30,7 +30,7 @@ blurb_es: La Biblioteca de Estudios Glissant es un proyecto colectivo que no ser
 added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
-order: '216'
+order: '214'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds94/thumbnail.jpg"

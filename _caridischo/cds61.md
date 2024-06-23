@@ -24,7 +24,7 @@ blurb_es: Centrándose en las mujeres migrantes chinas que viajaron a la isla de
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
-order: '182'
+order: '180'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds61/thumbnail.jpg"

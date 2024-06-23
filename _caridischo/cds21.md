@@ -21,7 +21,7 @@ blurb_es: Organo de la Academia Dominicana de Historia fue, creada por el Decret
   No. 186 del 23 de julio de 1931 con el objetivo principal de conocer y estudiar
   el pasado en general, y principalmente el de la nación dominicana.
 census_year: '2020'
-order: '116'
+order: '115'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds21/thumbnail.jpg"

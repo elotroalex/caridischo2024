@@ -15,10 +15,10 @@ creators: 'Schuyler Esprit '
 stewards: Create Caribbean
 blurb_orig: 'The Dominica History web resource is a collaboration between the Division
   of Culture in Dominica and Create Caribbean Research Institute at Dominica State
-  College. This year, the theme is “Building Communities: 1838-1938.”'
+  College. This year, the theme is &quot;Building Communities: 1838-1938.&quot;'
 blurb_en: 'The Dominica History web resource is a collaboration between the Division
   of Culture in Dominica and Create Caribbean Research Institute at Dominica State
-  College. This year, the theme is “Building Communities: 1838-1938.”'
+  College. This year, the theme is &quot;Building Communities: 1838-1938.&quot;'
 blurb_es: 'El recurso web de la historia de Dominica es una colaboración entre la
   división de la cultura en Dominica y cree el Instituto de Investigación del Caribe
   en Dominica State College. Este año, el tema es &quot;Construyendo comunidades:
@@ -26,7 +26,7 @@ blurb_es: 'El recurso web de la historia de Dominica es una colaboración entre 
 added_by: 'Schuyler Esprit '
 twitter: "@schuyleresprit"
 census_year: '2020'
-order: '175'
+order: '173'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds55/thumbnail.jpg"

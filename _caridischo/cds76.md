@@ -19,7 +19,7 @@ blurb_es: Bibliografía (en construcción) sobre la comunidad judía de Barbados
 added_by: Amalia S. Levi
 twitter: "@amaliasl"
 census_year: '2020'
-order: '198'
+order: '196'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds76/thumbnail.jpg"

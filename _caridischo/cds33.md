@@ -40,7 +40,7 @@ blurb_es: El proyecto de investigación digital de Carisealand (Caribe Mar y Tie
 added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
 census_year: '2020'
-order: '152'
+order: '150'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds33/thumbnail.jpg"

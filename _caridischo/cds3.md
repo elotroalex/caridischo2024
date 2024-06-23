@@ -19,7 +19,7 @@ blurb_en: A Zotero collection of primary and secondary sources by and about Mart
 blurb_es: Una colección de zotero de fuentes primarias y secundarias por y sobre el
   poeta martinicano aimé Césaire.
 census_year: '2020'
-order: '148'
+order: '146'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds3/thumbnail.jpg"

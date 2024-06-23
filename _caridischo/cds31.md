@@ -21,8 +21,8 @@ blurb_es: La Biblioteca Digital del Caribe (DLOC) es una biblioteca digital coop
   con recursos sobre el Caribe y el Circum-Caribe.
 added_by: Alex Gil
 twitter: "@elotroalex"
-census_year: "2020"
-order: "150"
+census_year: '2020'
+order: '148'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds31/thumbnail.jpg"

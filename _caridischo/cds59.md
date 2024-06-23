@@ -1,6 +1,7 @@
 ---
 pid: cds59
 label: The Gay Freedom Movement in Jamaica
+label_es: El movimiento por la libertad gay en Jamaica
 link: https://dloc.com/collections/icirngfm
 section: Collections & Curations
 genre: Thematic Curations
@@ -20,7 +21,7 @@ blurb_es: El movimiento de libertad gay en Jamaica (GFM) se formó en septiembre
   1977 como el primer movimiento en el Caribe de habla inglesa en defensa de los derechos
   de las personas LGBT (lesbianas, gays, bisexuales y transexuales)
 census_year: '2020'
-order: '179'
+order: '177'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds59/thumbnail.jpg"

@@ -25,7 +25,7 @@ blurb_es: Bienvenido a la Libertad de creer, parte de un proyecto de teatro educ
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
-order: '190'
+order: '188'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds69/thumbnail.jpg"
