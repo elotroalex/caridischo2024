@@ -5,9 +5,9 @@ label_es: Consideraciones alternativas de Jonestown y el Templo del Pueblo
 link: https://jonestown.sdsu.edu/?page_id=70587
 section: Collections & Curations
 genre: Thematic Curations
-claimed_genre: a digital humanities project; annotated documents
-claimed_genre_en: a digital humanities project; annotated documents
-claimed_genre_es: un proyecto de humanidades digitales; documentos anotados
+claimed_genre: annotated documents
+claimed_genre_en: annotated documents
+claimed_genre_es: documentos anotados
 access: open
 status: Active
 language: English

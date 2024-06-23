@@ -9,6 +9,27 @@ layout: default
     <div class="pagination-link" id="prevlink"><a href="{{ prevlink | absolute_url }}">&#9668;</a></div>
     <div class="pagination-link" id="nextlink"><a href="{{ nextlink | absolute_url }}">&#9658;</a></div>
   </div>
+  <script>
+    document.addEventListener("keydown", function (event) {
+      if (event.key === "ArrowLeft") {
+        var prevlink = document.getElementById("prevlink");
+        if (prevlink) {
+          var link = prevlink.querySelector("a");
+          if (link) {
+            link.click();
+          }
+        }
+      } else if (event.key === "ArrowRight") {
+        var nextlink = document.getElementById("nextlink");
+        if (nextlink) {
+          var link = nextlink.querySelector("a");
+          if (link) {
+            link.click();
+          }
+        }
+      }
+    });
+  </script>
 </div>
 
 <div class="card thumbnail-card">
