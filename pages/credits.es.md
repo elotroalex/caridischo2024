@@ -25,7 +25,7 @@ El galardón de este año se lo lleva **Kelly Baker Josephs** con 8 entradas nue
 
 ### El sitio web
 
-El sitio web fue creado por Alex Gil en 2020 usando una versión curada y refinada de los datos en nuestra hoja de datos. En 2021, Alex le agregó navegación por facetas y capacidad multilingüe al sitio.
+El sitio web fue creado por Alex Gil en 2020 usando una versión curada y refinada de los datos en nuestra hoja de datos. En 2021, Alex le agregó navegación por facetas y capacidad multilingüe al sitio. En 2024, el sitio fue actualizado con navegación por facetas nuevas, un nuevo diseño y nuevas secciones.
 
 La arquitectura del sitio está construida con [Wax Facets](https://minicomp.github.io/wax-facets/), creado por [Alex Gil](https://github.com/elotroalex) y Angela Zoss. Wax Facets agrega navegación por facetas a Wax, un proyecto de computación mínima. ([minicomp](https://github.com/minicomp)) dirigido por [Marii Nyröp](http://marii.info/). Wax depende de [Jekyll](https://jekyllrb.com), [IIIF](http://iiif.io), [Leaflet IIIF](https://github.com/mejackreed/Leaflet-IIIF), [Rake](https://ruby.github.io/rake/), [ElasticLunr](http://elasticlunr.com/), y [IIIF_S3](https://github.com/cmoa/iiif_s3), y se apoya en trabajo previo de [Peter Binkley](https://github.com/pbinkley), [David Newbury](https://github.com/workergnome), y [Alex Gil](https://github.com/elotroalex). La localización multilingüe es posible gracias a [Polyglot](https://github.com/untra/polyglot) de Samuel Volin.
 

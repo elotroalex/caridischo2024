@@ -25,7 +25,7 @@ This year's cake is shared between **Kelly Baker Josephs** with 8 new entries, a
 
 ### The Site
 
-The site for the directory was built by Alex Gil using a curated and refined version of the data on our data sheet in 2020. In 2021, Alex added multilingual capacity to the site. In 2024, Alex added faceted browsing to the site.
+The site for the directory was built by Alex Gil using a curated and refined version of the data on our data sheet in 2020. In 2021, Alex added multilingual capacity to the site. In 2024, Alex added faceted browsing to the site. In 2024, the site was updated with new faceted browsing categories, a new design, and new sections.
 
 The site architecture is built with [Wax Facets](https://minicomp.github.io/wax-facets/), built by [Alex Gil](https://github.com/elotroalex) and Angela Zoss. Wax Facets adds faceted browsing to the original Wax, a minimal computing ([minicomp](https://github.com/minicomp)) project led by [Marii Nyröp](http://marii.info/). Wax relies on [Jekyll](https://jekyllrb.com), [IIIF](http://iiif.io), [Leaflet IIIF](https://github.com/mejackreed/Leaflet-IIIF), [Rake](https://ruby.github.io/rake/), [ElasticLunr](http://elasticlunr.com/), and [IIIF_S3](https://github.com/cmoa/iiif_s3), and builds upon work by [Peter Binkley](https://github.com/pbinkley), [David Newbury](https://github.com/workergnome), and [Alex Gil](https://github.com/elotroalex). Multilingual localization is made possible by [Polyglot](https://github.com/untra/polyglot) by Samuel Volin.
 
