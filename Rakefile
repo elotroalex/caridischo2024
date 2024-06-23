@@ -11,7 +11,7 @@ namespace :wax do
       allow_hash_href: true,
       assume_extension: true,
       check_html: true,
-      disable_external: true,
+      disable_external: false,
       empty_alt_ignore: true,
       only_4xx: true,
       verbose: false,
