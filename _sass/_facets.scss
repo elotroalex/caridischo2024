@@ -56,6 +56,31 @@ h6 {
   font-family: $heading-font;
 }
 
+// Responsive Headers
+@media (max-width: 768px) {
+  h1 {
+    font-size: 1.4rem;
+  }
+  h2 {
+    font-size: 1.2rem;
+  }
+  h3 {
+    font-size: 1rem;
+  }
+  h4 {
+    font-size: 1rem;
+  }
+  h5 {
+    font-size: 1rem;
+  }
+  h6 {
+    font-size: 1rem;
+  }
+  p {
+    font-size: 1rem;
+  }
+}
+
 // Links
 
 a {
@@ -129,6 +154,14 @@ a.action-button:hover {
 
 .item-metadata {
   padding: 3rem;
+
+  @media (max-width: 768px) {
+    padding: 2rem;
+  }
+
+  @media (max-width: 576px) {
+    padding: 1rem;
+  }
 }
 
 .metadata-block {
