@@ -39,8 +39,8 @@ blurb_es: "*archipelagos* es una publicación nacida en linea y revisada por par
   crítica: ensayos académicos; proyectos digitales; y reseñas de proyectos digitales."
 added_by: Alex Gil
 twitter: "@elotroalex"
-census_year: '2020'
-order: '000'
+census_year: "2020"
+order: "000"
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds1/thumbnail.jpg"
