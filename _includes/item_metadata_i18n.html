@@ -8,6 +8,6 @@
   {% endif %} {% endfor %} {% endfor %} {%- endcapture -%} {{pid_label}} {% endfor %} {%- endcapture -%} {% endif %}
 
   <dt>{{ item.label }}</dt>
-  <dd>{{ value | strip }}</dd>
+  <dd>{{ value | strip | markdownify }}</dd>
   {% endif %} {% endfor %}
 </dl>
