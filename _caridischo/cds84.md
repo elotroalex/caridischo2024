@@ -25,9 +25,8 @@ blurb_es: Nuestros libros unicos, mapas y periódicos cuentan la historia de la 
   Américas), su desaparición a causa de la revolución haitiana (la única revolución
   esclava exitosa del mundo) y la fundación de Haití en su lugar.
 added_by: Roopika Risam
-twitter: "@roopikarisam"
 census_year: '2020'
-order: '204'
+order: '206'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds84/thumbnail.jpg"

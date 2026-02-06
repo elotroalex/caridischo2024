@@ -20,7 +20,6 @@ blurb_en: This website is designed to give personal and scholarly perspectives o
 blurb_es: Este sitio web está diseñado para brindar perspectivas personales y académicas
   sobre este importante evento en la historia de la religión en América.
 added_by: Roopika Risam
-twitter: "@roopikarisam"
 census_year: '2020'
 order: '021'
 layout: caridischo_item

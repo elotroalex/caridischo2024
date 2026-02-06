@@ -23,9 +23,8 @@ blurb_es: Este es un curso diseñado para picar su interés, perfeccionar sus ha
   de Internet y afilar su comprensión intelectual de su campo (tanto historia general
   como de la historia del Caribe) y su representación en el Internet.
 added_by: Alex Gil
-twitter: "@elotroalex"
 census_year: '2020'
-order: '166'
+order: '168'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds48/thumbnail.jpg"

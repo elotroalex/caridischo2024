@@ -26,9 +26,8 @@ blurb_es: Este archivo fue establecido por las bibliotecas de la Universidad de 
   Aquí apuntamos a recoger juntos en un solo lugar la investigación y los trabajos
   de los miembros de la comunidad de UWI.
 added_by: Roopika Risam
-twitter: "@roopikarisam"
 census_year: '2020'
-order: '168'
+order: '170'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds5/thumbnail.jpg"

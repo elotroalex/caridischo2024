@@ -28,9 +28,8 @@ blurb_es: 'Este proyecto resulta de una colaboración entre más de 500 estudian
   indígenas, gente de color y personas de bajos ingresos. Es una continuación de los
   desproporcionados daños ambientales que estos grupos han resistido durante generaciones.'
 added_by: Roopika Risam
-twitter: "@roopikarisam"
 census_year: '2020'
-order: '190'
+order: '192'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds70/thumbnail.jpg"

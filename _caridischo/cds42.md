@@ -34,9 +34,8 @@ blurb_es: Apoyado por la Fundación Andrew W. Mellon, el archivo de respuestas d
   la Universidad de Puerto Rico-Mayagüez, la Universidad Estatal de Michigan y la
   Biblioteca Digital del Caribe (dLOC).
 added_by: Christina Boyles
-twitter: "@clboyles"
 census_year: '2020'
-order: '160'
+order: '162'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds42/thumbnail.jpg"

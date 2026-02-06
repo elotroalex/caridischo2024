@@ -18,7 +18,7 @@ blurb_en: This Special Collection presents all unrestrictedly available digital 
 blurb_es: Esta colección especial presenta todo el material digital disponible sin
   restricciones sobre el Caribe holandés publicado antes de 1954.
 census_year: '2020'
-order: '182'
+order: '184'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds63/thumbnail.jpg"

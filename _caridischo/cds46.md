@@ -37,9 +37,8 @@ blurb_es: Este sitio comenzó como un proyecto de WordPress colaborativo organiz
   así como poemas dispersos publicados en varias revistas jamaicanas, británicas y
   estadounidenses de los años 20 y 20, no incluido en esos volúmenes.
 added_by: Alex Gil
-twitter: "@elotroalex"
 census_year: '2020'
-order: '164'
+order: '166'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds46/thumbnail.jpg"

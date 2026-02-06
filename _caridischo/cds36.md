@@ -21,9 +21,8 @@ blurb_es: Este sitio web presenta información sobre una selección de juicios p
   religiosos que se dan lugar en el Caribe entre la década de 1760 y la década de
   1980.
 added_by: Roopika Risam
-twitter: "@roopikarisam"
 census_year: '2020'
-order: '153'
+order: '155'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds36/thumbnail.jpg"

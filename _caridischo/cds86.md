@@ -30,9 +30,8 @@ blurb_es: "&quot;An Island Luminous&quot; (Una Isla luminosa) es un sitio web so
   y los Estados Unidos con comentarios de más de cien (100) investigadores provenientes
   de universidades de todo el mundo."
 added_by: Alex Gil
-twitter: "@elotroalex"
 census_year: '2020'
-order: '206'
+order: '208'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds86/thumbnail.jpg"

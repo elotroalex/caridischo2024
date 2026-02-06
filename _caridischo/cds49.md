@@ -32,9 +32,8 @@ blurb_es: Crear Caribe, Inc. apunta a desarrollar la capacidad creativa de los j
   y difusión de la historia del Caribe, su herencia y otras áreas de importancia para
   la investigación.
 added_by: Alex Gil
-twitter: "@elotroalex"
 census_year: '2020'
-order: '167'
+order: '169'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds49/thumbnail.jpg"

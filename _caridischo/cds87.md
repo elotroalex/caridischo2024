@@ -27,9 +27,8 @@ blurb_es: Mapping Marronage (Cartografía del cimarronaje) es una visualización
   los cruces e intersecciones de cartas, testimonios y intercambios financieros por
   personas esclavizadas de ascendencia africana.
 added_by: Roopika Risam
-twitter: "@roopikarisam"
 census_year: '2020'
-order: '207'
+order: '209'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds87/thumbnail.jpg"

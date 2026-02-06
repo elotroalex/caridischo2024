@@ -21,7 +21,7 @@ blurb_es: El Directorio de Afrocubanas es una herramienta digital que recopila f
   de mujeres cubanas afrodescendientes, quienes han contribuido de manera significativa
   a la cultura e historia nacionales.
 census_year: '2020'
-order: '171'
+order: '173'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds52/thumbnail.jpg"

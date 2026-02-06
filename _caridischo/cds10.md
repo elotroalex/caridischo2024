@@ -26,9 +26,8 @@ blurb_es: ".baile .paso es una experiencia web basada en el tiempo [...]. Al pen
   de juego anarchivístico, está diseñado para múltiples compromisos, cambios con el
   tiempo y asume que nadie tomará el mismo camino."
 added_by: Schuyler Esprit
-twitter: "@schuyleresprit"
-census_year: "2020"
-order: "001"
+census_year: '2020'
+order: '001'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds10/thumbnail.jpg"

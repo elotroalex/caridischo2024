@@ -61,9 +61,8 @@ blurb_es: 'El Archivo Histórico Arquitectónico de Puerto Rico será un reposit
   de estilos arquitectónicos, sistemas de vivienda y los espacios de trabajo de /
   para los históricamente Grupos sociales marginados y silenciados.'
 added_by: Joshua Ortiz Baco
-twitter: "@jgob"
 census_year: '2020'
-order: '218'
+order: '220'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds99/thumbnail.jpg"

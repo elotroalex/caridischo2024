@@ -29,9 +29,8 @@ blurb_es: El proyecto Archivos de Barbados digitalizó una tirada del periódico
   (1838). Es un recurso importante para comprender la historia de Barbados a principios
   del siglo XIX y, por extensión, la historia colonial británica.
 added_by: Amalia S. Levi
-twitter: "@amaliasl"
 census_year: '2020'
-order: '143'
+order: '145'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds27/thumbnail.jpg"

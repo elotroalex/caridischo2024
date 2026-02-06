@@ -40,9 +40,8 @@ blurb_es: La literatura del Caribe es excepcional, tanto en lenguaje como en suj
   el estudio del Caribe y la diáspora negra, y, de hecho, centrales para nuestra comprensión
   del Nuevo Mundo.
 added_by: Alex Gil
-twitter: "@elotroalex"
 census_year: '2020'
-order: '145'
+order: '147'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds29/thumbnail.jpg"

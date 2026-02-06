@@ -25,9 +25,8 @@ blurb_es: Entre 1845 y 1917, se enviaron alrededor de 143,900 trabajadores hind�
   de trabajadores con contrato sin paga de la India a Trinidad, una de las colonias
   a las que se enviaron un gran número de trabajadores así contratados.
 added_by: Roopika Risam
-twitter: "@roopikarisam"
 census_year: '2020'
-order: '195'
+order: '197'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds75/thumbnail.jpg"

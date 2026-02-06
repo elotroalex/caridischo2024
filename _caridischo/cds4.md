@@ -26,9 +26,8 @@ blurb_es: Este sitio está diseñado para fomentar la exploración histórica y 
   del conocimiento colonial al poner en primer plano “voces” que los registros coloniales
   han tratado de silenciar.
 added_by: Amalia S. Levi
-twitter: "@amaliasl"
 census_year: '2020'
-order: '157'
+order: '159'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds4/thumbnail.jpg"

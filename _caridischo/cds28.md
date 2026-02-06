@@ -17,9 +17,8 @@ blurb_orig: Digitized ephemera material from the Barbados Archives.
 blurb_en: Digitized ephemera material from the Barbados Archives.
 blurb_es: Material digitalizado de efímeras de los archivos Barbados.
 added_by: Amalia S. Levi
-twitter: "@amaliasl"
 census_year: '2020'
-order: '144'
+order: '146'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds28/thumbnail.jpg"

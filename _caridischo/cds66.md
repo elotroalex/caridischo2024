@@ -23,9 +23,8 @@ blurb_es: Île en Île es un sitio web de acceso abierto y sin fines de lucro de
   a proporcionar una rica documentación de las islas de habla francesa y promover
   recursos informativos y no comerciales en el mundo de la isla.
 added_by: Alex Gil
-twitter: "@elotroalex"
 census_year: '2020'
-order: '185'
+order: '187'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds66/thumbnail.jpg"

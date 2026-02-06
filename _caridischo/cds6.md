@@ -20,9 +20,8 @@ blurb_es: "*African Diaspora, Ph.D.* (Diáspora africana, Ph.D.) es un blog cura
   que destaca la beca y los académicos en el campo de la historia de la diáspora africana
   del Atlántico."
 added_by: Alex Gil
-twitter: "@elotroalex"
 census_year: '2020'
-order: '178'
+order: '180'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds6/thumbnail.jpg"

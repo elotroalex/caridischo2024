@@ -45,9 +45,8 @@ blurb_es: "&quot;Más allá del telón de azúcar: Los lazos humanos entre Cuba 
   de los dos países han buscado espacio para la inspiración mutua, el desacuerdo productivo,
   la amistad, y hasta el amor."
 added_by: Roopika Risam
-twitter: "@roopikarisam"
 census_year: '2020'
-order: '140'
+order: '142'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds24/thumbnail.jpg"

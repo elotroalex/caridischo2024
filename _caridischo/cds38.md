@@ -31,9 +31,8 @@ blurb_es: Las Colecciones de bienes culturales del Centro León reunen informaci
   correspondiente a la colección de objetos antropológicos y obras de arte catalogados
   y clasificados por los departamentos de Antropología y Artes Visuales.
 added_by: Alex Gil
-twitter: "@elotroalex"
 census_year: '2020'
-order: '155'
+order: '157'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds38/thumbnail.jpg"

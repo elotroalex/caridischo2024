@@ -22,9 +22,8 @@ blurb_es: DAACS es un recurso comunitario, concebido y mantenido en el Departame
   de Arqueología de Monticello (Virginia, E.E.U.U.), en colaboración con las instituciones
   de investigación y los arqueólogos que trabajan en todo el mundo del Atlántico.
 added_by: Kaiama L. Glover
-twitter: "@inthewhirld"
 census_year: '2020'
-order: '165'
+order: '167'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds47/thumbnail.jpg"

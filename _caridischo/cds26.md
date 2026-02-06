@@ -28,9 +28,8 @@ blurb_es: Jennifer Carccio es un estudiante de doctorado en el Programa de Estud
   a las mujeres de las teorías feministas, poscoloniales y críticas de la raza, examina
   temas de identidad racial y misoginia en los textos caribeños y caribeños-estadounidenses.
 added_by: Roopika Risam
-twitter: "@roopikarisam"
 census_year: '2020'
-order: '142'
+order: '144'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds26/thumbnail.jpg"

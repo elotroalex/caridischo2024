@@ -26,9 +26,8 @@ blurb_es: Este es un espacio digital que explora el significado cultural del hur
   Irma y María en 2017 y se reunieron en la Universidad de Virginia en septiembre
   de 2019 para presentar y discutir su trabajo.
 added_by: Winnie Pérez Martínez
-twitter: "@_wepm"
 census_year: '2020'
-order: '147'
+order: '149'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds30/thumbnail.jpg"

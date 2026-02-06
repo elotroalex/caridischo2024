@@ -43,9 +43,8 @@ blurb_es: La esclavitud colonial formó la Gran Bretaña moderna y todos vivimos
   un recurso para estudiar a los propietarios de esclavos, también pueda proporcionar
   información de valor a aquellos que investigan personas esclavizadas.
 added_by: Roopika Risam
-twitter: "@roopikarisam"
 census_year: '2020'
-order: '209'
+order: '211'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds89/thumbnail.jpg"

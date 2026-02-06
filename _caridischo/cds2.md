@@ -31,9 +31,8 @@ blurb_es: Durante la altura del régimen fascista de Vichy en Martinica, Aimé C
   líder, Toussaint l'Ouverture, decidido a morir traicionado en una celda helada en
   las montañas de Jura en Francia en lugar de comprometer su verdad.
 added_by: Alex Gil
-twitter: "@elotroalex"
 census_year: '2020'
-order: '103'
+order: '104'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds2/thumbnail.jpg"

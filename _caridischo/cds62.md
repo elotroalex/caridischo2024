@@ -20,9 +20,8 @@ blurb_en: The Road to Independence is a multimedia web resource to celebrate Dom
 blurb_es: El camino a la independencia es un recurso web multimedia creado en honor
   a la Semana de la Historia de Dominica, 2015.
 added_by: Schuyler Esprit
-twitter: "@schuyleresprit"
 census_year: '2020'
-order: '181'
+order: '183'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds62/thumbnail.jpg"

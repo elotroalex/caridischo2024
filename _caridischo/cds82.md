@@ -26,9 +26,8 @@ blurb_es: El club de libros &quot;En todos mis sueños&quot;, celebrado de octub
   descubrir o explorar la cultura haitiana a través del prisma de una de las obras
   más importantes de la ficción literaria de Haití.
 added_by: Kaiama L. Glover
-twitter: "@inthewhirld"
 census_year: '2020'
-order: '202'
+order: '204'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds82/thumbnail.jpg"

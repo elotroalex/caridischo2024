@@ -17,9 +17,8 @@ blurb_orig: Bibliography (under construction) about the Jewish community of Barb
 blurb_en: Bibliography (under construction) about the Jewish community of Barbados.
 blurb_es: Bibliografía (en construcción) sobre la comunidad judía de Barbados.
 added_by: Amalia S. Levi
-twitter: "@amaliasl"
 census_year: '2020'
-order: '196'
+order: '198'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds76/thumbnail.jpg"

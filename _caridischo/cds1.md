@@ -18,7 +18,7 @@ blurb_orig: "*archipelagos* is a born-digital, peer-reviewed publication devoted
   in contemporary scholarly and artistic work in and on the Caribbean. Given the wide
   implications of the &quot;digital turn&quot; for our very conceptions of knowledge,
   our mission is to discern the ways in which the digital may enhance and transform
-  our comprehension of the regional and diasporic Caribbean. archipelagos responds
+  our comprehension of the regional and diasporic Caribbean. *archipelagos* responds
   to this challenge with three distinct dimensions of critical production: scholarly
   essays; digital scholarship projects; and digital project reviews."
 blurb_en: "*archipelagos* is a born-digital, peer-reviewed publication devoted to
@@ -26,7 +26,7 @@ blurb_en: "*archipelagos* is a born-digital, peer-reviewed publication devoted t
   in contemporary scholarly and artistic work in and on the Caribbean. Given the wide
   implications of the &quot;digital turn&quot; for our very conceptions of knowledge,
   our mission is to discern the ways in which the digital may enhance and transform
-  our comprehension of the regional and diasporic Caribbean. archipelagos responds
+  our comprehension of the regional and diasporic Caribbean. *archipelagos* responds
   to this challenge with three distinct dimensions of critical production: scholarly
   essays; digital scholarship projects; and digital project reviews."
 blurb_es: "*archipelagos* es una publicación nacida en linea y revisada por pares
@@ -38,9 +38,8 @@ blurb_es: "*archipelagos* es una publicación nacida en linea y revisada por par
   *archipelagos* responde a este desafío con tres dimensiones distintas de la producción
   crítica: ensayos académicos; proyectos digitales; y reseñas de proyectos digitales."
 added_by: Alex Gil
-twitter: "@elotroalex"
-census_year: "2020"
-order: "000"
+census_year: '2020'
+order: '000'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds1/thumbnail.jpg"

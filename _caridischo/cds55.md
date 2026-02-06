@@ -24,9 +24,8 @@ blurb_es: 'El recurso web de la historia de Dominica es una colaboración entre 
   en Dominica State College. Este año, el tema es &quot;Construyendo comunidades:
   1838-1938&quot;.'
 added_by: 'Schuyler Esprit '
-twitter: "@schuyleresprit"
 census_year: '2020'
-order: '173'
+order: '175'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds55/thumbnail.jpg"

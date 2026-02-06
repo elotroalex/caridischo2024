@@ -28,9 +28,8 @@ blurb_es: La Biblioteca de Estudios Glissant es un proyecto colectivo que no ser
   de los estudios de Glissant mediante la indexación de información y facilitando
   las colaboraciones entre los académicos, los estudiantes y las universidades.
 added_by: Alex Gil
-twitter: "@elotroalex"
 census_year: '2020'
-order: '214'
+order: '216'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds94/thumbnail.jpg"

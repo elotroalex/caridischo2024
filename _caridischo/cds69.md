@@ -23,9 +23,8 @@ blurb_es: Bienvenido a la Libertad de creer, parte de un proyecto de teatro educ
   que explora las historias sociales y religiosas del Caribe, dirigido por Diana Paton
   y financiado por el Consejo de Investigación de Artes y Humanidades.
 added_by: Roopika Risam
-twitter: "@roopikarisam"
 census_year: '2020'
-order: '188'
+order: '190'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds69/thumbnail.jpg"

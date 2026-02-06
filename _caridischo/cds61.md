@@ -22,9 +22,8 @@ blurb_es: Centrándose en las mujeres migrantes chinas que viajaron a la isla de
   entre 1860-1884, este proyecto comienza a llenar esta brecha, esta ausensia de narrativas
   femeninas.
 added_by: Roopika Risam
-twitter: "@roopikarisam"
 census_year: '2020'
-order: '180'
+order: '182'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds61/thumbnail.jpg"

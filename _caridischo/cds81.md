@@ -31,9 +31,8 @@ blurb_es: "&quot;En susurros y miradas furtivas&quot; es un proyecto de humanida
   han planteado por la vigilancia, la falta de acceso material y las limitaciones
   severas de la red y de hardware."
 added_by: Roopika Risam
-twitter: "@roopikarisam"
 census_year: '2020'
-order: '201'
+order: '203'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds81/thumbnail.jpg"

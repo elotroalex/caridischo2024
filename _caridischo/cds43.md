@@ -41,9 +41,8 @@ blurb_es: Financiado por el programa &quot;Collections as Data&quot; (Coleccione
   de los datos del periódico al crear un kit de herramientas temáticos piloto enfocado
   en huracanes y ciclones tropicales.
 added_by: Perry Collins
-twitter: "@perrycollins"
 census_year: '2020'
-order: '161'
+order: '163'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds43/thumbnail.jpg"

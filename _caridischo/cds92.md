@@ -28,9 +28,8 @@ blurb_es: Esta colección, centrada en las sexualidades del Caribe y la justicia
   contenido relacionado ya publicado en formato impreso, pero publicado en línea por
   primera vez, junto con nuevos materiales y recursos.
 added_by: Kaneesha Parsard
-twitter: "@kaneeshaparsard"
 census_year: '2020'
-order: '212'
+order: '214'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds92/thumbnail.jpg"

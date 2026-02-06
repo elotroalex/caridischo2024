@@ -23,9 +23,8 @@ blurb_es: A continuación se presentan descripciones y enlaces a colecciones de 
   y otros recursos celebrados en la Cuban Heritage Collection (Colección legado cubano)
   de la Universidad de Miami.
 added_by: Roopika Risam
-twitter: "@roopikarisam"
 census_year: '2020'
-order: '162'
+order: '164'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds44/thumbnail.jpg"

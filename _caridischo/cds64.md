@@ -46,9 +46,8 @@ blurb_es: "&quot;En los mismos barcos&quot;, es un trabajo de investigación mul
   y en los mismos cruces transatlánticos, literal y metafóricamente en los mismos
   barcos, ya que circulan en las Américas, África, Europa y más allá."
 added_by: Alex Gil
-twitter: "@elotroalex"
 census_year: '2020'
-order: '183'
+order: '185'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds64/thumbnail.jpg"

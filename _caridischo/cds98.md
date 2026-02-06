@@ -27,9 +27,8 @@ blurb_es: El Proyecto La Gaceta Real, que comienza a desarrollarse en 2014, est�
   los dos periódicos publicados durante el reino de Henry Christophe, así como la
   seis versiones diferentes del Almanaque Real de Haiti publicados por la Prensa Real.
 added_by: Kaiama L. Glover
-twitter: "@inthewhirld"
 census_year: '2020'
-order: '217'
+order: '219'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds98/thumbnail.jpg"

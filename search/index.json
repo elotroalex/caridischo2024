@@ -11,8 +11,8 @@ layout: none
     "claimed_genre_es": "una revista académica",
     "creators": "Kaiama Glover, Alex Gil",
     "stewards": "Columbia University Library",
-    "blurb_orig": "*archipelagos* is a born-digital, peer-reviewed publication devoted to creative exploration, debate, and critical thinking about and through digital practices in contemporary scholarly and artistic work in and on the Caribbean. Given the wide implications of the &quot;digital turn&quot; for our very conceptions of knowledge, our mission is to discern the ways in which the digital may enhance and transform our comprehension of the regional and diasporic Caribbean. archipelagos responds to this challenge with three distinct dimensions of critical production: scholarly essays; digital scholarship projects; and digital project reviews.",
-    "blurb_en": "*archipelagos* is a born-digital, peer-reviewed publication devoted to creative exploration, debate, and critical thinking about and through digital practices in contemporary scholarly and artistic work in and on the Caribbean. Given the wide implications of the &quot;digital turn&quot; for our very conceptions of knowledge, our mission is to discern the ways in which the digital may enhance and transform our comprehension of the regional and diasporic Caribbean. archipelagos responds to this challenge with three distinct dimensions of critical production: scholarly essays; digital scholarship projects; and digital project reviews.",
+    "blurb_orig": "*archipelagos* is a born-digital, peer-reviewed publication devoted to creative exploration, debate, and critical thinking about and through digital practices in contemporary scholarly and artistic work in and on the Caribbean. Given the wide implications of the &quot;digital turn&quot; for our very conceptions of knowledge, our mission is to discern the ways in which the digital may enhance and transform our comprehension of the regional and diasporic Caribbean. *archipelagos* responds to this challenge with three distinct dimensions of critical production: scholarly essays; digital scholarship projects; and digital project reviews.",
+    "blurb_en": "*archipelagos* is a born-digital, peer-reviewed publication devoted to creative exploration, debate, and critical thinking about and through digital practices in contemporary scholarly and artistic work in and on the Caribbean. Given the wide implications of the &quot;digital turn&quot; for our very conceptions of knowledge, our mission is to discern the ways in which the digital may enhance and transform our comprehension of the regional and diasporic Caribbean. *archipelagos* responds to this challenge with three distinct dimensions of critical production: scholarly essays; digital scholarship projects; and digital project reviews.",
     "blurb_es": "*archipelagos* es una publicación nacida en linea y revisada por pares dedicada a la exploración, debate y pensamiento crítico creativo sobre y a través de prácticas digitales en el trabajo académico y artístico contemporáneo en el Caribe. Dadas las amplias implicaciones del &quot;giro digital&quot; para nuestras mismas concepciones del conocimiento, nuestra misión es discernir las formas en que lo digital puede mejorar y transformar nuestra comprensión del Caribe regional y diásporo. *archipelagos* responde a este desafío con tres dimensiones distintas de la producción crítica: ensayos académicos; proyectos digitales; y reseñas de proyectos digitales.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds1/thumbnail.jpg",
@@ -44,8 +44,7 @@ layout: none
     "claimed_genre": "a corpus",
     "claimed_genre_en": "a corpus",
     "claimed_genre_es": "un corpus",
-    "creators": "Jean-Pierre Le Glaunec Léon Robichaud",
-    "stewards": "Université de Sherbrooke Groupe d'Histoire de l'Atlantique Français Fonds de Recherche Société et Culture Québec Conseil de Recherche en Sciences Humaines du Canada ",
+    "creators": "Jean-Pierre Le Glaunec, Léon Robichaud",
     "blurb_orig": "Initiative portée par le Groupe d'histoire de l'Atlantique Français (FRQSC) en collaboration avec le projet « SHADD Biography Project: Testimonies of West Africans from the Era of the Slave Trade » (CRSH) , « Le marronnage dans le monde atlantique » vise à décloisonner les archives de l'esclavage. En ligne depuis 2009, cette plateforme permet d’interroger un corpus inédit et évolutif composé de plus de 20 000 documents portant sur l’une des principales formes de résistance à l’esclavage.",
     "blurb_en": "Initiative led by the French Atlantic History Group (FRQSC) in collaboration with the project &quot;SHADD Biography Project: Testimonies of West Africans from the Era of the Slave Trade&quot; (CRSH), &quot;Le marronnage dans le monde atlantique&quot; aims to decompartmentalize the archives of slavery. Online since 2009, this platform makes it possible to interrogate an unprecedented and evolving corpus made up of more than 20,000 documents relating to one of the main forms of resistance to slavery.",
     "blurb_es": "La iniciativa liderada por el French Atlantic History Group (FRQSC) en colaboración con el proyecto &quot;Proyecto de biografía SHADD: Testimonios de africanos occidentales de la era de la trata de esclavos&quot; (CRSH), &quot;Le marronnage dans le monde atlantique&quot; (El cimarronaje en el mundo Atlantico) tiene como objetivo reunir los archivos de la esclavitud. En línea desde 2009, esta plataforma permite interrogar a un corpus inédito y en evolución compuesto por más de 20,000 documentos relacionados con una de las principales formas de resistencia a la esclavitud.",
@@ -65,7 +64,7 @@ layout: none
     "creators": "La Médiathèque Caraïbe (LAMECA)",
     "stewards": "La Médiathèque Caraïbe (LAMECA)",
     "blurb_orig": "La Médi@thèque Numérique de Guadeloupe is part of the Caribbean Media Library (LAMECA) project proposed by the General Council of Guadeloupe in order to federate documentary resources relating to the countries of the Caribbean basin by creating documentary tools making it possible to identify, locate or even exchange documents.",
-    "blurb_en": "La Digital Media Library of Guadeloupe is part of the Caribbean Media Library (LAMECA) project proposed by the General Council of Guadeloupe in order to federate documentary resources relating to the countries of the Caribbean basin by creating documentary tools making it possible to identify, locate or even exchange documents.",
+    "blurb_en": "The Digital Media Library of Guadeloupe is part of the Caribbean Media Library (LAMECA) project proposed by the General Council of Guadeloupe in order to federate documentary resources relating to the countries of the Caribbean basin by creating documentary tools making it possible to identify, locate or even exchange documents.",
     "blurb_es": "La Mediateca digital de Guadalupe forma parte del proyecto del Caribe Media Library (LAMECA) propuesto por el Consejo General de Guadalupe para federar los recursos documentales relacionados con los países de la Cuenca del Caribe mediante la creación de herramientas documentales que hacen posible identificar, localizar o incluso intercambiar documentos.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds101/thumbnail.jpg",
@@ -82,7 +81,7 @@ layout: none
     "claimed_genre_es": "una biblioteca digital",
     "stewards": "National Library of Jamaica",
     "blurb_orig": "To enhance access to its rich and varied collections, the National NLJ has digitized thousands of historical photographs, prints, drawings, pamphlets, programmes, manuscripts, books, rare maps and other rare and unique materials.",
-    "blurb_en": "To enhance access to its rich and varied collections, the National NLJ has digitized thousands of historical photographs, prints, drawings, pamphlets, programmes, manuscripts, books, rare maps and other rare and unique materials.",
+    "blurb_en": "To enhance access to its rich and varied collections, the National Library of Jamaica has digitized thousands of historical photographs, prints, drawings, pamphlets, programmes, manuscripts, books, rare maps and other rare and unique materials.",
     "blurb_es": "Para mejorar el acceso a sus colecciones ricas y variadas, la Biblioteca Nacional de Jamaica ha digitalizado miles de fotografías históricas, impresiones, dibujos, folletos, programas, manuscritos, libros, mapas raros y otros materiales raros y únicos.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds102/thumbnail.jpg",
@@ -98,9 +97,9 @@ layout: none
     "claimed_genre_en": "online publications",
     "claimed_genre_es": "publicaciones en línea",
     "stewards": "New Netherland Institute",
-    "blurb_orig": "The New Netherland Institute is making available digitized versions of translations and transcriptions of documents relating to New Netherland. Written in an archaic hand, these seventeenth-century documents were damaged by fire and water, but they are our best source of knowledge about the former Dutch colony. Available on this website are government records held by the New York State Archives, private and corporate papers from the collections of the New York State Library, and selected documents from other repositories. Scanned originals of many of these documents are available on the websites of the New York State Archives and New York State Library.",
-    "blurb_en": "The New Netherland Institute is making available digitized versions of translations and transcriptions of documents relating to New Netherland. Written in an archaic hand, these seventeenth-century documents were damaged by fire and water, but they are our best source of knowledge about the former Dutch colony. Available on this website are government records held by the New York State Archives, private and corporate papers from the collections of the New York State Library, and selected documents from other repositories. Scanned originals of many of these documents are available on the websites of the New York State Archives and New York State Library.",
-    "blurb_es": "El New Netherland Institute (Instituto de Nuevos Paises Bajos) está poniendo a disposición versiones digitalizadas de traducciones y transcripciones de documentos relacionados con Nuevos Paises Bajos. Escrito en una mano arcaica, estos documentos del siglo XVII fueron dañados por el fuego y el agua, pero son nuestra mejor fuente de conocimiento sobre la antigua colonia holandesa. Disponibles en este sitio web se encuentran registros gubernamentales en manos de los registros estatales de Nueva York, documentos privados y corporativos de las colecciones de la Biblioteca del Estado de Nueva York y documentos seleccionados de otros repositorios. Los originales escaneados de muchos de estos documentos están disponibles en los sitios web de los Archivos del Estado de Nueva York y la Biblioteca del Estado de Nueva York.",
+    "blurb_orig": "The New Netherland Institute makes available digitized versions of translations and transcriptions of documents relating to New Netherland. Written in an archaic hand, these seventeenth-century documents were damaged by fire and water, but they are our best source of knowledge about the former Dutch colony. [CariDisCho note: Although this collection is mostly focused on what is now New York, the collection includes important sub-collections related to the Caribbean].",
+    "blurb_en": "The New Netherland Institute makes available digitized versions of translations and transcriptions of documents relating to New Netherland. Written in an archaic hand, these seventeenth-century documents were damaged by fire and water, but they are our best source of knowledge about the former Dutch colony. [CariDisCho note: Although this collection is mostly focused on what is now New York, the collection includes important sub-collections related to the Caribbean].",
+    "blurb_es": "El New Netherland Institute pone a disposición versiones digitalizadas de traducciones y transcripciones de documentos relacionados con New Netherland. Escritos con letra arcaica, estos documentos del siglo XVII fueron dañados por el fuego y el agua, pero son nuestra mejor fuente de conocimiento sobre la antigua colonia holandesa. [Nota de CariDisCho: Aunque esta colección se centra principalmente en lo que hoy es Nueva York, la colección incluye importantes subcolecciones relacionadas con el Caribe].",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds103/thumbnail.jpg",
     "content": " ",
@@ -189,7 +188,7 @@ layout: none
     "stewards": "Post Bellum",
     "blurb_orig": "In 2017, Post Bellum, in cooperation with Florida International University, created the project &quot;Memory of the Cuban Nation: instrument for the transformation of Cuban society towards true freedom&quot; to honor Cuban dissidents and activists. This project, funded by the Ministry of Foreign Affairs of the Czech Republic through the Cooperation for Transformation Program, fulfills its purpose of collecting the testimonies and personal experiences of dissidents who oppose the totalitarian regime in Cuba.",
     "blurb_en": "In 2017, Post Bellum, in cooperation with Florida International University, created the project &quot;Memory of the Cuban Nation: instrument for the transformation of Cuban society towards true freedom&quot; to honor Cuban dissidents and activists. This project, funded by the Ministry of Foreign Affairs of the Czech Republic through the Cooperation for Transformation Program, fulfills its purpose of collecting the testimonies and personal experiences of dissidents who oppose the totalitarian regime in Cuba.",
-    "blurb_es": "En 2017, Post Bellum, en cooperación con la Universidad Internacional de Florida, creó el proyecto &quot;Memoria de la nación cubana: instrumento para la transformación de la sociedad cubana hacia la verdadera libertad&quot; para honrar a los disidentes y activistas cubanos. Este proyecto, financiado por el Ministerio de Asuntos Exteriores de la República Checa a través de la cooperación para el programa de transformación, cumple su propósito de recolectar los testimonios y las experiencias personales de los disidentes que se oponen al régimen totalitario en Cuba.",
+    "blurb_es": "En 2017, Post Bellum, en cooperación con la Universidad Internacional de la Florida (FIU), creó el proyecto &quot;Memoria de la nación cubana: instrumento para la transformación de la sociedad cubana hacia la verdadera libertad&quot; para honrar a los disidentes y activistas cubanos. Este proyecto, financiado por el Ministerio de Asuntos Exteriores de la República Checa a través del Programa para la Transformación a través de la Cooperación, cumple su propósito de recolectar los testimonios y las experiencias personales de los disidentes que se oponen al régimen totalitario en Cuba.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds109/thumbnail.jpg",
     "content": " ",
@@ -239,7 +238,7 @@ layout: none
     "creators": "Diana Paton et al.",
     "stewards": "Newcastle University",
     "blurb_orig": "Researching Prosecution for Religious Practice in the Caribbean",
-    "blurb_en": "Researching Prosecution for Religious Practice in the Caribbean",
+    "blurb_en": "Researching Prosecution for Religious Practice in the Caribbean.",
     "blurb_es": "Investigando la persecución por prácticas religiosas en el Caribe.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds111/thumbnail.jpg",
@@ -255,7 +254,7 @@ layout: none
     "claimed_genre_en": "a blog",
     "claimed_genre_es": "un blog",
     "blurb_orig": "Digital library: Caribbean, Amazonia, Guyana",
-    "blurb_en": "Digital library of the Caribbean, Amazonia, Guyana",
+    "blurb_en": "Digital library of the Caribbean, Amazonia, Guyana.",
     "blurb_es": "Biblioteca digital del Caribe, Amazonia y Guyana.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds112/thumbnail.jpg",
@@ -274,7 +273,7 @@ layout: none
     "stewards": "Berlin-Brandenburg Academy of Sciences and Humanities",
     "blurb_orig": "Digital edition of Humboldt's papers, including The American Travel Journals.",
     "blurb_en": "Digital edition of Humboldt's papers, including The American Travel Journals.",
-    "blurb_es": "Edición digital de los papeles de Humboldt, incluidas las revistas de viajes estadounidenses.",
+    "blurb_es": "Edición digital de los papeles de Humboldt, incluyendo los diarios de viajes estadounidenses.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds114/thumbnail.jpg",
     "content": " ",
@@ -309,7 +308,7 @@ layout: none
     "creators": "Adrian S. Wisnicki",
     "blurb_orig": "One More Voice focuses on recovering non-European contributions from nineteenth-century British imperial and colonial archives.",
     "blurb_en": "One More Voice focuses on recovering non-European contributions from nineteenth-century British imperial and colonial archives.",
-    "blurb_es": "&quot;Una voz más&quot; se ocupa en recuperar las contribuciones no-europeas de los archivos imperiales y coloniales británicos del siglo XIX.",
+    "blurb_es": "&quot;Una voz más&quot; se ocupa de recuperar las contribuciones no-europeas de los archivos imperiales y coloniales británicos del siglo XIX.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds116/thumbnail.jpg",
     "content": " ",
@@ -413,7 +412,7 @@ layout: none
     "creators": "Jane Landers",
     "blurb_orig": "The Slave Societies Digital Archive (formerly Ecclesiastical and Secular Sources for Slave Societies), directed by Jane Landers and hosted at Vanderbilt University, preserves endangered ecclesiastical and secular documents related to Africans and African-descended peoples in slave societies. SSDA holdings include more than 700,000 digital images drawn close to 2,000 unique volumes dating from the sixteenth through twentieth centuries that document the lives of an estimated four to six million individuals. This collection contains the most extensive serial records for the history of Africans in the Atlantic World, and also includes valuable information about the indigenous, European, and Asian populations who lived alongside them.",
     "blurb_en": "The Slave Societies Digital Archive (formerly Ecclesiastical and Secular Sources for Slave Societies), directed by Jane Landers and hosted at Vanderbilt University, preserves endangered ecclesiastical and secular documents related to Africans and African-descended peoples in slave societies. SSDA holdings include more than 700,000 digital images drawn from close to 2,000 unique volumes dating from the sixteenth through twentieth centuries that document the lives of an estimated four to six million individuals. This collection contains the most extensive serial records for the history of Africans in the Atlantic World, and also includes valuable information about the indigenous, European, and Asian populations who lived alongside them.",
-    "blurb_es": "El archivo digital de las sociedades esclavas (anteriormente fuentes eclesiásticas y seculares para las sociedades esclavas), dirigidas por Jane Landers y organizadas en la Universidad de Vanderbilt, conserva los documentos eclesiásticos y seculares en peligro de extinción relacionados con los africanos y los pueblos africanos y descendientes en las sociedades de esclavos. Los fondos de SSDA incluyen más de 700,000 imágenes digitales provenientes de alrededor de 2,000 volúmenes únicos que datan de los siglos XVI hasta el presente, y que documentan las vidas de un estimado de cuatro a seis millones de personas. Esta colección contiene los registros en serie más extensos para la historia de los africanos en el mundo del Atlántico, y también incluye información valiosa sobre las poblaciones indígenas, europeas y asiáticas que vivieron junto a ellos.",
+    "blurb_es": "El archivo digital de sociedades esclavistas (anteriormente fuentes eclesiásticas y seculares para las sociedades esclavistas), dirigido por Jane Landers en la Universidad de Vanderbilt, conserva los documentos eclesiásticos y seculares en peligro de extinción relacionados con los pueblos africanos y sus descendientes en las sociedades esclavistas. Los fondos de SSDA incluyen más de 700,000 imágenes digitales provenientes de alrededor de 2,000 volúmenes únicos que datan de los siglos XVI hasta el presente, y que documentan las vidas de un estimado de cuatro a seis millones de personas. Esta colección contiene los registros en serie más extensos para la historia de los africanos en el mundo del Atlántico, y también incluye información valiosa sobre las poblaciones indígenas, europeas y asiáticas que vivieron junto a ellos.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds122/thumbnail.jpg",
     "content": " ",
@@ -452,9 +451,26 @@ layout: none
     "blurb_es": "Un sitio de registros históricos haitianos trilingüe. Preservación visual de sitios históricos, naturales y culturales de Haití. Ofreciendo una guía visual a algunas de las mejores vistas de Haití---para el servicio de la investigación o demás.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds124/thumbnail.jpg",
-    "content": "para el servicio de la investigación o demás. added_by: Stephanie Curci twitter: '@stephcurci' census_year: '2020' order: '025' layout: caridischo_item collection: caridischo thumbnail: '/img/derivatives/simple/cds124/thumbnail.jpg' full: '/img/derivatives/simple/cds124/fullwidth.jpg' related_to: cds123 --- ",
+    "content": "para el servicio de la investigación o demás. added_by: Stephanie Curci census_year: '2020' order: '025' layout: caridischo_item collection: caridischo thumbnail: '/img/derivatives/simple/cds124/thumbnail.jpg' full: '/img/derivatives/simple/cds124/fullwidth.jpg' related_to: cds123 --- ",
     "permalink": "/caridischo/cds124",
     "lunr_id": 25
+  },
+  {
+    "pid": "cds125",
+    "label": "RSHHGG Lab: Online Index and Lab for the Revue de la Société Haïtienne d’Histoire, de Géographie et de Géologie",
+    "genre": "Bibliographies",
+    "claimed_genre": "a collection",
+    "claimed_genre_en": "a collection",
+    "claimed_genre_es": "una colección",
+    "creators": "Chelsea Stieber",
+    "blurb_orig": "Online Index and Lab for the Revue de la Société Haïtienne d’Histoire, de Géographie et de Géologie.",
+    "blurb_en": "Online Index and Lab for the Revue de la Société Haïtienne d’Histoire, de Géographie et de Géologie.",
+    "blurb_es": "Índice en línea y laboratorio para el Revue de la Société Haïtienne d'Histoire, de Géographie et de géologie.",
+    "collection": "caridischo",
+    "thumbnail": "/img/derivatives/simple/cds125/thumbnail.jpg",
+    "content": " ",
+    "permalink": "/caridischo/cds125",
+    "lunr_id": 26
   },
   {
     "pid": "cds126",
@@ -471,7 +487,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds126/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds126",
-    "lunr_id": 26
+    "lunr_id": 27
   },
   {
     "pid": "cds127",
@@ -488,7 +504,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds127/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds127",
-    "lunr_id": 27
+    "lunr_id": 28
   },
   {
     "pid": "cds128",
@@ -505,7 +521,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds128/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds128",
-    "lunr_id": 28
+    "lunr_id": 29
   },
   {
     "pid": "cds129",
@@ -523,7 +539,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds129/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds129",
-    "lunr_id": 29
+    "lunr_id": 30
   },
   {
     "pid": "cds13",
@@ -541,7 +557,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds13/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds13",
-    "lunr_id": 30
+    "lunr_id": 31
   },
   {
     "pid": "cds130",
@@ -552,14 +568,14 @@ layout: none
     "claimed_genre_es": "una colección digital",
     "creators": "Laura Wagner (Radio Haiti Archivist), Craig Breaden (Audiovisual Archivist), Tanya Thomas, Krystelle Rocourt, Catherine Farmer, Eline Roilllet (student assistants), and other Duke Libraries staff",
     "stewards": "Duke University (Rubenstein Library)",
-    "blurb_orig": "Complete audio archive of Haiti's first and most prominent independent radio station, Radio Haïti-Inter (Jean L. Dominique and Michèle Montas). Funded by the National Endowment for the Humanities and the Council on Library and Information Resources",
-    "blurb_en": "Complete audio archive of Haiti's first and most prominent independent radio station, Radio Haïti-Inter (Jean L. Dominique and Michèle Montas). Funded by the National Endowment for the Humanities and the Council on Library and Information Resources",
+    "blurb_orig": "Complete audio archive of Haiti's first and most prominent independent radio station, Radio Haïti-Inter (Jean L. Dominique and Michèle Montas). Funded by the National Endowment for the Humanities and the Council on Library and Information Resources.",
+    "blurb_en": "Complete audio archive of Haiti's first and most prominent independent radio station, Radio Haïti-Inter (Jean L. Dominique and Michèle Montas). Funded by the National Endowment for the Humanities and the Council on Library and Information Resources.",
     "blurb_es": "Archivo de audio completo de la primera y más prominente estación de radio independiente de Haití, Radio Haïti-Inter (Jean L. Dominique y Michèle Montas). Financiado por el Fondo Nacional para las Humanidades y el Consejo de Recursos de Biblioteca e Información (E.E.U.U.).",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds130/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds130",
-    "lunr_id": 31
+    "lunr_id": 32
   },
   {
     "pid": "cds131",
@@ -570,13 +586,13 @@ layout: none
     "claimed_genre_es": "un blog",
     "creators": "Ivette Romero-Cesareo, Lisa Paravisini-Gebert",
     "blurb_orig": "News and commentary on Caribbean culture, literature, and the arts",
-    "blurb_en": "News and commentary on Caribbean culture, literature, and the arts",
+    "blurb_en": "News and commentary on Caribbean culture, literature, and the arts.",
     "blurb_es": "Noticias y comentarios sobre la cultura del Caribe, la literatura y las artes.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds131/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds131",
-    "lunr_id": 32
+    "lunr_id": 33
   },
   {
     "pid": "cds132",
@@ -594,7 +610,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds132/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds132",
-    "lunr_id": 33
+    "lunr_id": 34
   },
   {
     "pid": "cds133",
@@ -612,7 +628,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds133/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds133",
-    "lunr_id": 34
+    "lunr_id": 35
   },
   {
     "pid": "cds134",
@@ -629,7 +645,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds134/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds134",
-    "lunr_id": 35
+    "lunr_id": 36
   },
   {
     "pid": "cds135",
@@ -640,13 +656,13 @@ layout: none
     "claimed_genre_es": "mapas",
     "creators": "Liberty Martin",
     "blurb_orig": "A map of Black British protests, uprisings and battles throughout the 20th century",
-    "blurb_en": "A map of Black British protests, uprisings and battles throughout the 20th century",
+    "blurb_en": "A map of Black British protests, uprisings and battles throughout the 20th century.",
     "blurb_es": "Un mapa de protestas británicas negras, levantamientos y batallas a lo largo del siglo XX.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds135/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds135",
-    "lunr_id": 36
+    "lunr_id": 37
   },
   {
     "pid": "cds137",
@@ -655,7 +671,8 @@ layout: none
     "claimed_genre": "a multimedia exhibit",
     "claimed_genre_en": "a multimedia exhibit",
     "claimed_genre_es": "una exposición multimedia",
-    "creators": "Andrew Blank Morgan Cornacchini  Nathan H. Dize Porter Geer Paul Miller Mikael Reijonen Claire Weinstein Elisabeth Zak",
+    "creators": "Andrew Blank, Morgan Cornacchini, Nathan H. Dize, Porter Geer, Paul Miller, Mikael Reijonen, Claire Weinstein and Elisabeth Zak",
+    "stewards": "Scalar",
     "blurb_orig": "The Spring 2018 version of Vanderbilt’s FREN 3621: Enlightenment and Revolution course explores the historical forces, motivating ideas and consequences relating to the events of the French revolutionary period of 1789-1794 and the Haitian revolutionary period of 1791-1804.",
     "blurb_en": "The Spring 2018 Vanderbilt’s FREN 3621: Enlightenment and Revolution course explores the historical forces, motivating ideas and consequences relating to the events of the French revolutionary period of 1789-1794 and the Haitian revolutionary period of 1791-1804.",
     "blurb_es": "El curso de Vanderbilt FREN 3621: Enlightenment and Revolution (Francés 3621: Esclarecimiento y revolución), en el semestre primavera del 2018, se propuso explorar las fuerzas históricas, las ideas motoras y las consecuencias relacionadas con los eventos del período revolucionario francés de 1789-1794 y el período revolucionario haitiano de 1791-1804.",
@@ -663,7 +680,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds137/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds137",
-    "lunr_id": 37
+    "lunr_id": 38
   },
   {
     "pid": "cds138",
@@ -680,7 +697,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds138/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds138",
-    "lunr_id": 38
+    "lunr_id": 39
   },
   {
     "pid": "cds139",
@@ -698,7 +715,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds139/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds139",
-    "lunr_id": 39
+    "lunr_id": 40
   },
   {
     "pid": "cds14",
@@ -713,7 +730,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds14/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds14",
-    "lunr_id": 40
+    "lunr_id": 41
   },
   {
     "pid": "cds140",
@@ -731,7 +748,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds140/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds140",
-    "lunr_id": 41
+    "lunr_id": 42
   },
   {
     "pid": "cds141",
@@ -749,7 +766,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds141/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds141",
-    "lunr_id": 42
+    "lunr_id": 43
   },
   {
     "pid": "cds142",
@@ -761,13 +778,13 @@ layout: none
     "creators": "S. Max Edelson and Bill Ferster",
     "stewards": "S. Max Edelson",
     "blurb_orig": "Maps and visualizations of the British Caribbean in the eighteenth century, with a special focus on the Ceded Islands. A digital map exhibition produced on MapScholar, and NEH-funded platform for geospatial visualization. Produced in tandem with Edelson, The New Map of Empire (Harvard, 2017)",
-    "blurb_en": "Maps and visualizations of the British Caribbean in the eighteenth century, with a special focus on the Ceded Islands. A digital map exhibition produced on MapScholar, and NEH-funded platform for geospatial visualization. Produced in tandem with Edelson, *The New Map of Empire* (Harvard, 2017)",
+    "blurb_en": "Maps and visualizations of the British Caribbean in the eighteenth century, with a special focus on the Ceded Islands. A digital map exhibition produced on MapScholar, and NEH-funded platform for geospatial visualization. Produced in tandem with Edelson, *The New Map of Empire* (Harvard, 2017).",
     "blurb_es": "Mapas y visualizaciones del Caribe británico en el siglo XVIII, con un enfoque especial en las islas cedidas. Una exposición de mapas digitales producida en la MapScholar, plataforma financiada por la NEH para la visualización geoespacial. Producido en tándem con Edelson, *The New Map of Empire* (el nuevo Mapa del Imperio, Harvard, 2017).",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds142/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds142",
-    "lunr_id": 43
+    "lunr_id": 44
   },
   {
     "pid": "cds143",
@@ -779,12 +796,12 @@ layout: none
     "stewards": "Howard-Tilton Memorial Library",
     "blurb_orig": "From his office and studios on the fifth floor of &quot; The Freedom Tower&quot;  in Miami, Italian-American businessman Louis J. Boeri and his company, America's Productions, Inc. (API), formed a radio programming empire, selling their shows to government, to more than 200 radio stations throughout Latin America and Spain, and to Spanish-speaking radio stations in the United States during the second half of the 1960s. With scripts written by acclaimed exiled Cuban screenwriters and Mexican writers, America's Productions, Inc. produced two types of programs: the first with political content and the second, of a more general nature, distinguished as &quot; pure entertainment.&quot;  Designed for a Latin American and Latino audience residing in the US, the pure entertainment included radio soap operas / dramas, comedies, advice and self-help programs, biblical dramas, mysteries, spy stories, and variety shows.",
     "blurb_en": "From his office and studios on the fifth floor of &quot;The Freedom Tower&quot;  in Miami, Italian-American businessman Louis J. Boeri and his company, America's Productions, Inc. (API), formed a radio programming empire, selling their shows to government, to more than 200 radio stations throughout Latin America and Spain, and to Spanish-speaking radio stations in the United States during the second half of the 1960s. With scripts written by acclaimed exiled Cuban screenwriters and Mexican writers, America's Productions, Inc. produced two types of programs: the first with political content and the second, of a more general nature, distinguished as &quot;pure entertainment.&quot;  Designed for a Latin American and Latino audience residing in the US, the pure entertainment included radio soap operas/dramas, comedies, advice and self-help programs, biblical dramas, mysteries, spy stories, and variety shows.",
-    "blurb_es": "Desde su oficina y estudios en el quinto piso de &quot;La torre de la libertad &quot; en Miami, el empresario italiano-estadounidense Louis J. Boeri y su compañía, America's Productions, Inc. (API), formaron un imperio de programación de radio, vendiendo sus espectáculos al gobierno, a más de 200 estaciones de radio en América Latina y España, y a estaciones de radio de habla hispana en los Estados Unidos durante la segunda mitad de la década de 1960. Con guiones escritos por aclamados guionistas cubanos exiliados y escritores mexicanos, America's Productions, Inc. producía dos tipos de programas: los primeros con contenido político y los segundos, de naturaleza más general, designados como &quot;Entretenimiento puro.& quot; Diseñado para una audiencia latinoamericana y latina residente en los EE.UU., El entretenimiento puro incluía telenovelas de radio/dramas, comedias, consejos y programas de autoayuda, dramas bíblicas, misterios, historias de espías y espectáculos de variedades.",
+    "blurb_es": "Desde su oficina y estudios en el quinto piso de &quot;La torre de la libertad &quot; en Miami, el empresario italiano-estadounidense Louis J. Boeri y su compañía, America's Productions, Inc. (API), formaron un imperio de programación de radio, vendiendo sus espectáculos al gobierno, a más de 200 estaciones de radio en América Latina y España, y a estaciones de radio de habla hispana en los Estados Unidos durante la segunda mitad de la década de 1960. Con guiones escritos por aclamados guionistas cubanos exiliados y escritores mexicanos, America's Productions, Inc. producía dos tipos de programas: los primeros con contenido político y los segundos, de naturaleza más general, designados como &quot;Entretenimiento puro.&quot; Diseñado para una audiencia latinoamericana y latina residente en los EE.UU., El entretenimiento puro incluía telenovelas de radio/dramas, comedias, consejos y programas de autoayuda, dramas bíblicas, misterios, historias de espías y espectáculos de variedades.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds143/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds143",
-    "lunr_id": 44
+    "lunr_id": 45
   },
   {
     "pid": "cds144",
@@ -800,7 +817,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds144/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds144",
-    "lunr_id": 45
+    "lunr_id": 46
   },
   {
     "pid": "cds145",
@@ -810,13 +827,13 @@ layout: none
     "claimed_genre_en": "a dictionary",
     "claimed_genre_es": "un diccionario",
     "blurb_orig": "A dictionary of Caribbean English",
-    "blurb_en": "A dictionary of Caribbean English",
-    "blurb_es": "Un diccionario de inglés caribeño",
+    "blurb_en": "A dictionary of Caribbean English.",
+    "blurb_es": "Un diccionario de inglés caribeño.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds145/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds145",
-    "lunr_id": 46
+    "lunr_id": 47
   },
   {
     "pid": "cds146",
@@ -829,12 +846,12 @@ layout: none
     "stewards": "Create Caribbean ",
     "blurb_orig": "SPAT Memory Project is a repository for the publications and related documents of the Dominica-based non-profit organization, Small Projects Assistance Team (locally known as SPAT).",
     "blurb_en": "SPAT Memory Project is a repository for the publications and related documents of the Dominica-based non-profit organization, Small Projects Assistance Team (locally known as SPAT).",
-    "blurb_es": "Este proyecto de memoria alberga un repositorio para las publicaciones y documentos relacionados al Equipo de Asistencia de Pequeños Proyectos (conocido localmente como SPAT), organización sin fines de lucro con sede en Dominica.",
+    "blurb_es": "Este proyecto de memoria alberga un repositorio de publicaciones y documentos relacionados al Equipo de Asistencia de Pequeños Proyectos (conocido localmente como SPAT), organización sin fines de lucro con sede en Dominica.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds146/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds146",
-    "lunr_id": 47
+    "lunr_id": 48
   },
   {
     "pid": "cds147",
@@ -852,7 +869,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds147/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds147",
-    "lunr_id": 48
+    "lunr_id": 49
   },
   {
     "pid": "cds148",
@@ -870,7 +887,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds148/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds148",
-    "lunr_id": 49
+    "lunr_id": 50
   },
   {
     "pid": "cds149",
@@ -887,7 +904,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds149/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds149",
-    "lunr_id": 50
+    "lunr_id": 51
   },
   {
     "pid": "cds15",
@@ -904,7 +921,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds15/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds15",
-    "lunr_id": 51
+    "lunr_id": 52
   },
   {
     "pid": "cds150",
@@ -922,7 +939,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds150/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds150",
-    "lunr_id": 52
+    "lunr_id": 53
   },
   {
     "pid": "cds151",
@@ -940,7 +957,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds151/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds151",
-    "lunr_id": 53
+    "lunr_id": 54
   },
   {
     "pid": "cds152",
@@ -957,7 +974,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds152/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds152",
-    "lunr_id": 54
+    "lunr_id": 55
   },
   {
     "pid": "cds153",
@@ -975,7 +992,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds153/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds153",
-    "lunr_id": 55
+    "lunr_id": 56
   },
   {
     "pid": "cds155",
@@ -991,7 +1008,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds155/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds155",
-    "lunr_id": 56
+    "lunr_id": 57
   },
   {
     "pid": "cds156",
@@ -1008,7 +1025,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds156/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds156",
-    "lunr_id": 57
+    "lunr_id": 58
   },
   {
     "pid": "cds157",
@@ -1018,14 +1035,14 @@ layout: none
     "claimed_genre_en": "a digital archive",
     "claimed_genre_es": "un archivo digital",
     "creators": "Tony Hadley",
-    "blurb_orig": "Photographic cyber museum of vernacular and colonial images",
-    "blurb_en": "Photographic cyber museum of vernacular and colonial images",
+    "blurb_orig": "Photographic cyber museum of vernacular and colonial images.",
+    "blurb_en": "Photographic cyber museum of vernacular and colonial images.",
     "blurb_es": "Museo cibernético fotográfico de imágenes vernáculas y coloniales.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds157/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds157",
-    "lunr_id": 58
+    "lunr_id": 59
   },
   {
     "pid": "cds158",
@@ -1036,14 +1053,14 @@ layout: none
     "claimed_genre_es": "una exposición",
     "creators": "Malick W. Ghachem, Susan Danforth, Leslie Tobias-Olsen",
     "stewards": "The John Carter Brown Library, Brown University",
-    "blurb_orig": "In many instances the revolutionary spirit can be only dimly perceived through the eye-witness accounts and recollections of literate white colonists and free people of color, but it is there all the same.\nThe exhibition items have been chosen, and the captions written, so as to provide a running narrative of the Haitian Revolution.",
-    "blurb_en": "In many instances, the Black revolutionary spirit can only be dimly perceived through the eye-witness accounts and recollections of literate white colonists and free people of color, but it is there all the same. These exhibition items have been chosen, and the captions written, so as to provide a running narrative of the Haitian Revolution.",
-    "blurb_es": "En muchos casos, el espíritu revolucionario negro puede ser tan solo percibido en las cuentas de los testigos oculares y los recuerdos de colonos blancos alfabetizados y la gente libre de color, pero allí reside de todos modos. En la siguiente, se han elegido artículos, y se han escritos descripciones para esta exposición con el fin de proporcionar una narrativa en ejecución de la revolución haitiana.",
+    "blurb_orig": "Few sources survive that record the thoughts and sentiments of the tens of thousands of illiterate slaves who carried out the Haitian Revolution. But some of that treasure, something of the Haitian revolutionary spirit–its stirring promise, and also its tragic disappointments–is still preserved in the books, pamphlets, maps, and prints displayed in this room. In many instances the revolutionary spirit can be only dimly perceived through the eye-witness accounts and recollections of literate white colonists and free people of color, but it is there all the same. The exhibition items have been chosen, and the captions written, so as to provide a running narrative of the Haitian Revolution. ",
+    "blurb_en": "Few sources survive that record the thoughts and sentiments of the tens of thousands of illiterate slaves who carried out the Haitian Revolution. But some of that treasure, something of the Haitian revolutionary spirit–its stirring promise, and also its tragic disappointments–is still preserved in the books, pamphlets, maps, and prints displayed in this room. In many instances the revolutionary spirit can be only dimly perceived through the eye-witness accounts and recollections of literate white colonists and free people of color, but it is there all the same. The exhibition items have been chosen, and the captions written, so as to provide a running narrative of the Haitian Revolution. ",
+    "blurb_es": "Sobreviven pocas fuentes que registren los pensamientos y sentimientos de las decenas de miles de esclavos analfabetos que llevaron a cabo la Revolución haitiana. Pero parte de ese tesoro, algo del espíritu revolucionario haitiano—su conmovedora promesa y también sus trágicos desengaños—aún se conserva en los libros, folletos, mapas y grabados expuestos en esta sala. En muchos casos, el espíritu revolucionario sólo puede percibirse vagamente a través de los relatos de los testigos oculares y los recuerdos de colonos blancos y personas libres de color alfabetizadas, pero de todos modos está ahí. Los elementos de la exposición han sido elegidos y los títulos escritos de manera que proporcionen una narrativa continua de la Revolución haitiana.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds158/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds158",
-    "lunr_id": 59
+    "lunr_id": 60
   },
   {
     "pid": "cds159",
@@ -1053,13 +1070,13 @@ layout: none
     "claimed_genre_en": "an archive",
     "claimed_genre_es": "un archivo",
     "blurb_orig": "Youtube channel that tends to have many Carribbean writers and artists featured on it.",
-    "blurb_en": "Curating and releasing rare recordings into the world. Vintage radio, poets and writers reading their works, interviews, jazz, and more. This channel receives no monetary compensation from, nor is it affiliated with any institutions or nonprofits. Any ads are due to copyright claims on the videos. The Youtube channel tends to have many Carribbean writers and artists featured on it.",
-    "blurb_es": "Curando y lanzando grabaciones raras al mundo: Radio de antaño, poetas y escritores leyendo sus obras, entrevistas, jazz y más. Este canal de Youtube tiende a tener muchos escritores y artistas caribeños invitados.",
+    "blurb_en": "Curating and releasing rare recordings into the world. Vintage radio, poets and writers reading their works, interviews, jazz, and more. This channel receives no monetary compensation from, nor is it affiliated with any institutions or nonprofits. Any ads are due to copyright claims on the videos. The YouTube channel tends to have many Carribbean writers and artists featured on it.",
+    "blurb_es": "Curando y lanzando grabaciones raras al mundo: Radio de antaño, poetas y escritores leyendo sus obras, entrevistas, jazz y más. Este canal de YouTube tiende a tener muchos escritores y artistas caribeños invitados.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds159/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds159",
-    "lunr_id": 60
+    "lunr_id": 61
   },
   {
     "pid": "cds16",
@@ -1076,7 +1093,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds16/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds16",
-    "lunr_id": 61
+    "lunr_id": 62
   },
   {
     "pid": "cds160",
@@ -1094,7 +1111,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds160/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds160",
-    "lunr_id": 62
+    "lunr_id": 63
   },
   {
     "pid": "cds161",
@@ -1106,13 +1123,13 @@ layout: none
     "creators": "Yarimar Bonilla, Max Hantel",
     "stewards": "Rutgers University",
     "blurb_orig": "Animated video designed by Yarimar Bonilla (Rutgers University) and Max Hantel (Dartmouth College) for the journal SXArchipelagos.",
-    "blurb_en": "A series of visualizations and animated video designed by Yarimar Bonilla and Max Hantel for the journal sx archipelagos (1)",
-    "blurb_es": "Serie de visualizaciones y video animado diseñado por Yarimar Bonilla y Max Hantel para la revista sx archipelagos (1)",
+    "blurb_en": "A series of visualizations and animated video designed by Yarimar Bonilla and Max Hantel for the journal sx archipelagos (1).",
+    "blurb_es": "Serie de visualizaciones y video animado diseñado por Yarimar Bonilla y Max Hantel para la revista sx archipelagos (1).",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds161/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds161",
-    "lunr_id": 63
+    "lunr_id": 64
   },
   {
     "pid": "cds162",
@@ -1123,14 +1140,14 @@ layout: none
     "claimed_genre_es": "una exposición",
     "creators": "Rose Mary Allen et al. ",
     "stewards": "KITLV/Royal Netherlands Institute of Southeast Asian and Caribbean Studies",
-    "blurb_orig": "In this project, Caribbean and Dutch scholars and cultural heritage specialists address these questions, identifying and questioning the dynamics of heritage formation, and developing a multi-generational human resource base as well as a digital infrastructure for the preservation of insular cultural heritage, for outreach activities, and ultimately for stimulating the sustainable development of these non-sovereign SIDS.",
-    "blurb_en": "In this project, Caribbean and Dutch scholars and cultural heritage specialists address these questions, identifying and questioning the dynamics of heritage formation, and developing a multi-generational human resource base as well as a digital infrastructure for the preservation of insular cultural heritage, for outreach activities, and ultimately for stimulating the sustainable development of these non-sovereign SIDS.",
-    "blurb_es": "En este proyecto, los estudiosos caribeños y holandeses y los especialistas del patrimonio cultural abordan estas preguntas, identificando y cuestionando la dinámica de la formación del patrimonio y desarrollo de una base de recursos humanos multi-generacional, así como una infraestructura digital para la preservación del patrimonio cultural insular, y, en última instancia, para estimular el desarrollo sostenible de estos territorios no soberanos.",
+    "blurb_orig": "Centuries of intense migrations have deeply impacted the development of the creolized Papiamentu/o-speaking cultures of Aruba, Bonaire and Curacao. The islands’ asymmetrical relation to the Netherlands begs many questions regarding insular identities. In this project, Caribbean and Dutch scholars and cultural heritage specialists address these questions, identifying and questioning the dynamics of heritage formation, and developing a multi-generational human resource base as well as a digital infrastructure for the preservation of insular cultural heritage, for outreach activities, and ultimately for stimulating the sustainable development of these non-sovereign SIDS.",
+    "blurb_en": "Centuries of intense migrations have deeply impacted the development of the creolized Papiamentu/o-speaking cultures of Aruba, Bonaire and Curacao. The islands’ asymmetrical relation to the Netherlands begs many questions regarding insular identities. In this project, Caribbean and Dutch scholars and cultural heritage specialists address these questions, identifying and questioning the dynamics of heritage formation, and developing a multi-generational human resource base as well as a digital infrastructure for the preservation of insular cultural heritage, for outreach activities, and ultimately for stimulating the sustainable development of these non-sovereign SIDS.",
+    "blurb_es": "Siglos de intensas migraciones han impactado profundamente el desarrollo de las culturas creolizadas de habla papiamento de Aruba, Bonaire y Curazao. La relación asimétrica de las islas con los Países Bajos plantea muchas preguntas sobre las identidades insulares. En este proyecto, académicos y especialistas en patrimonio cultural caribeños y holandeses abordan estas preguntas, identificando y cuestionando la dinámica de la formación del patrimonio y desarrollando una base de recursos humanos multigeneracional, así como una infraestructura digital para la preservación del patrimonio cultural insular, para su divulgación. y, en última instancia, para estimular el desarrollo sostenible de estos pequeños Estados insulares en desarrollo no soberanos.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds162/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds162",
-    "lunr_id": 64
+    "lunr_id": 65
   },
   {
     "pid": "cds163",
@@ -1148,7 +1165,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds163/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds163",
-    "lunr_id": 65
+    "lunr_id": 66
   },
   {
     "pid": "cds164",
@@ -1165,7 +1182,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds164/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds164",
-    "lunr_id": 66
+    "lunr_id": 67
   },
   {
     "pid": "cds165",
@@ -1182,7 +1199,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds165/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds165",
-    "lunr_id": 67
+    "lunr_id": 68
   },
   {
     "pid": "cds166",
@@ -1199,7 +1216,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds166/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds166",
-    "lunr_id": 68
+    "lunr_id": 69
   },
   {
     "pid": "cds167",
@@ -1215,7 +1232,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds167/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds167",
-    "lunr_id": 69
+    "lunr_id": 70
   },
   {
     "pid": "cds168",
@@ -1232,7 +1249,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds168/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds168",
-    "lunr_id": 70
+    "lunr_id": 71
   },
   {
     "pid": "cds169",
@@ -1249,7 +1266,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds169/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds169",
-    "lunr_id": 71
+    "lunr_id": 72
   },
   {
     "pid": "cds17",
@@ -1265,7 +1282,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds17/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds17",
-    "lunr_id": 72
+    "lunr_id": 73
   },
   {
     "pid": "cds170",
@@ -1281,7 +1298,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds170/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds170",
-    "lunr_id": 73
+    "lunr_id": 74
   },
   {
     "pid": "cds171",
@@ -1298,7 +1315,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds171/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds171",
-    "lunr_id": 74
+    "lunr_id": 75
   },
   {
     "pid": "cds173",
@@ -1316,7 +1333,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds173/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds173",
-    "lunr_id": 75
+    "lunr_id": 76
   },
   {
     "pid": "cds174",
@@ -1333,7 +1350,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds174/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds174",
-    "lunr_id": 76
+    "lunr_id": 77
   },
   {
     "pid": "cds175",
@@ -1351,7 +1368,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds175/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds175",
-    "lunr_id": 77
+    "lunr_id": 78
   },
   {
     "pid": "cds177",
@@ -1368,7 +1385,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds177/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds177",
-    "lunr_id": 78
+    "lunr_id": 79
   },
   {
     "pid": "cds178",
@@ -1386,7 +1403,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds178/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds178",
-    "lunr_id": 79
+    "lunr_id": 80
   },
   {
     "pid": "cds179",
@@ -1403,7 +1420,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds179/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds179",
-    "lunr_id": 80
+    "lunr_id": 81
   },
   {
     "pid": "cds18",
@@ -1421,7 +1438,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds18/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds18",
-    "lunr_id": 81
+    "lunr_id": 82
   },
   {
     "pid": "cds180",
@@ -1433,12 +1450,12 @@ layout: none
     "creators": "[A network]",
     "blurb_orig": "‘Fanm Rebèl’, a Haitian Kreyòl term meaning ‘rebel women’, is a 3-year research project sponsored by the Leverhulme Trust and the Institute for Black Atlantic Research at the University of Central Lancashire. Led by Dr Nicole Willson, the project seeks to excavate stories of women in the Haitian Revolution. Spanning a 100-year trajectory, from 1750-1850, it broadens the conventional scope of the Haitian revolutionary calendar to encompass the radical acts of female insurgency and marronage that predate the Ogé Rebellion of 1790 and the insurgency of 1791, and extends beyond the birth of the Haitian Republic in 1804 to encompass the life cycle of Marie-Louise Christophe, first Queen of Haiti. It explores narratives of resistance articulated through spiritual practice, domestic labour, creativity, survival, subterfuge and armed combat. ",
     "blurb_en": "‘Fanm Rebèl’, a Haitian Kreyòl term meaning ‘rebel women’, is a 3-year research project sponsored by the Leverhulme Trust and the Institute for Black Atlantic Research at the University of Central Lancashire. Led by Dr Nicole Willson, the project seeks to excavate stories of women in the Haitian Revolution. Spanning a 100-year trajectory, from 1750-1850, it broadens the conventional scope of the Haitian revolutionary calendar to encompass the radical acts of female insurgency and marronage that predate the Ogé Rebellion of 1790 and the insurgency of 1791, and extends beyond the birth of the Haitian Republic in 1804 to encompass the life cycle of Marie-Louise Christophe, first Queen of Haiti. It explores narratives of resistance articulated through spiritual practice, domestic labour, creativity, survival, subterfuge and armed combat. ",
-    "blurb_es": "Fanm Rebèl', un término haitiano Kreyòl que significa 'Mujer rebelde', es un proyecto de investigación de 3 años patrocinado por el fondo de Leverhulme y el Instituto de Investigación Atlántico Negra en la Universidad de Central Lancashire (Inglaterra). Dirigido por la Dra. Nicole Willson, el proyecto busca excavar historias de mujeres en la Revolución Haitiana. Abarcando una trayectoria de 100 años, desde 1750-1850, amplía el alcance convencional del calendario revolucionario haitiano para abarcar los actos radicales de insurgencia y marronaje femenino que anteceden a la rebelión de Ogé de 1790 y la insurgencia de 1791, y se extiende más allá del nacimiento de la República Haitiana en 1804 para abarcar el ciclo de vida de Marie-Louise Christophe, la primera reina de Haití. Explora las narrativas de resistencia articuladas a través de la práctica espiritual, el trabajo doméstico, la creatividad, la supervivencia, el subterfugio y el combate armado.",
+    "blurb_es": "&quot;Fanm Rebèl,&quot; un término haitiano Kreyòl que significa 'Mujer rebelde', es un proyecto de investigación de 3 años patrocinado por el fondo de Leverhulme y el Instituto de Investigación Atlántico Negra en la Universidad de Central Lancashire (Inglaterra). Dirigido por la Dra. Nicole Willson, el proyecto busca excavar historias de mujeres en la Revolución Haitiana. Abarcando una trayectoria de 100 años, desde 1750-1850, amplía el alcance convencional del calendario revolucionario haitiano para abarcar los actos radicales de insurgencia y marronaje femenino que anteceden a la rebelión de Ogé de 1790 y la insurgencia de 1791, y se extiende más allá del nacimiento de la República Haitiana en 1804 para abarcar el ciclo de vida de Marie-Louise Christophe, la primera reina de Haití. Explora las narrativas de resistencia articuladas a través de la práctica espiritual, el trabajo doméstico, la creatividad, la supervivencia, el subterfugio y el combate armado.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds180/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds180",
-    "lunr_id": 82
+    "lunr_id": 83
   },
   {
     "pid": "cds181",
@@ -1456,7 +1473,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds181/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds181",
-    "lunr_id": 83
+    "lunr_id": 84
   },
   {
     "pid": "cds182",
@@ -1467,13 +1484,13 @@ layout: none
     "claimed_genre_es": "serie de retratos",
     "creators": "Haruka Sakaguchi",
     "blurb_orig": "&quot;I Am Taíno&quot; is a portrait series addressing paper genocide and the manipulation of Taíno identity. The Taíno are the indigenous peoples of the Spanish-speaking Caribbean who were believed to be extinct up until recently, partly because the racial category for being indigenous (&quot;indio&quot;) was removed from census reports in the early 1800s, and they were forced to identify as either white, black or mixed on forthcoming census reports. The Taíno refer to this process as &quot;paper genocide.&quot;",
-    "blurb_en": "&quot;I Am Taíno&quot; is a portrait series addressing paper genocide and the manipulation of Taíno identity. The Taíno are the indigenous peoples of the Spanish-speaking Caribbean who were believed to be extinct up until recently, partly because the racial category for being indigenous (&quo;tindio&quot;) was removed from census reports in the early 1800s, and they were forced to identify as either white, black or mixed on forthcoming census reports. The Taíno refer to this process as &quot;paper genocide.&quot;",
-    "blurb_es": "&quot;Soy taíno&quot; es una serie de retratos que aborda el genocidio documental, y la manipulación de la identidad Taína. El Taíno son los pueblos indígenas del Caribe de habla hispana que se creían extintos hasta hace poco, en parte porque la categoría racial de indígena (&quot;Indio&quot;) se eliminó de los informes del censo a principios del siglo XIX, y se vieron obligados a identificarse como blancos, negros o mezclas en los próximos informes del censo. Soy Taíno se refiere a este proceso como &quot;genocidio documental&quot;.",
+    "blurb_en": "&quot;I Am Taíno&quot; is a portrait series addressing paper genocide and the manipulation of Taíno identity. The Taíno are the indigenous peoples of the Spanish-speaking Caribbean who were believed to be extinct up until recently, partly because the racial category for being indigenous (&quot;indio&quot;) was removed from census reports in the early 1800s, and they were forced to identify as either white, black or mixed on forthcoming census reports. The Taíno refer to this process as &quot;paper genocide.&quot;",
+    "blurb_es": "&quot;Soy taíno&quot; es una serie de retratos que aborda el genocidio documental, y la manipulación de la identidad Taína. El Taíno son los pueblos indígenas del Caribe de habla hispana que se creían extintos hasta hace poco, en parte porque la categoría racial de indígena (&quot;Indio&quot;) se eliminó de los informes del censo a principios del siglo XIX, y se vieron obligados a identificarse como blancos, negros o mezclas en los próximos informes del censo. &quot;Soy Taíno&quot; se refiere a este proceso como &quot;genocidio documental&quot;.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds182/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds182",
-    "lunr_id": 84
+    "lunr_id": 85
   },
   {
     "pid": "cds183",
@@ -1489,7 +1506,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds183/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds183",
-    "lunr_id": 85
+    "lunr_id": 86
   },
   {
     "pid": "cds184",
@@ -1507,7 +1524,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds184/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds184",
-    "lunr_id": 86
+    "lunr_id": 87
   },
   {
     "pid": "cds185",
@@ -1516,16 +1533,16 @@ layout: none
     "claimed_genre": "intergenerational oral history archive",
     "claimed_genre_en": "an intergenerational oral history archive",
     "claimed_genre_es": "un archivo de historia oral intergeneracional",
-    "creators": "[The Team]",
-    "stewards": "[The Team]",
-    "blurb_orig": "Ro(u)ted By Our Stories is an intergenerational oral history archive dedicated to capturing, preserving and sharing the stories of the Indo-Caribbean diaspora's silenced voices. This archive works to center the stories of womxn and gender expansive folx at various intersections of identity including but not limited to those who identify as LGBTQIA+, mixed-race, Muslim, and/or working class. It is a living, growing archive of stories from communities who have inherited the legacies of indenture, rooted in histories and traditions of oral storytelling. In the tradition of Indo-Caribbean feminist thinkers and inspired by the work of diasporic writers like Paul Gilroy, we are inspired to document our heritage (&quot;roots&quot;) but also our migration stories (&quot;routes&quot;)",
-    "blurb_en": "&quot;Ro(u)ted By Our Stories&quot; is an intergenerational oral history archive dedicated to capturing, preserving and sharing the stories of the Indo-Caribbean diaspora's silenced voices. This archive works to center the stories of womxn and gender expansive folx at various intersections of identity including but not limited to those who identify as LGBTQIA+, mixed-race, Muslim, and/or working class. It is a living, growing archive of stories from communities who have inherited the legacies of indenture, rooted in histories and traditions of oral storytelling. In the tradition of Indo-Caribbean feminist thinkers and inspired by the work of diasporic writers like Paul Gilroy, we are inspired to document our heritage (&quot;roots&quot;) but also our migration stories (&quot;routes&quot;)",
-    "blurb_es": "&quot;Ro(u)ted By Our Stories&quot; (Enrutados por nuestras historias) es un archivo de historia oral intergeneracional dedicado a capturar, preservar y compartir las historias de las voces silenciadas de la diáspora del Indo-Caribe. Este archivo centraliza las historias de varias intersecciones de identidad, incluidas, entre otras, las personas que se identifican como LGBTQIA+, de raza mixta, los musulmanes y/o la clase obrera. Es un archivo vivo y creciente de historias de las comunidades que han heredado los legados del trabajo por contrato sin paga, arraigados en historias y tradiciones de narración oral. Siiguiendo la tradición de pensadores feministas indo-caribeñas e inspirados en el trabajo de los escritores diáspóricos como Paul Gilroy, documentamos nuestro patrimonio (&quot;raíces&quot;), pero también nuestras historias de migración (&quot;rutas&quot;)",
+    "creators": "Arita Balaram et. al.",
+    "stewards": "Jahajee Sisters and the Graduate Center, City University of New York",
+    "blurb_orig": "Ro(u)ted By Our Stories is an inter-generational oral history archive dedicated to capturing, preserving and sharing the stories of the Indo-Caribbean diaspora's silenced voices. This archive works to center the stories of women and gender expansive folks at various intersections of identity. We created this archive with the intention of staying true to the tradition in Indo-Caribbean culture of using oral histories to pass down knowledge, stories, history and information through generations. It is a living, growing archive of stories from communities who have inherited the legacies of indenture, rooted in histories and traditions of oral storytelling. With this archive, we are challenging normative ideas about whose memories are deemed \"worthy\" of being remembered.",
+    "blurb_en": "Ro(u)ted By Our Stories is an inter-generational oral history archive dedicated to capturing, preserving and sharing the stories of the Indo-Caribbean diaspora's silenced voices. This archive works to center the stories of women and gender expansive folks at various intersections of identity. We created this archive with the intention of staying true to the tradition in Indo-Caribbean culture of using oral histories to pass down knowledge, stories, history and information through generations. It is a living, growing archive of stories from communities who have inherited the legacies of indenture, rooted in histories and traditions of oral storytelling. With this archive, we are challenging normative ideas about whose memories are deemed \"worthy\" of being remembered.",
+    "blurb_es": "Ro(u)ted By Our Stories es un archivo de historia oral intergeneracional dedicado a capturar, preservar y compartir las historias de las voces silenciadas de la diáspora indocaribeña. Este archivo trabaja para centrar las historias de mujeres y personas de género expansivo en diversas intersecciones de identidad. Creamos este archivo con la intención de mantenernos fieles a la tradición de la cultura indocaribeña de utilizar historias orales para transmitir conocimientos, relatos, historia e información de generación en generación. Es un archivo vivo y en crecimiento de historias de comunidades que han heredado el legado del contrato, arraigado en historias y tradiciones de narración oral. Con este archivo, desafiamos las ideas normativas sobre qué recuerdos se consideran \"dignos\" de ser recordados.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds185/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds185",
-    "lunr_id": 87
+    "lunr_id": 88
   },
   {
     "pid": "cds186",
@@ -1541,7 +1558,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds186/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds186",
-    "lunr_id": 88
+    "lunr_id": 89
   },
   {
     "pid": "cds187",
@@ -1559,7 +1576,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds187/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds187",
-    "lunr_id": 89
+    "lunr_id": 90
   },
   {
     "pid": "cds188",
@@ -1576,7 +1593,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds188/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds188",
-    "lunr_id": 90
+    "lunr_id": 91
   },
   {
     "pid": "cds189",
@@ -1594,7 +1611,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds189/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds189",
-    "lunr_id": 91
+    "lunr_id": 92
   },
   {
     "pid": "cds19",
@@ -1611,7 +1628,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds19/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds19",
-    "lunr_id": 92
+    "lunr_id": 93
   },
   {
     "pid": "cds190",
@@ -1629,7 +1646,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds190/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds190",
-    "lunr_id": 93
+    "lunr_id": 94
   },
   {
     "pid": "cds191",
@@ -1646,7 +1663,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds191/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds191",
-    "lunr_id": 94
+    "lunr_id": 95
   },
   {
     "pid": "cds192",
@@ -1663,7 +1680,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds192/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds192",
-    "lunr_id": 95
+    "lunr_id": 96
   },
   {
     "pid": "cds193",
@@ -1680,7 +1697,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds193/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds193",
-    "lunr_id": 96
+    "lunr_id": 97
   },
   {
     "pid": "cds194",
@@ -1697,7 +1714,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds194/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds194",
-    "lunr_id": 97
+    "lunr_id": 98
   },
   {
     "pid": "cds195",
@@ -1714,7 +1731,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds195/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds195",
-    "lunr_id": 98
+    "lunr_id": 99
   },
   {
     "pid": "cds196",
@@ -1726,12 +1743,12 @@ layout: none
     "creators": "Kora Verón, Kaiama Glover, Alex Gil",
     "blurb_orig": "Le jeune poète Aimé Césaire, venu de la Martinique, élabore Cahier d'un retour au pays natal à partir de 1935, alors qu'il est élève à l'École normale supérieure de la rue d'Ulm (à Paris). Son poème fondateur paraît en août 1939, à la veille de la guerre dans la revue Volontés. Le tapuscrit du poème envoyé par Césaire à son éditeur est conservé par les archives de l'Assemblée nationale. Vous pouvez le consulter, avec une transcription linéarisée en regard. Une transcription simplifiée du Cahier d'un retour au pays natal est aussi disponible, ainsi que sa traduction en anglais. Une édition critique s'adressant plus particulièrement aux étudiants est en préparation et sera disponible en 2021.",
     "blurb_en": "The young poet from Martinique, Aimé Césaire, wrote &quot;Cahier d'un retour au pays natal&quot; from 1935, while he was a student at the École normale supérieure in rue d'Ulm (in Paris). His inaugural poem appeared in August 1939, on the eve of the war in the review *Volontés*. The typescript of the poem sent by Césaire to his publisher is kept by the archives of the National Assembly. You can consult it in this edition, with a linearized transcription. A simplified transcription of the Notebook is also available, as well as its translation into English. ",
-    "blurb_es": "El joven poeta martiniqueño Aimé Césaire escribió &quot;Cahier d'un retour au pays natal&quot; desde 1935, mientras estudiaba en la École normale supérieure de la rue d'Ulm (en París). Su poema inaugural apareció en agosto de 1939, en vísperas de la guerra, en la revista * Volontés *. El texto mecanografiado del poema enviado por Césaire a su editor se conserva en los archivos de la Asamblea Nacional. Puedes consultarlo en esta edición, con una transcripción linealizada. También está disponible una transcripción simplificada del Cuaderno, así como su traducción al inglés.",
+    "blurb_es": "El joven poeta martiniqueño Aimé Césaire escribió &quot;Cahier d'un retour au pays natal&quot; desde 1935, mientras estudiaba en la École normale supérieure de la rue d'Ulm (en París). Su poema inaugural apareció en agosto de 1939, en vísperas de la guerra, en la revista *Volontés*. El texto mecanografiado del poema enviado por Césaire a su editor se conserva en los archivos de la Asamblea Nacional. Puedes consultarlo en esta edición, con una transcripción linealizada. También está disponible una transcripción simplificada del Cuaderno, así como su traducción al inglés.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds196/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds196",
-    "lunr_id": 99
+    "lunr_id": 100
   },
   {
     "pid": "cds197",
@@ -1748,7 +1765,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds197/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds197",
-    "lunr_id": 100
+    "lunr_id": 101
   },
   {
     "pid": "cds198",
@@ -1759,13 +1776,13 @@ layout: none
     "claimed_genre_es": "archivo digital",
     "creators": "Alexandra P. Gelbard",
     "blurb_orig": "[D]escriptive, ethnographic images forming a publicly accessible visual archive for the community and artistic images. [...] We intend for it to be a space where people can access information about the cabildo project, Regla's history, and engage with visual media that captures the process.",
-    "blurb_en": "[D]escriptive, ethnographic images forming a publicly accessible visual archive for the community and artistic images. [...] We intend for it to be a space where people can access information about the cabildo project, Regla's history, and engage with visual media that captures the process.",
-    "blurb_es": "[I]mágenes descriptivas y etnográficas que formen un archivo visual de acceso público para la comunidad e imágenes artísticas. [...] Pretendemos que sea un espacio en el que la gente pueda acceder a información sobre el proyecto de cabildo, la historia de Regla, y participar en los medios visuales que captan el proceso.",
+    "blurb_en": "Descriptive, ethnographic images forming a publicly accessible visual archive for the community and artistic images. [...] We intend for it to be a space where people can access information about the cabildo project, Regla's history, and engage with visual media that captures the process.",
+    "blurb_es": "Imágenes descriptivas y etnográficas que formen un archivo visual de acceso público para la comunidad e imágenes artísticas. [...] Pretendemos que sea un espacio en el que la gente pueda acceder a información sobre el proyecto de cabildo, la historia de Regla, y participar en los medios visuales que captan el proceso.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds198/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds198",
-    "lunr_id": 101
+    "lunr_id": 102
   },
   {
     "pid": "cds199",
@@ -1777,11 +1794,12 @@ layout: none
     "stewards": "Hemispheric Institute of Performance Studies, CTAH",
     "blurb_orig": "On rumba as a cartography of the Diaspora. Rumba is a transitory space, an international, transnational and post-national site in the making and unmaking of itself, in its performance. The geography of this site is the rumbos de la rumba, its different routes, directions, estadias in one locale and another, simultaneously when rumba is performed and fragmented by its relationship to location; once rumba is within and outside the barrio, solar, hood, ethnic group, place of origin and beyond. Rumba is its migratory condition. This world map is a world view that understand movement and sound as its epistemology. This site is the compilation of rumbas beyond place in the constant making and unmaking of place, nation and narration",
     "blurb_en": "On rumba as a cartography of the Diaspora. Rumba is a transitory space, an international, transnational and post-national site in the making and unmaking of itself, in its performance. The geography of this site is the rumbos de la rumba, its different routes, directions, estadias in one locale and another, simultaneously when rumba is performed and fragmented by its relationship to location; once rumba is within and outside the barrio, solar, hood, ethnic group, place of origin and beyond. Rumba is its migratory condition. This world map is a world view that understand movement and sound as its epistemology. This site is the compilation of rumbas beyond place in the constant making and unmaking of place, nation and narration",
+    "blurb_es": "Sobre la rumba como cartografía de la diáspora. La rumba es un espacio transitorio, un sitio internacional, transnacional y posnacional en el hacer y deshacer de sí mismo, en su desempeño. La geografía de este sitio son los rumbos de la rumba, sus diferentes rutas, direcciones, estadias en un lugar y en otro, simultáneamente cuando se interpreta la rumba y fragmentada por su relación con la ubicación; una vez que la rumba está dentro y fuera del barrio, solar, barrio, etnia, lugar de origen y más allá. La rumba es su condición migratoria. Este mapamundi es una visión del mundo que entiende el movimiento y el sonido como su epistemología. Este sitio es la recopilación de rumbas más allá del lugar en el constante hacer y deshacer lugar, nación y narración.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds199/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds199",
-    "lunr_id": 102
+    "lunr_id": 103
   },
   {
     "pid": "cds2",
@@ -1798,7 +1816,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds2/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds2",
-    "lunr_id": 103
+    "lunr_id": 104
   },
   {
     "pid": "cds20",
@@ -1816,7 +1834,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds20/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds20",
-    "lunr_id": 104
+    "lunr_id": 105
   },
   {
     "pid": "cds200",
@@ -1826,13 +1844,13 @@ layout: none
     "creators": "Gregson Davis",
     "stewards": "Duke University CFFS, Francophone Digital Humanities",
     "blurb_orig": "Notre objectif est à la fois philologique/textuel et exégétique. Nous prévoyons de publier les éditions numérisées de  (1) Le Cahier d’un retour au pays natal d’Aimé Césaire  et  (2) Une sélection de poèmes courts dans le volume : Cercle non vicieux : vingt poèmes d’Aimé Césaire (Stanford University Press, 1984).  Les éditions « Variorum » de ces travaux prendront en considération toutes les modifications apportées par Aimé Césaire au fil des publications ainsi que ses manuscrits. Notre édition inclura une traduction en anglais et des notes académiques. Nous débuterons avec la publication de Cercle non-vicieux.",
-    "blurb_en": "Our focus is both philological/textual and exegetical. We plan to publish the digital editions of (1) The Notebook of a Return to the Native Country of Aimé Césaire and (2) A selection of short poems in the volume: Non-vicious Circle: Twenty Poems of Aimé Césaire (Stanford University Press, 1984). The “Variorum” editions of these works will take into consideration all the modifications made by Aimé Césaire throughout the publications as well as his manuscripts. Our edition will include an English translation and academic notes. We will start with the publication of Non-Vicious Circle.",
-    "blurb_es": "Nuestro enfoque es tanto filológico/textual como exegético. Planeamos publicar las ediciones digitales de (1) El cuaderno de un regreso al país natal de Aimé Césaire y (2) Una selección de poemas cortos en el volumen: Círculo no vicioso: veinte poemas de Aimé Césaire (Stanford University Press , 1984). Las ediciones “Variorum” de estas obras tendrán en cuenta todas las modificaciones realizadas por Aimé Césaire a lo largo de las publicaciones así como de sus manuscritos. Nuestra edición incluirá una traducción al inglés y notas académicas. Comenzaremos con la publicación de No-Vicious Circle.",
+    "blurb_en": "Our focus is both philological/textual and exegetical. We plan to publish the digital editions of (1) The Notebook of a Return to the Native Country of Aimé Césaire and (2) A selection of short poems in the volume: Non-vicious Circle: Twenty Poems of Aimé Césaire (Stanford University Press, 1984). The “Variorum” editions of these works will take into consideration all the modifications made by Aimé Césaire throughout the publications as well as his manuscripts. Our edition will include an English translation and academic notes. ",
+    "blurb_es": "Nuestro enfoque es tanto filológico/textual como exegético. Planeamos publicar las ediciones digitales de (1) El cuaderno de un regreso al país natal de Aimé Césaire y (2) Una selección de poemas cortos en el volumen: Círculo no vicioso: veinte poemas de Aimé Césaire (Stanford University Press , 1984). Las ediciones “Variorum” de estas obras tendrán en cuenta todas las modificaciones realizadas por Aimé Césaire a lo largo de las publicaciones así como de sus manuscritos. Nuestra edición incluirá una traducción al inglés y notas académicas. ",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds200/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds200",
-    "lunr_id": 105
+    "lunr_id": 106
   },
   {
     "pid": "cds201",
@@ -1849,7 +1867,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds201/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds201",
-    "lunr_id": 106
+    "lunr_id": 107
   },
   {
     "pid": "cds202",
@@ -1865,7 +1883,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds202/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds202",
-    "lunr_id": 107
+    "lunr_id": 108
   },
   {
     "pid": "cds203",
@@ -1882,7 +1900,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds203/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds203",
-    "lunr_id": 108
+    "lunr_id": 109
   },
   {
     "pid": "cds204",
@@ -1897,7 +1915,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds204/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds204",
-    "lunr_id": 109
+    "lunr_id": 110
   },
   {
     "pid": "cds205",
@@ -1914,7 +1932,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds205/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds205",
-    "lunr_id": 110
+    "lunr_id": 111
   },
   {
     "pid": "cds206",
@@ -1925,13 +1943,13 @@ layout: none
     "creators": "Felicia Jantina Fricke, Gabriëlle Elisa La Crois, Gunvor Simonsen, Heather Freund, Rasmus Christensen",
     "stewards": "University of Copehhagen",
     "blurb_orig": "IN THE SAME SEA is the first systematic investigation of the combined history of the Lesser Antilles from the 1650s to the 1850s. The project advances the hypothesis that the Lesser Antilles were decisively shaped by inter-island connections that transformed separate islands into a common world of slavery and freedom. Living in fragile societies of limited resources and marked by racial slavery, plantation production, and long-distance commerce, enslaved Africans, free people of color, and Europeans depended on and gained vital resources from crossing the short sea routes to their neighbors in English, French, Dutch, Spanish, Danish, and Swedish colonies.  The project consists of a team specializing in the historiographies, archives, and languages of the six colonial powers present in the Lesser Antilles. A collaborative research methodology and digital solutions to data collection and mapping, enable the project to generate crucial new knowledge of how inter-island connections shaped the Lesser Antilles.  ",
-    "blurb_en": "IN THE SAME SEA is the first systematic investigation of the combined history of the Lesser Antilles from the 1650s to the 1850s. The project advances the hypothesis that the Lesser Antilles were decisively shaped by inter-island connections that transformed separate islands into a common world of slavery and freedom. Living in fragile societies of limited resources and marked by racial slavery, plantation production, and long-distance commerce, enslaved Africans, free people of color, and Europeans depended on and gained vital resources from crossing the short sea routes to their neighbors in English, French, Dutch, Spanish, Danish, and Swedish colonies.  The project consists of a team specializing in the historiographies, archives, and languages of the six colonial powers present in the Lesser Antilles. A collaborative research methodology and digital solutions to data collection and mapping, enable the project to generate crucial new knowledge of how inter-island connections shaped the Lesser Antilles.  ",
+    "blurb_en": "IN THE SAME SEA is the first systematic investigation of the combined history of the Lesser Antilles from the 1650s to the 1850s. The project advances the hypothesis that the Lesser Antilles were decisively shaped by inter-island connections that transformed separate islands into a common world of slavery and freedom. Living in fragile societies of limited resources and marked by racial slavery, plantation production, and long-distance commerce, enslaved Africans, free people of color, and Europeans depended on and gained vital resources from crossing the short sea routes to their neighbors in English, French, Dutch, Spanish, Danish, and Swedish colonies. The project consists of a team specializing in the historiographies, archives, and languages of the six colonial powers present in the Lesser Antilles. A collaborative research methodology and digital solutions to data collection and mapping, enable the project to generate crucial new knowledge of how inter-island connections shaped the Lesser Antilles.  ",
     "blurb_es": "EN EL MISMO MAR es la primera investigación sistemática de la historia combinada de las Antillas Menores desde la década de 1650 hasta la de 1850. El proyecto plantea la hipótesis de que las Antillas Menores fueron moldeadas decisivamente por conexiones entre islas que transformaron islas separadas en un mundo común de esclavitud y libertad. Al vivir en sociedades frágiles de recursos limitados y marcadas por la esclavitud racial, la producción de plantaciones y el comercio a larga distancia, los africanos esclavizados, las personas libres de color y los europeos dependían y obtenían recursos vitales al cruzar las rutas marítimas cortas hacia sus vecinos en inglés. Colonias francesas, holandesas, españolas, danesas y suecas. El proyecto está formado por un equipo especializado en las historiografías, archivos y lenguas de las seis potencias coloniales presentes en las Antillas Menores. Una metodología de investigación colaborativa y soluciones digitales para la recopilación de datos y el mapeo permiten que el proyecto genere nuevos conocimientos cruciales sobre cómo las conexiones entre islas dieron forma a las Antillas Menores.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds206/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds206",
-    "lunr_id": 111
+    "lunr_id": 112
   },
   {
     "pid": "cds207",
@@ -1948,7 +1966,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds207/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds207",
-    "lunr_id": 112
+    "lunr_id": 113
   },
   {
     "pid": "cds208",
@@ -1964,7 +1982,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds208/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds208",
-    "lunr_id": 113
+    "lunr_id": 114
   },
   {
     "pid": "cds209",
@@ -1980,7 +1998,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds209/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds209",
-    "lunr_id": 114
+    "lunr_id": 115
   },
   {
     "pid": "cds21",
@@ -1997,7 +2015,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds21/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds21",
-    "lunr_id": 115
+    "lunr_id": 116
   },
   {
     "pid": "cds210",
@@ -2013,7 +2031,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds210/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds210",
-    "lunr_id": 116
+    "lunr_id": 117
   },
   {
     "pid": "cds211",
@@ -2030,7 +2048,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds211/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds211",
-    "lunr_id": 117
+    "lunr_id": 118
   },
   {
     "pid": "cds212",
@@ -2048,7 +2066,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds212/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds212",
-    "lunr_id": 118
+    "lunr_id": 119
   },
   {
     "pid": "cds213",
@@ -2062,7 +2080,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds213/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds213",
-    "lunr_id": 119
+    "lunr_id": 120
   },
   {
     "pid": "cds214",
@@ -2079,7 +2097,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds214/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds214",
-    "lunr_id": 120
+    "lunr_id": 121
   },
   {
     "pid": "cds215",
@@ -2096,7 +2114,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds215/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds215",
-    "lunr_id": 121
+    "lunr_id": 122
   },
   {
     "pid": "cds216",
@@ -2112,7 +2130,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds216/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds216",
-    "lunr_id": 122
+    "lunr_id": 123
   },
   {
     "pid": "cds217",
@@ -2128,7 +2146,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds217/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds217",
-    "lunr_id": 123
+    "lunr_id": 124
   },
   {
     "pid": "cds218",
@@ -2145,7 +2163,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds218/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds218",
-    "lunr_id": 124
+    "lunr_id": 125
   },
   {
     "pid": "cds219",
@@ -2161,7 +2179,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds219/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds219",
-    "lunr_id": 125
+    "lunr_id": 126
   },
   {
     "pid": "cds22",
@@ -2178,7 +2196,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds22/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds22",
-    "lunr_id": 126
+    "lunr_id": 127
   },
   {
     "pid": "cds221",
@@ -2194,7 +2212,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds221/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds221",
-    "lunr_id": 127
+    "lunr_id": 128
   },
   {
     "pid": "cds222",
@@ -2204,13 +2222,13 @@ layout: none
     "claimed_genre_es": "blog",
     "creators": "Edwin Velázquez Collazo",
     "blurb_orig": "Proyecto Rural en Puerto Rico para la Investigación del Arte Afrodescendiente, Afropuertorriqueño, Afro Latinoamericano y de la Diáspora Africana",
-    "blurb_en": "Rural Project in Puerto Rico for the Research of Afro-descendant, Afro-Puerto Rican, Afro-Latin American and African Diaspora Art",
-    "blurb_es": "Proyecto Rural en Puerto Rico para la Investigación del Arte Afrodescendiente, Afropuertorriqueño, Afro Latinoamericano y de la Diáspora Africana",
+    "blurb_en": "Rural Project in Puerto Rico for the Research of Afro-descendant, Afro-Puerto Rican, Afro-Latin American and African Diaspora Art.",
+    "blurb_es": "Proyecto Rural en Puerto Rico para la Investigación del Arte Afrodescendiente, Afropuertorriqueño, Afro Latinoamericano y de la Diáspora Africana.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds222/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds222",
-    "lunr_id": 128
+    "lunr_id": 129
   },
   {
     "pid": "cds223",
@@ -2220,13 +2238,13 @@ layout: none
     "claimed_genre_es": "blog",
     "creators": "Edwin Velázquez Collazo",
     "blurb_orig": "Blogzine de Edwin Velázquez Collazo sobre las artes plásticas contemporáneas puertorriqueñas y su diáspora / Fundado 2014",
-    "blurb_en": "Blogzine by Edwin Velázquez Collazo on contemporary Puerto Rican plastic arts and its diaspora / Founded 2014",
-    "blurb_es": "Blogzine de Edwin Velázquez Collazo sobre las artes plásticas contemporáneas puertorriqueñas y su diáspora / Fundado 2014",
+    "blurb_en": "Blogzine by Edwin Velázquez Collazo on contemporary Puerto Rican plastic arts and its diaspora / Founded 2014.",
+    "blurb_es": "Blogzine de Edwin Velázquez Collazo sobre las artes plásticas contemporáneas puertorriqueñas y su diáspora / Fundado 2014.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds223/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds223",
-    "lunr_id": 129
+    "lunr_id": 130
   },
   {
     "pid": "cds224",
@@ -2234,13 +2252,13 @@ layout: none
     "genre": "Compendium",
     "claimed_genre": "site de promotion",
     "blurb_orig": "Site de promotion des cultures et des langues créoles",
-    "blurb_en": "Site for promoting Creole cultures and languages",
-    "blurb_es": "Sitio de promoción de las culturas y lenguas criollas",
+    "blurb_en": "Site for promoting Creole cultures and languages.",
+    "blurb_es": "Sitio de promoción de las culturas y lenguas criollas.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds224/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds224",
-    "lunr_id": 130
+    "lunr_id": 131
   },
   {
     "pid": "cds225",
@@ -2256,7 +2274,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds225/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds225",
-    "lunr_id": 131
+    "lunr_id": 132
   },
   {
     "pid": "cds226",
@@ -2274,7 +2292,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds226/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds226",
-    "lunr_id": 132
+    "lunr_id": 133
   },
   {
     "pid": "cds227",
@@ -2291,7 +2309,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds227/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds227",
-    "lunr_id": 133
+    "lunr_id": 134
   },
   {
     "pid": "cds228",
@@ -2308,7 +2326,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds228/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds228",
-    "lunr_id": 134
+    "lunr_id": 135
   },
   {
     "pid": "cds229",
@@ -2324,7 +2342,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds229/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds229",
-    "lunr_id": 135
+    "lunr_id": 136
   },
   {
     "pid": "cds230",
@@ -2339,7 +2357,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds230/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds230",
-    "lunr_id": 136
+    "lunr_id": 137
   },
   {
     "pid": "cds231",
@@ -2354,7 +2372,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds231/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds231",
-    "lunr_id": 137
+    "lunr_id": 138
   },
   {
     "pid": "cds232",
@@ -2369,7 +2387,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds232/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds232",
-    "lunr_id": 138
+    "lunr_id": 139
   },
   {
     "pid": "cds233",
@@ -2384,7 +2402,24 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds233/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds233",
-    "lunr_id": 139
+    "lunr_id": 140
+  },
+  {
+    "pid": "cds234",
+    "label": "La fiebre del banano",
+    "genre": "Thematic Curations",
+    "claimed_genre": "a virtual exhibition",
+    "claimed_genre_en": "a virtual exhibition",
+    "claimed_genre_es": "una exposición virtual",
+    "creators": "Juanita Solano Roa y Blanca Serrano Ortiz de Solórzano",
+    "blurb_orig": "Una exposición virtual sobre cómo el banano ha dado forma a las identidades, los ecosistemas y las violencias de América Latina.",
+    "blurb_en": "A virtual exhibition about how the banana has shaped identities, ecosystems and violence in Latin America.",
+    "blurb_es": "A virtual exhibition about how the banana has shaped identities, ecosystems and violence in Latin America.",
+    "collection": "caridischo",
+    "thumbnail": "/img/derivatives/simple/cds234/thumbnail.jpg",
+    "content": " ",
+    "permalink": "/caridischo/cds234",
+    "lunr_id": 141
   },
   {
     "pid": "cds24",
@@ -2402,7 +2437,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds24/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds24",
-    "lunr_id": 140
+    "lunr_id": 142
   },
   {
     "pid": "cds25",
@@ -2419,7 +2454,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds25/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds25",
-    "lunr_id": 141
+    "lunr_id": 143
   },
   {
     "pid": "cds26",
@@ -2436,7 +2471,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds26/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds26",
-    "lunr_id": 142
+    "lunr_id": 144
   },
   {
     "pid": "cds27",
@@ -2454,7 +2489,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds27/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds27",
-    "lunr_id": 143
+    "lunr_id": 145
   },
   {
     "pid": "cds28",
@@ -2472,7 +2507,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds28/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds28",
-    "lunr_id": 144
+    "lunr_id": 146
   },
   {
     "pid": "cds29",
@@ -2489,7 +2524,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds29/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds29",
-    "lunr_id": 145
+    "lunr_id": 147
   },
   {
     "pid": "cds3",
@@ -2506,7 +2541,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds3/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds3",
-    "lunr_id": 146
+    "lunr_id": 148
   },
   {
     "pid": "cds30",
@@ -2524,7 +2559,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds30/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds30",
-    "lunr_id": 147
+    "lunr_id": 149
   },
   {
     "pid": "cds31",
@@ -2542,7 +2577,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds31/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds31",
-    "lunr_id": 148
+    "lunr_id": 150
   },
   {
     "pid": "cds32",
@@ -2559,7 +2594,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds32/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds32",
-    "lunr_id": 149
+    "lunr_id": 151
   },
   {
     "pid": "cds33",
@@ -2576,7 +2611,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds33/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds33",
-    "lunr_id": 150
+    "lunr_id": 152
   },
   {
     "pid": "cds34",
@@ -2593,7 +2628,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds34/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds34",
-    "lunr_id": 151
+    "lunr_id": 153
   },
   {
     "pid": "cds35",
@@ -2604,13 +2639,13 @@ layout: none
     "claimed_genre_es": "un archivo digital",
     "creators": "Laura Lomas et al. ",
     "blurb_orig": "An online video archive of performances by Carmelita Tropicana",
-    "blurb_en": "An online video archive of performances by Carmelita Tropicana",
+    "blurb_en": "An online video archive of performances by Carmelita Tropicana.",
     "blurb_es": "Un archivo de video en línea de actuaciones de Carmelita Tropicana.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds35/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds35",
-    "lunr_id": 152
+    "lunr_id": 154
   },
   {
     "pid": "cds36",
@@ -2628,7 +2663,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds36/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds36",
-    "lunr_id": 153
+    "lunr_id": 155
   },
   {
     "pid": "cds37",
@@ -2646,7 +2681,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds37/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds37",
-    "lunr_id": 154
+    "lunr_id": 156
   },
   {
     "pid": "cds38",
@@ -2663,7 +2698,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds38/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds38",
-    "lunr_id": 155
+    "lunr_id": 157
   },
   {
     "pid": "cds39",
@@ -2680,7 +2715,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds39/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds39",
-    "lunr_id": 156
+    "lunr_id": 158
   },
   {
     "pid": "cds4",
@@ -2697,7 +2732,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds4/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds4",
-    "lunr_id": 157
+    "lunr_id": 159
   },
   {
     "pid": "cds40",
@@ -2709,13 +2744,13 @@ layout: none
     "creators": "Maya Anderson-González",
     "stewards": "Humanities Commons",
     "blurb_orig": "Gephi visualization of a network of hyperlinks between websites related to Afro-Cuba containing 1486 nodes and 1703 edges, with size indicating degree",
-    "blurb_en": "Gephi visualization of a network of hyperlinks between websites related to Afro-Cuba containing 1486 nodes and 1703 edges, with size indicating degree",
+    "blurb_en": "Gephi visualization of a network of hyperlinks between websites related to Afro-Cuba containing 1486 nodes and 1703 edges, with size indicating degree.",
     "blurb_es": "Visualización de Gephi de una red de hipervínculos entre sitios web relacionados con Afro-Cuba que contiene 1486 nodos y 1703 bordes, con grado de indicación de taya.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds40/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds40",
-    "lunr_id": 158
+    "lunr_id": 160
   },
   {
     "pid": "cds41",
@@ -2732,7 +2767,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds41/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds41",
-    "lunr_id": 159
+    "lunr_id": 161
   },
   {
     "pid": "cds42",
@@ -2750,7 +2785,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds42/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds42",
-    "lunr_id": 160
+    "lunr_id": 162
   },
   {
     "pid": "cds43",
@@ -2768,7 +2803,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds43/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds43",
-    "lunr_id": 161
+    "lunr_id": 163
   },
   {
     "pid": "cds44",
@@ -2785,7 +2820,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds44/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds44",
-    "lunr_id": 162
+    "lunr_id": 164
   },
   {
     "pid": "cds45",
@@ -2803,7 +2838,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds45/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds45",
-    "lunr_id": 163
+    "lunr_id": 165
   },
   {
     "pid": "cds46",
@@ -2821,7 +2856,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds46/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds46",
-    "lunr_id": 164
+    "lunr_id": 166
   },
   {
     "pid": "cds47",
@@ -2838,7 +2873,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds47/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds47",
-    "lunr_id": 165
+    "lunr_id": 167
   },
   {
     "pid": "cds48",
@@ -2856,7 +2891,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds48/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds48",
-    "lunr_id": 166
+    "lunr_id": 168
   },
   {
     "pid": "cds49",
@@ -2873,7 +2908,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds49/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds49",
-    "lunr_id": 167
+    "lunr_id": 169
   },
   {
     "pid": "cds5",
@@ -2890,7 +2925,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds5/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds5",
-    "lunr_id": 168
+    "lunr_id": 170
   },
   {
     "pid": "cds50",
@@ -2908,7 +2943,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds50/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds50",
-    "lunr_id": 169
+    "lunr_id": 171
   },
   {
     "pid": "cds51",
@@ -2926,7 +2961,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds51/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds51",
-    "lunr_id": 170
+    "lunr_id": 172
   },
   {
     "pid": "cds52",
@@ -2943,7 +2978,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds52/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds52",
-    "lunr_id": 171
+    "lunr_id": 173
   },
   {
     "pid": "cds54",
@@ -2960,7 +2995,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds54/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds54",
-    "lunr_id": 172
+    "lunr_id": 174
   },
   {
     "pid": "cds55",
@@ -2978,7 +3013,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds55/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds55",
-    "lunr_id": 173
+    "lunr_id": 175
   },
   {
     "pid": "cds56",
@@ -2996,7 +3031,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds56/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds56",
-    "lunr_id": 174
+    "lunr_id": 176
   },
   {
     "pid": "cds57",
@@ -3013,7 +3048,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds57/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds57",
-    "lunr_id": 175
+    "lunr_id": 177
   },
   {
     "pid": "cds58",
@@ -3030,7 +3065,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds58/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds58",
-    "lunr_id": 176
+    "lunr_id": 178
   },
   {
     "pid": "cds59",
@@ -3040,13 +3075,13 @@ layout: none
     "claimed_genre_en": "a collection",
     "claimed_genre_es": "una colección",
     "blurb_orig": "The Gay Freedom Movement in Jamaica (GFM) was formed in September 1977 as the first movement in the English Speaking Caribbean to seek rights for LGBT (Lesbian, Gay, Bisexual and Transgendered) people",
-    "blurb_en": "The Gay Freedom Movement in Jamaica (GFM) was formed in September 1977 as the first movement in the English Speaking Caribbean to seek rights for LGBT (Lesbian, Gay, Bisexual and Transgendered) people",
-    "blurb_es": "El movimiento de libertad gay en Jamaica (GFM) se formó en septiembre de 1977 como el primer movimiento en el Caribe de habla inglesa en defensa de los derechos de las personas LGBT (lesbianas, gays, bisexuales y transexuales)",
+    "blurb_en": "The Gay Freedom Movement in Jamaica (GFM) was formed in September 1977 as the first movement in the English Speaking Caribbean to seek rights for LGBT (Lesbian, Gay, Bisexual and Transgendered) people.",
+    "blurb_es": "El movimiento de libertad gay en Jamaica (GFM) se formó en septiembre de 1977 como el primer movimiento en el Caribe de habla inglesa en defensa de los derechos de las personas LGBT (lesbianas, gays, bisexuales y transexuales).",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds59/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds59",
-    "lunr_id": 177
+    "lunr_id": 179
   },
   {
     "pid": "cds6",
@@ -3063,7 +3098,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds6/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds6",
-    "lunr_id": 178
+    "lunr_id": 180
   },
   {
     "pid": "cds60",
@@ -3081,7 +3116,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds60/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds60",
-    "lunr_id": 179
+    "lunr_id": 181
   },
   {
     "pid": "cds61",
@@ -3098,7 +3133,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds61/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds61",
-    "lunr_id": 180
+    "lunr_id": 182
   },
   {
     "pid": "cds62",
@@ -3116,7 +3151,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds62/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds62",
-    "lunr_id": 181
+    "lunr_id": 183
   },
   {
     "pid": "cds63",
@@ -3132,7 +3167,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds63/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds63",
-    "lunr_id": 182
+    "lunr_id": 184
   },
   {
     "pid": "cds64",
@@ -3149,7 +3184,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds64/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds64",
-    "lunr_id": 183
+    "lunr_id": 185
   },
   {
     "pid": "cds65",
@@ -3167,7 +3202,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds65/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds65",
-    "lunr_id": 184
+    "lunr_id": 186
   },
   {
     "pid": "cds66",
@@ -3185,7 +3220,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds66/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds66",
-    "lunr_id": 185
+    "lunr_id": 187
   },
   {
     "pid": "cds67",
@@ -3202,7 +3237,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds67/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds67",
-    "lunr_id": 186
+    "lunr_id": 188
   },
   {
     "pid": "cds68",
@@ -3212,14 +3247,14 @@ layout: none
     "claimed_genre_en": "a timeline",
     "claimed_genre_es": "un cronograma",
     "stewards": "Nationaal Archief Curaçao",
-    "blurb_orig": "Experience the modern & ancient historic past events, people and governments of Curaçao",
-    "blurb_en": "Experience the modern & ancient historic past events, people and governments of Curaçao",
+    "blurb_orig": "Experience the modern & ancient historic past events, people and governments of Curaçao.",
+    "blurb_en": "Experience the modern & ancient historic past events, people and governments of Curaçao.",
     "blurb_es": "Viva los eventos ​​históricos, del mundo moderno o antiguo, las personas y gobiernos de Curaçao.",
     "collection": "caridischo",
     "thumbnail": "/img/derivatives/simple/cds68/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds68",
-    "lunr_id": 187
+    "lunr_id": 189
   },
   {
     "pid": "cds69",
@@ -3237,7 +3272,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds69/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds69",
-    "lunr_id": 188
+    "lunr_id": 190
   },
   {
     "pid": "cds7",
@@ -3255,7 +3290,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds7/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds7",
-    "lunr_id": 189
+    "lunr_id": 191
   },
   {
     "pid": "cds70",
@@ -3273,7 +3308,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds70/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds70",
-    "lunr_id": 190
+    "lunr_id": 192
   },
   {
     "pid": "cds71",
@@ -3290,7 +3325,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds71/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds71",
-    "lunr_id": 191
+    "lunr_id": 193
   },
   {
     "pid": "cds72",
@@ -3307,7 +3342,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds72/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds72",
-    "lunr_id": 192
+    "lunr_id": 194
   },
   {
     "pid": "cds73",
@@ -3325,7 +3360,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds73/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds73",
-    "lunr_id": 193
+    "lunr_id": 195
   },
   {
     "pid": "cds74",
@@ -3342,7 +3377,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds74/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds74",
-    "lunr_id": 194
+    "lunr_id": 196
   },
   {
     "pid": "cds75",
@@ -3359,7 +3394,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds75/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds75",
-    "lunr_id": 195
+    "lunr_id": 197
   },
   {
     "pid": "cds76",
@@ -3377,7 +3412,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds76/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds76",
-    "lunr_id": 196
+    "lunr_id": 198
   },
   {
     "pid": "cds77",
@@ -3394,7 +3429,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds77/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds77",
-    "lunr_id": 197
+    "lunr_id": 199
   },
   {
     "pid": "cds78",
@@ -3411,7 +3446,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds78/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds78",
-    "lunr_id": 198
+    "lunr_id": 200
   },
   {
     "pid": "cds79",
@@ -3427,7 +3462,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds79/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds79",
-    "lunr_id": 199
+    "lunr_id": 201
   },
   {
     "pid": "cds8",
@@ -3444,7 +3479,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds8/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds8",
-    "lunr_id": 200
+    "lunr_id": 202
   },
   {
     "pid": "cds81",
@@ -3461,7 +3496,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds81/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds81",
-    "lunr_id": 201
+    "lunr_id": 203
   },
   {
     "pid": "cds82",
@@ -3479,7 +3514,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds82/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds82",
-    "lunr_id": 202
+    "lunr_id": 204
   },
   {
     "pid": "cds83",
@@ -3496,7 +3531,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds83/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds83",
-    "lunr_id": 203
+    "lunr_id": 205
   },
   {
     "pid": "cds84",
@@ -3513,7 +3548,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds84/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds84",
-    "lunr_id": 204
+    "lunr_id": 206
   },
   {
     "pid": "cds85",
@@ -3531,7 +3566,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds85/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds85",
-    "lunr_id": 205
+    "lunr_id": 207
   },
   {
     "pid": "cds86",
@@ -3549,7 +3584,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds86/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds86",
-    "lunr_id": 206
+    "lunr_id": 208
   },
   {
     "pid": "cds87",
@@ -3567,7 +3602,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds87/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds87",
-    "lunr_id": 207
+    "lunr_id": 209
   },
   {
     "pid": "cds88",
@@ -3585,7 +3620,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds88/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds88",
-    "lunr_id": 208
+    "lunr_id": 210
   },
   {
     "pid": "cds89",
@@ -3603,7 +3638,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds89/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds89",
-    "lunr_id": 209
+    "lunr_id": 211
   },
   {
     "pid": "cds9",
@@ -3619,7 +3654,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds9/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds9",
-    "lunr_id": 210
+    "lunr_id": 212
   },
   {
     "pid": "cds90",
@@ -3637,7 +3672,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds90/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds90",
-    "lunr_id": 211
+    "lunr_id": 213
   },
   {
     "pid": "cds92",
@@ -3655,7 +3690,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds92/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds92",
-    "lunr_id": 212
+    "lunr_id": 214
   },
   {
     "pid": "cds93",
@@ -3673,7 +3708,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds93/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds93",
-    "lunr_id": 213
+    "lunr_id": 215
   },
   {
     "pid": "cds94",
@@ -3690,7 +3725,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds94/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds94",
-    "lunr_id": 214
+    "lunr_id": 216
   },
   {
     "pid": "cds96",
@@ -3708,7 +3743,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds96/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds96",
-    "lunr_id": 215
+    "lunr_id": 217
   },
   {
     "pid": "cds97",
@@ -3726,7 +3761,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds97/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds97",
-    "lunr_id": 216
+    "lunr_id": 218
   },
   {
     "pid": "cds98",
@@ -3743,7 +3778,7 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds98/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds98",
-    "lunr_id": 217
+    "lunr_id": 219
   },
   {
     "pid": "cds99",
@@ -3761,6 +3796,6 @@ layout: none
     "thumbnail": "/img/derivatives/simple/cds99/thumbnail.jpg",
     "content": " ",
     "permalink": "/caridischo/cds99",
-    "lunr_id": 218
+    "lunr_id": 220
   }
 ]

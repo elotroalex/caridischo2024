@@ -18,7 +18,7 @@ blurb_en: Collaborative encyclopedia on the Cuban network, in Spanish, born from
 blurb_es: Enciclopedia colaborativa en la red cubana, en español, nacida de la voluntad
   para crear y difundir el conocimiento, con todos y para todos.
 census_year: '2020'
-order: '176'
+order: '178'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds58/thumbnail.jpg"

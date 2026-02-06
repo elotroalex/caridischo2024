@@ -27,7 +27,7 @@ blurb_es: Contrapuntos Cubanos fue la cara pública de EthnoCuba, una red/grupo 
   históricas aún disponibles, pero dejó de publicar contenido nuevo en 2017.
 added_by: Ariana Hernandez-Reguant
 census_year: '2020'
-order: '163'
+order: '165'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds45/thumbnail.jpg"

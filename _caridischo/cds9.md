@@ -22,7 +22,7 @@ blurb_es: La colección &quot;Antologías del Pensamiento Social Latinoamericano
   de algunos de los más destacados autores de las ciencias sociales de América Latina
   y el Caribe.
 census_year: '2020'
-order: '210'
+order: '212'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds9/thumbnail.jpg"

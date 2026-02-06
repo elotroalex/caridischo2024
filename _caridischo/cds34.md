@@ -22,9 +22,8 @@ blurb_es: El proyecto de memoria del Caribe promueve la conciencia pública y la
   en la recolección y circulación de los archivos cotidianos para la investigación
   cultural, social e histórica.
 added_by: Kaiama L. Glover
-twitter: "@inthewhirld"
 census_year: '2020'
-order: '151'
+order: '153'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds34/thumbnail.jpg"

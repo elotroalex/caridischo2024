@@ -22,7 +22,7 @@ blurb_es: El Instituto George Padmore es un archivo, recurso educativo y de inve
   relacionados con la comunidad negra del Caribe, y la descendencia africana y asiática
   en Gran Bretaña y Europa continental.
 census_year: '2020'
-order: '197'
+order: '199'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds77/thumbnail.jpg"

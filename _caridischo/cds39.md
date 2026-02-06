@@ -19,9 +19,8 @@ blurb_en: The Dark Laboratory is an engine for collaboration, design, and study 
 blurb_es: El laboratorio oscuro es un motor de colaboración, diseño y estudio de ecologías
   negras e indígenas a través de la tecnología creativa.
 added_by: Tao Leigh Goffe
-twitter: "@taoleighgoffe"
 census_year: '2020'
-order: '156'
+order: '158'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds39/thumbnail.jpg"

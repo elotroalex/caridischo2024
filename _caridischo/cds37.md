@@ -40,9 +40,8 @@ blurb_es: La *Caribbean Review of Gender Studies* (Revista caribeña de estudios
   las redes y mejoran la comprensión global y el alcance de la teoría feminista y
   la praxis del Caribe.
 added_by: Alex Gil
-twitter: "@elotroalex"
 census_year: '2020'
-order: '154'
+order: '156'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds37/thumbnail.jpg"

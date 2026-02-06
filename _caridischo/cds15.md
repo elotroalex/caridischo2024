@@ -25,7 +25,7 @@ blurb_es: 'La arquitectura de la necesidad es un concepto con una doble función
   una arquitectura de urgencia y precariedad. Su segunda y más importante función
   es metafórica: enuncia una arquitectura que es su propio diagrama.'
 census_year: '2020'
-order: '051'
+order: '052'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds15/thumbnail.jpg"

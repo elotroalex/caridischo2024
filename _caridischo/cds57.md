@@ -40,9 +40,8 @@ blurb_es: En 2012, Hampshire College, bajo la coordinación de la profesora Jacq
   Habana tomadas en 1980 por personal del Instituto Cubano de Geodesia y Cartografía
   según especificaciones del Dr. Eusebio Leal, Director de la Oficina del Historiador.
 added_by: 'Arturo Victoriano '
-twitter: "@ArturoVictoria4"
 census_year: '2020'
-order: '175'
+order: '177'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds57/thumbnail.jpg"

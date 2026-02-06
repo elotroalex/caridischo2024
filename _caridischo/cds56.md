@@ -26,9 +26,8 @@ blurb_es: 'Diasporas del caribe: panorama de prácticas de carnival es una inici
   revitalizar, reusar y recuperar fuentes primarias y secundarias, así como los artefactos,
   relacionados con las prácticas del carnaval y la movilidad en el caribe.'
 added_by: Roopika Risam
-twitter: "@roopikarisam"
 census_year: '2020'
-order: '174'
+order: '176'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds56/thumbnail.jpg"

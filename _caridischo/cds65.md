@@ -27,9 +27,8 @@ blurb_es: El &quot;Early Caribbean Digital Archive&quot; (Archivo Digital del Ca
   historias naturales y diarios que no se han reunido antes en una sola colección
   centrada en el Caribe.
 added_by: Kaiama L. Glover
-twitter: "@inthewhirld"
 census_year: '2020'
-order: '184'
+order: '186'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds65/thumbnail.jpg"

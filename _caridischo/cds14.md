@@ -14,9 +14,8 @@ blurb_orig: Reflections on the political messaging of the revolution to Cubans.
 blurb_en: Reflections on the political messaging of the revolution to Cubans.
 blurb_es: Reflexiones sobre la mensajería política de la revolución a los cubanos.
 added_by: Roopika Risam
-twitter: "@roopikarisam"
 census_year: '2020'
-order: '040'
+order: '041'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds14/thumbnail.jpg"

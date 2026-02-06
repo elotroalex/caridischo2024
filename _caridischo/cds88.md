@@ -51,9 +51,8 @@ blurb_es: Desarrollado por el historiador Laurent Dubois, la candidata a PhD en 
   probablemente sobrevivientes del Pasaje del Medio, y junto a ellos, música que habían
   aprendido en sus países de origen.
 added_by: Alex Gil
-twitter: "@elotroalex"
 census_year: '2020'
-order: '208'
+order: '210'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds88/thumbnail.jpg"

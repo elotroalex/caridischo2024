@@ -13,13 +13,13 @@ status: Stable
 language: English
 stewards: Nationaal Archief Curaçao
 blurb_orig: Experience the modern & ancient historic past events, people and governments
-  of Curaçao
+  of Curaçao.
 blurb_en: Experience the modern & ancient historic past events, people and governments
-  of Curaçao
+  of Curaçao.
 blurb_es: Viva los eventos ​​históricos, del mundo moderno o antiguo, las personas
   y gobiernos de Curaçao.
 census_year: '2020'
-order: '187'
+order: '189'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds68/thumbnail.jpg"

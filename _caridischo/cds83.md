@@ -19,9 +19,8 @@ blurb_en: This website seeks to encourage the discussion about Haiti’s foundin
 blurb_es: Este sitio web busca fomentar la discusión sobre los documentos fundadores
   de Haití y sus influencias en el Atlántico más amplio.
 added_by: Alex Gil
-twitter: "@elotroalex"
 census_year: '2020'
-order: '203'
+order: '205'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds83/thumbnail.jpg"

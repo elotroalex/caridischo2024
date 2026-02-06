@@ -33,9 +33,8 @@ blurb_es: "&quot;Imagined Homeland&quot; (Patria Imaginada, las geografías lite
   isla y explorar los contextos sociopolíticos significativos que influyeron en la
   literatura sobre la dinámica geografía física y social de Dominica."
 added_by: Schuyler Esprit
-twitter: "@schuyleresprit"
 census_year: '2020'
-order: '215'
+order: '217'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds96/thumbnail.jpg"

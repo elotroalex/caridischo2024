@@ -20,9 +20,8 @@ blurb_en: What can we learn from Guantánamos past? What should we remember abou
 blurb_es: "¿Qué podemos aprender del pasado de Guantánamo? ¿Qué debemos recordar lo
   que está sucediendo ahora? Escucha de los que estaban allí."
 added_by: Roopika Risam
-twitter: "@roopikarisam"
 census_year: '2020'
-order: '205'
+order: '207'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds85/thumbnail.jpg"

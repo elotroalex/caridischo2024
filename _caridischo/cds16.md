@@ -19,9 +19,8 @@ blurb_en: Bibliography developed during the public workshops for the &quot;Barba
 blurb_es: Bibliografía desarrollada durante los talleres públicos para la colección
   de &quot;Barbados fugitivos&quot;.
 added_by: Amalia S. Levi
-twitter: "@amaliasl"
 census_year: '2020'
-order: '061'
+order: '062'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds16/thumbnail.jpg"

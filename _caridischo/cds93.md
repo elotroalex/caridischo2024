@@ -21,9 +21,8 @@ blurb_es: El país cimarrón es un recurso educativo multimedia centrado en la h
   de los cimarrones, las comunidades negras independientes y resistentes de la era
   de esclavitud caribeña.
 added_by: Schuyler Esprit
-twitter: "@schuyleresprit"
 census_year: '2020'
-order: '213'
+order: '215'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds93/thumbnail.jpg"

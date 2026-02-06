@@ -23,9 +23,8 @@ blurb_es: Esta es una edición de acceso abierto de la colección de poemas de *
   de documentos relacionados con *Harlem Shadows* y ponerlos a disposición de los
   estudiantes y lectores de McKay.
 added_by: Roopika Risam
-twitter: "@roopikarisam"
 census_year: '2020'
-order: '186'
+order: '188'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds67/thumbnail.jpg"

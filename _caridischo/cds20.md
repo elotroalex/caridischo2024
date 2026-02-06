@@ -20,9 +20,8 @@ blurb_en: This timemap locates the main cholera outbreaks in the Caribbean in th
 blurb_es: Este cronograma localiza los brotes de cólera principales en el Caribe en
   el siglo XIX, citando las fuentes periodísticas en el momento de cada brote.
 added_by: Roopika Risam
-twitter: "@roopikarisam"
 census_year: '2020'
-order: '104'
+order: '105'
 layout: caridischo_item
 collection: caridischo
 thumbnail: "/img/derivatives/simple/cds20/thumbnail.jpg"
