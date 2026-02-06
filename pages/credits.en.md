@@ -23,6 +23,10 @@ This year's cake is shared between **Kelly Baker Josephs** with 8 new entries, a
 
 **René Kooiker** wins this round by far. He was responsible for revising all pre-existing entries, checking links and adding new projects. **Alex Gil** did a forward migration of the site to Wax Facets from the original Wax site, and provided several new entries. Special shoutout to Elizabeth McAlister for adding "Espàs Milokan" to the directory.
 
+#### 2026
+
+**Anaridia R. Molina** wins this round by far. She was responsible for revising all pre-existing entries, checking links and adding new projects. **Alex Gil** helped reconcile some of the data that we had trouble with.
+
 ### The Site
 
 The site for the directory was built by Alex Gil using a curated and refined version of the data on our data sheet in 2020. In 2021, Alex added multilingual capacity to the site. In 2024, Alex added faceted browsing to the site. In 2024, the site was updated with new faceted browsing categories, a new design, and new sections.

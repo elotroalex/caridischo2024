@@ -23,6 +23,10 @@ El galardón de este año se lo lleva **Kelly Baker Josephs** con 8 entradas nue
 
 **René Kooiker** gana esta ronda por mucho. Fué responsable de revisar todas las entradas preexistentes, comprobó los enlaces y agregó nuevos proyectos. **Alex Gil** realizó una migración directa del sitio a Wax Facets desde el sitio original de Wax y proporcionó varias entradas nuevas. Un agradecimiento especial a Elizabeth McAlister por agregar "Espàs Milokan" al directorio.
 
+#### 2026
+
+**Anaridia R. Molina** gana esta ronda por mucho. Fué responsable de revisar todas las entradas preexistentes, comprobó los enlaces y agregó nuevos proyectos. **Alex Gil** ayudó a reconciliar algunos de los datos con los que tuvimos problemas.
+
 ### El sitio web
 
 El sitio web fue creado por Alex Gil en 2020 usando una versión curada y refinada de los datos en nuestra hoja de datos. En 2021, Alex le agregó navegación por facetas y capacidad multilingüe al sitio. En 2024, el sitio fue actualizado con navegación por facetas nuevas, un nuevo diseño y nuevas secciones.

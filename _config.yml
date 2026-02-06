@@ -3,13 +3,13 @@
 # ---------------------------------------------------------------
 
 title: CariDiScho
-subtitle: 2024
+subtitle: 2026
 author:
   name: Alex Gil
   email: alex.gil@yale.edu
 description: A Directory of Caribbean Digital Scholarship.
 baseurl: "/caridischo"
-year: "2024"
+year: "2026"
 
 permalink: /:collection/:title/
 
